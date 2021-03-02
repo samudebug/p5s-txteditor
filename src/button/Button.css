@@ -1,0 +1,27 @@
+.rnd-btn {
+    background-color: #282c34;
+    border: solid 5px rgba(245, 245, 245, 0.5);
+    color: rgba(245, 245, 245, 0.5);
+
+    height: 100px;
+    width: 100px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    border-radius: 50%;
+    
+}
+
+.rnd-btn:hover {
+    border: solid 5px rgba(245, 245, 245, 0.8);
+    color: rgba(245, 245, 245, 0.8);
+    cursor: pointer;
+
+}
+
+.icon-btn {
+    font-size: 30px;
+}
+
