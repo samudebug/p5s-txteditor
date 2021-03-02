@@ -2,7 +2,7 @@ const fs = require("fs");
 const fsPromises = require("fs/promises");
 const jsPack = require("jspack");
 
-async function main() {
+async function readFile() {
     const resultJson = {
         bSize: 0,
         bCount: 0,
@@ -87,4 +87,4 @@ async function main() {
 }
 
 
-main();
+module.exports = readFile;
