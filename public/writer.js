@@ -21,9 +21,28 @@ async function writeFile(filePath, jsonData) {
                 stringOffset += parsedString.length;
             }
         }
-        
+        ptrfmt = `<${Math.floor(jsonData.bSize/4)}I`;
+    } else {
+        if (jsonData.data[0].bustupMajor !== undefined) {
+            for (let i = 0; i<jsonData.bCount; i++) {
+                const currentData = jsonData.data[i];
+                const ptr = [];
+                const strBuffer = Buffer.from(currentData.text.replace("[0a]", "\x0a").replace("[1b]", "\x1b") + "\0", "utf-8")
+                ptr.push(stringOffset);
+                stringOffset += strBuffer.length;
+                strs[i] = strBuffer;
+                ptr.push(currentData.msgIndex);
+                ptr.push(currentData.bustupMajor === -1 ? 65535 : currentData.bustupMajor);
+                ptr.push(currentData.bustupMinor === -1 ? 65535 : currentData.bustupMinor);
+                ptr.push(currentData.unknown === -1 ? 65535 : currentData.unknown);
+                ptr.push(currentData.voiceIndex === -1 ? 65535 : currentData.voiceIndex)
+                ptr.push(currentData.isNextChoice ? 1 : 0);
+                ptrs.push(ptr);
+            }
+        }
+        ptrfmt = `<I${Math.floor((jsonData.bSize - 4) / 2)}H`
     }
-    ptrfmt = `<${Math.floor(jsonData.bSize/4)}I`;
+    
     const outputFile = await fsPromises.open(filePath, "w");
     const startBuffer = Buffer.from(jsPack.jspack.Pack("<3I", [MAGIC, jsonData.bCount, jsonData.bSize]))
     await outputFile.write(startBuffer, 0, startBuffer.length, 0);
@@ -40,4 +59,6 @@ async function writeFile(filePath, jsonData) {
     }
     outputFile.close();
 }
+
+
 module.exports =  writeFile;

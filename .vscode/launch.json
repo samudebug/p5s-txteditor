@@ -10,7 +10,7 @@
             "request": "launch",
             "program": "${file}",
             "console": "integratedTerminal",
-            "args": ["pack", ".\\CAllSpeechTalkTextData[0].tfd.txt", ".\\CAllSpeechTalkTextData[0].tfd"]
+            "args": ["pack", ".\\Alice_007_Velvet.evd.txt", ".\\Alice_007_Velvet.evd"]
         }
     ]
 }

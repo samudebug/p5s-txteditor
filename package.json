@@ -26,7 +26,8 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-    "publish": "npm run build && electron-builder"
+    "publish": "npm run build && electron-builder",
+    "dev": "concurrently \"npm run start\" \"npm run electron-start\""
   },
   "eslintConfig": {
     "extends": [

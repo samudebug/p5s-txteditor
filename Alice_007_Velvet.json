@@ -1,0 +1,2708 @@
+{
+    "fileName": "Alice_007_Velvet.evd",
+    "bSize": 16,
+    "bCount": 300,
+    "isGrouped": false,
+    "data": [
+        {
+            "msgIndex": 0,
+            "text": "......",
+            "bustupMajor": 83,
+            "bustupMinor": 3,
+            "unknown": -1,
+            "voiceIndex": 180,
+            "isNextChoice": false
+        },
+        {
+            "msgIndex": 1,
+            "text": "I know not whether to rejoice or bemoan this[0a]reunion... Regardless, I must perform my duty.",
+            "bustupMajor": 83,
+            "bustupMinor": 3,
+            "unknown": -1,
+            "voiceIndex": 181,
+            "isNextChoice": false
+        },
+        {
+            "msgIndex": 2,
+            "text": "...This place exists between dream and reality,[0a]mind and matter.",
+            "bustupMajor": 83,
+            "bustupMinor": 0,
+            "unknown": -1,
+            "voiceIndex": 182,
+            "isNextChoice": false
+        },
+        {
+            "msgIndex": 3,
+            "text": "It is a room that only those who are bound by[0a]a contract may enter.",
+            "bustupMajor": 83,
+            "bustupMinor": 0,
+            "unknown": -1,
+            "voiceIndex": 183,
+            "isNextChoice": false
+        },
+        {
+            "msgIndex": 4,
+            "text": "The expression you bear now tells me you[0a]already know the reason for your summons.",
+            "bustupMajor": 83,
+            "bustupMinor": 0,
+            "unknown": -1,
+            "voiceIndex": 184,
+            "isNextChoice": false
+        },
+        {
+            "msgIndex": 5,
+            "text": "I must warn you of the danger threatening to[0a]consume both yourself and the entire world\nwhose heart you strove so greatly to change.",
+            "bustupMajor": 83,
+            "bustupMinor": 0,
+            "unknown": -1,
+            "voiceIndex": 185,
+            "isNextChoice": false
+        },
+        {
+            "msgIndex": 6,
+            "text": "A most loathsome prison has manifested...[0a]Your appearance is ironclad evidence of this.",
+            "bustupMajor": 83,
+            "bustupMinor": 0,
+            "unknown": -1,
+            "voiceIndex": 186,
+            "isNextChoice": false
+        },
+        {
+            "msgIndex": 7,
+            "text": "You have become a \"prisoner of fate\" yet again.",
+            "bustupMajor": 83,
+            "bustupMinor": 3,
+            "unknown": -1,
+            "voiceIndex": 187,
+            "isNextChoice": true
+        },
+        {
+            "msgIndex": 8,
+            "text": "What do you mean?",
+            "bustupMajor": 95,
+            "bustupMinor": -1,
+            "unknown": -1,
+            "voiceIndex": -1,
+            "isNextChoice": false
+        },
+        {
+            "msgIndex": 9,
+            "text": "Can't say I recall that...",
+            "bustupMajor": 95,
+            "bustupMinor": -1,
+            "unknown": -1,
+            "voiceIndex": -1,
+            "isNextChoice": false
+        },
+        {
+            "msgIndex": 10,
+            "text": "That is understandable. This is something only[0a]felt in the depths of one's heart.",
+            "bustupMajor": 83,
+            "bustupMinor": 3,
+            "unknown": -1,
+            "voiceIndex": 188,
+            "isNextChoice": false
+        },
+        {
+            "msgIndex": 11,
+            "text": "Someone, even now, plots to lure you into[0a]a disastrous fate.",
+            "bustupMajor": 83,
+            "bustupMinor": 2,
+            "unknown": -1,
+            "voiceIndex": 189,
+            "isNextChoice": false
+        },
+        {
+            "msgIndex": 12,
+            "text": "Confronted by this evil will, your own cries out:",
+            "bustupMajor": 83,
+            "bustupMinor": 2,
+            "unknown": -1,
+            "voiceIndex": 190,
+            "isNextChoice": false
+        },
+        {
+            "msgIndex": 13,
+            "text": "\"Rise against it.\"",
+            "bustupMajor": 83,
+            "bustupMinor": 2,
+            "unknown": -1,
+            "voiceIndex": 191,
+            "isNextChoice": false
+        },
+        {
+            "msgIndex": 14,
+            "text": "My name is Lavenza.",
+            "bustupMajor": 83,
+            "bustupMinor": 0,
+            "unknown": -1,
+            "voiceIndex": 192,
+            "isNextChoice": false
+        },
+        {
+            "msgIndex": 15,
+            "text": "As one who rules over power, my duty is to[0a]witness the path you take.",
+            "bustupMajor": 83,
+            "bustupMinor": 0,
+            "unknown": -1,
+            "voiceIndex": 193,
+            "isNextChoice": false
+        },
+        {
+            "msgIndex": 16,
+            "text": "Should the world continue down its own[0a]current path, all that awaits you is destruction.",
+            "bustupMajor": 83,
+            "bustupMinor": 3,
+            "unknown": -1,
+            "voiceIndex": 194,
+            "isNextChoice": false
+        },
+        {
+            "msgIndex": 17,
+            "text": "Have you the resolve to defy such a fate and[0a]face the distortion that yet again threatens\nyour world?",
+            "bustupMajor": 83,
+            "bustupMinor": 0,
+            "unknown": -1,
+            "voiceIndex": 195,
+            "isNextChoice": true
+        },
+        {
+            "msgIndex": 18,
+            "text": "You know it.",
+            "bustupMajor": 95,
+            "bustupMinor": -1,
+            "unknown": -1,
+            "voiceIndex": -1,
+            "isNextChoice": false
+        },
+        {
+            "msgIndex": 19,
+            "text": "I'm not so sure just yet...",
+            "bustupMajor": 95,
+            "bustupMinor": -1,
+            "unknown": -1,
+            "voiceIndex": -1,
+            "isNextChoice": false
+        },
+        {
+            "msgIndex": 20,
+            "text": "That is the Trickster I know so well.",
+            "bustupMajor": 83,
+            "bustupMinor": 1,
+            "unknown": -1,
+            "voiceIndex": 196,
+            "isNextChoice": false
+        },
+        {
+            "msgIndex": 21,
+            "text": "The time for you to become certain is[0a]drawing nigh.",
+            "bustupMajor": 83,
+            "bustupMinor": 0,
+            "unknown": -1,
+            "voiceIndex": 197,
+            "isNextChoice": false
+        },
+        {
+            "msgIndex": 22,
+            "text": "What awaits you ahead are more of the same—[0a]no, even greater hardships than before.",
+            "bustupMajor": 83,
+            "bustupMinor": 0,
+            "unknown": -1,
+            "voiceIndex": 198,
+            "isNextChoice": false
+        },
+        {
+            "msgIndex": 23,
+            "text": "However...",
+            "bustupMajor": 83,
+            "bustupMinor": 0,
+            "unknown": -1,
+            "voiceIndex": 199,
+            "isNextChoice": false
+        },
+        {
+            "msgIndex": 24,
+            "text": "You must never forget: I am always by your side.",
+            "bustupMajor": 83,
+            "bustupMinor": 1,
+            "unknown": -1,
+            "voiceIndex": 200,
+            "isNextChoice": false
+        },
+        {
+            "msgIndex": 25,
+            "text": "The time has come...",
+            "bustupMajor": 83,
+            "bustupMinor": 0,
+            "unknown": -1,
+            "voiceIndex": 201,
+            "isNextChoice": false
+        },
+        {
+            "msgIndex": 26,
+            "text": "Let us meet again soon. Until then...[0a]pleasant dreams.",
+            "bustupMajor": 83,
+            "bustupMinor": 0,
+            "unknown": -1,
+            "voiceIndex": 202,
+            "isNextChoice": false
+        },
+        {
+            "msgIndex": 27,
+            "text": "未作成テキスト",
+            "bustupMajor": -1,
+            "bustupMinor": -1,
+            "unknown": -1,
+            "voiceIndex": -1,
+            "isNextChoice": false
+        },
+        {
+            "msgIndex": 28,
+            "text": "未作成テキスト",
+            "bustupMajor": -1,
+            "bustupMinor": -1,
+            "unknown": -1,
+            "voiceIndex": -1,
+            "isNextChoice": false
+        },
+        {
+            "msgIndex": 29,
+            "text": "未作成テキスト",
+            "bustupMajor": -1,
+            "bustupMinor": -1,
+            "unknown": -1,
+            "voiceIndex": -1,
+            "isNextChoice": false
+        },
+        {
+            "msgIndex": 30,
+            "text": "未作成テキスト",
+            "bustupMajor": -1,
+            "bustupMinor": -1,
+            "unknown": -1,
+            "voiceIndex": -1,
+            "isNextChoice": false
+        },
+        {
+            "msgIndex": 31,
+            "text": "未作成テキスト",
+            "bustupMajor": -1,
+            "bustupMinor": -1,
+            "unknown": -1,
+            "voiceIndex": -1,
+            "isNextChoice": false
+        },
+        {
+            "msgIndex": 32,
+            "text": "未作成テキスト",
+            "bustupMajor": -1,
+            "bustupMinor": -1,
+            "unknown": -1,
+            "voiceIndex": -1,
+            "isNextChoice": false
+        },
+        {
+            "msgIndex": 33,
+            "text": "未作成テキスト",
+            "bustupMajor": -1,
+            "bustupMinor": -1,
+            "unknown": -1,
+            "voiceIndex": -1,
+            "isNextChoice": false
+        },
+        {
+            "msgIndex": 34,
+            "text": "未作成テキスト",
+            "bustupMajor": -1,
+            "bustupMinor": -1,
+            "unknown": -1,
+            "voiceIndex": -1,
+            "isNextChoice": false
+        },
+        {
+            "msgIndex": 35,
+            "text": "未作成テキスト",
+            "bustupMajor": -1,
+            "bustupMinor": -1,
+            "unknown": -1,
+            "voiceIndex": -1,
+            "isNextChoice": false
+        },
+        {
+            "msgIndex": 36,
+            "text": "未作成テキスト",
+            "bustupMajor": -1,
+            "bustupMinor": -1,
+            "unknown": -1,
+            "voiceIndex": -1,
+            "isNextChoice": false
+        },
+        {
+            "msgIndex": 37,
+            "text": "未作成テキスト",
+            "bustupMajor": -1,
+            "bustupMinor": -1,
+            "unknown": -1,
+            "voiceIndex": -1,
+            "isNextChoice": false
+        },
+        {
+            "msgIndex": 38,
+            "text": "未作成テキスト",
+            "bustupMajor": -1,
+            "bustupMinor": -1,
+            "unknown": -1,
+            "voiceIndex": -1,
+            "isNextChoice": false
+        },
+        {
+            "msgIndex": 39,
+            "text": "未作成テキスト",
+            "bustupMajor": -1,
+            "bustupMinor": -1,
+            "unknown": -1,
+            "voiceIndex": -1,
+            "isNextChoice": false
+        },
+        {
+            "msgIndex": 40,
+            "text": "未作成テキスト",
+            "bustupMajor": -1,
+            "bustupMinor": -1,
+            "unknown": -1,
+            "voiceIndex": -1,
+            "isNextChoice": false
+        },
+        {
+            "msgIndex": 41,
+            "text": "未作成テキスト",
+            "bustupMajor": -1,
+            "bustupMinor": -1,
+            "unknown": -1,
+            "voiceIndex": -1,
+            "isNextChoice": false
+        },
+        {
+            "msgIndex": 42,
+            "text": "未作成テキスト",
+            "bustupMajor": -1,
+            "bustupMinor": -1,
+            "unknown": -1,
+            "voiceIndex": -1,
+            "isNextChoice": false
+        },
+        {
+            "msgIndex": 43,
+            "text": "未作成テキスト",
+            "bustupMajor": -1,
+            "bustupMinor": -1,
+            "unknown": -1,
+            "voiceIndex": -1,
+            "isNextChoice": false
+        },
+        {
+            "msgIndex": 44,
+            "text": "未作成テキスト",
+            "bustupMajor": -1,
+            "bustupMinor": -1,
+            "unknown": -1,
+            "voiceIndex": -1,
+            "isNextChoice": false
+        },
+        {
+            "msgIndex": 45,
+            "text": "未作成テキスト",
+            "bustupMajor": -1,
+            "bustupMinor": -1,
+            "unknown": -1,
+            "voiceIndex": -1,
+            "isNextChoice": false
+        },
+        {
+            "msgIndex": 46,
+            "text": "未作成テキスト",
+            "bustupMajor": -1,
+            "bustupMinor": -1,
+            "unknown": -1,
+            "voiceIndex": -1,
+            "isNextChoice": false
+        },
+        {
+            "msgIndex": 47,
+            "text": "未作成テキスト",
+            "bustupMajor": -1,
+            "bustupMinor": -1,
+            "unknown": -1,
+            "voiceIndex": -1,
+            "isNextChoice": false
+        },
+        {
+            "msgIndex": 48,
+            "text": "未作成テキスト",
+            "bustupMajor": -1,
+            "bustupMinor": -1,
+            "unknown": -1,
+            "voiceIndex": -1,
+            "isNextChoice": false
+        },
+        {
+            "msgIndex": 49,
+            "text": "未作成テキスト",
+            "bustupMajor": -1,
+            "bustupMinor": -1,
+            "unknown": -1,
+            "voiceIndex": -1,
+            "isNextChoice": false
+        },
+        {
+            "msgIndex": 50,
+            "text": "未作成テキスト",
+            "bustupMajor": -1,
+            "bustupMinor": -1,
+            "unknown": -1,
+            "voiceIndex": -1,
+            "isNextChoice": false
+        },
+        {
+            "msgIndex": 51,
+            "text": "未作成テキスト",
+            "bustupMajor": -1,
+            "bustupMinor": -1,
+            "unknown": -1,
+            "voiceIndex": -1,
+            "isNextChoice": false
+        },
+        {
+            "msgIndex": 52,
+            "text": "未作成テキスト",
+            "bustupMajor": -1,
+            "bustupMinor": -1,
+            "unknown": -1,
+            "voiceIndex": -1,
+            "isNextChoice": false
+        },
+        {
+            "msgIndex": 53,
+            "text": "未作成テキスト",
+            "bustupMajor": -1,
+            "bustupMinor": -1,
+            "unknown": -1,
+            "voiceIndex": -1,
+            "isNextChoice": false
+        },
+        {
+            "msgIndex": 54,
+            "text": "未作成テキスト",
+            "bustupMajor": -1,
+            "bustupMinor": -1,
+            "unknown": -1,
+            "voiceIndex": -1,
+            "isNextChoice": false
+        },
+        {
+            "msgIndex": 55,
+            "text": "未作成テキスト",
+            "bustupMajor": -1,
+            "bustupMinor": -1,
+            "unknown": -1,
+            "voiceIndex": -1,
+            "isNextChoice": false
+        },
+        {
+            "msgIndex": 56,
+            "text": "未作成テキスト",
+            "bustupMajor": -1,
+            "bustupMinor": -1,
+            "unknown": -1,
+            "voiceIndex": -1,
+            "isNextChoice": false
+        },
+        {
+            "msgIndex": 57,
+            "text": "未作成テキスト",
+            "bustupMajor": -1,
+            "bustupMinor": -1,
+            "unknown": -1,
+            "voiceIndex": -1,
+            "isNextChoice": false
+        },
+        {
+            "msgIndex": 58,
+            "text": "未作成テキスト",
+            "bustupMajor": -1,
+            "bustupMinor": -1,
+            "unknown": -1,
+            "voiceIndex": -1,
+            "isNextChoice": false
+        },
+        {
+            "msgIndex": 59,
+            "text": "未作成テキスト",
+            "bustupMajor": -1,
+            "bustupMinor": -1,
+            "unknown": -1,
+            "voiceIndex": -1,
+            "isNextChoice": false
+        },
+        {
+            "msgIndex": 60,
+            "text": "未作成テキスト",
+            "bustupMajor": -1,
+            "bustupMinor": -1,
+            "unknown": -1,
+            "voiceIndex": -1,
+            "isNextChoice": false
+        },
+        {
+            "msgIndex": 61,
+            "text": "未作成テキスト",
+            "bustupMajor": -1,
+            "bustupMinor": -1,
+            "unknown": -1,
+            "voiceIndex": -1,
+            "isNextChoice": false
+        },
+        {
+            "msgIndex": 62,
+            "text": "未作成テキスト",
+            "bustupMajor": -1,
+            "bustupMinor": -1,
+            "unknown": -1,
+            "voiceIndex": -1,
+            "isNextChoice": false
+        },
+        {
+            "msgIndex": 63,
+            "text": "未作成テキスト",
+            "bustupMajor": -1,
+            "bustupMinor": -1,
+            "unknown": -1,
+            "voiceIndex": -1,
+            "isNextChoice": false
+        },
+        {
+            "msgIndex": 64,
+            "text": "未作成テキスト",
+            "bustupMajor": -1,
+            "bustupMinor": -1,
+            "unknown": -1,
+            "voiceIndex": -1,
+            "isNextChoice": false
+        },
+        {
+            "msgIndex": 65,
+            "text": "未作成テキスト",
+            "bustupMajor": -1,
+            "bustupMinor": -1,
+            "unknown": -1,
+            "voiceIndex": -1,
+            "isNextChoice": false
+        },
+        {
+            "msgIndex": 66,
+            "text": "未作成テキスト",
+            "bustupMajor": -1,
+            "bustupMinor": -1,
+            "unknown": -1,
+            "voiceIndex": -1,
+            "isNextChoice": false
+        },
+        {
+            "msgIndex": 67,
+            "text": "未作成テキスト",
+            "bustupMajor": -1,
+            "bustupMinor": -1,
+            "unknown": -1,
+            "voiceIndex": -1,
+            "isNextChoice": false
+        },
+        {
+            "msgIndex": 68,
+            "text": "未作成テキスト",
+            "bustupMajor": -1,
+            "bustupMinor": -1,
+            "unknown": -1,
+            "voiceIndex": -1,
+            "isNextChoice": false
+        },
+        {
+            "msgIndex": 69,
+            "text": "未作成テキスト",
+            "bustupMajor": -1,
+            "bustupMinor": -1,
+            "unknown": -1,
+            "voiceIndex": -1,
+            "isNextChoice": false
+        },
+        {
+            "msgIndex": 70,
+            "text": "未作成テキスト",
+            "bustupMajor": -1,
+            "bustupMinor": -1,
+            "unknown": -1,
+            "voiceIndex": -1,
+            "isNextChoice": false
+        },
+        {
+            "msgIndex": 71,
+            "text": "未作成テキスト",
+            "bustupMajor": -1,
+            "bustupMinor": -1,
+            "unknown": -1,
+            "voiceIndex": -1,
+            "isNextChoice": false
+        },
+        {
+            "msgIndex": 72,
+            "text": "未作成テキスト",
+            "bustupMajor": -1,
+            "bustupMinor": -1,
+            "unknown": -1,
+            "voiceIndex": -1,
+            "isNextChoice": false
+        },
+        {
+            "msgIndex": 73,
+            "text": "未作成テキスト",
+            "bustupMajor": -1,
+            "bustupMinor": -1,
+            "unknown": -1,
+            "voiceIndex": -1,
+            "isNextChoice": false
+        },
+        {
+            "msgIndex": 74,
+            "text": "未作成テキスト",
+            "bustupMajor": -1,
+            "bustupMinor": -1,
+            "unknown": -1,
+            "voiceIndex": -1,
+            "isNextChoice": false
+        },
+        {
+            "msgIndex": 75,
+            "text": "未作成テキスト",
+            "bustupMajor": -1,
+            "bustupMinor": -1,
+            "unknown": -1,
+            "voiceIndex": -1,
+            "isNextChoice": false
+        },
+        {
+            "msgIndex": 76,
+            "text": "未作成テキスト",
+            "bustupMajor": -1,
+            "bustupMinor": -1,
+            "unknown": -1,
+            "voiceIndex": -1,
+            "isNextChoice": false
+        },
+        {
+            "msgIndex": 77,
+            "text": "未作成テキスト",
+            "bustupMajor": -1,
+            "bustupMinor": -1,
+            "unknown": -1,
+            "voiceIndex": -1,
+            "isNextChoice": false
+        },
+        {
+            "msgIndex": 78,
+            "text": "未作成テキスト",
+            "bustupMajor": -1,
+            "bustupMinor": -1,
+            "unknown": -1,
+            "voiceIndex": -1,
+            "isNextChoice": false
+        },
+        {
+            "msgIndex": 79,
+            "text": "未作成テキスト",
+            "bustupMajor": -1,
+            "bustupMinor": -1,
+            "unknown": -1,
+            "voiceIndex": -1,
+            "isNextChoice": false
+        },
+        {
+            "msgIndex": 80,
+            "text": "未作成テキスト",
+            "bustupMajor": -1,
+            "bustupMinor": -1,
+            "unknown": -1,
+            "voiceIndex": -1,
+            "isNextChoice": false
+        },
+        {
+            "msgIndex": 81,
+            "text": "未作成テキスト",
+            "bustupMajor": -1,
+            "bustupMinor": -1,
+            "unknown": -1,
+            "voiceIndex": -1,
+            "isNextChoice": false
+        },
+        {
+            "msgIndex": 82,
+            "text": "未作成テキスト",
+            "bustupMajor": -1,
+            "bustupMinor": -1,
+            "unknown": -1,
+            "voiceIndex": -1,
+            "isNextChoice": false
+        },
+        {
+            "msgIndex": 83,
+            "text": "未作成テキスト",
+            "bustupMajor": -1,
+            "bustupMinor": -1,
+            "unknown": -1,
+            "voiceIndex": -1,
+            "isNextChoice": false
+        },
+        {
+            "msgIndex": 84,
+            "text": "未作成テキスト",
+            "bustupMajor": -1,
+            "bustupMinor": -1,
+            "unknown": -1,
+            "voiceIndex": -1,
+            "isNextChoice": false
+        },
+        {
+            "msgIndex": 85,
+            "text": "未作成テキスト",
+            "bustupMajor": -1,
+            "bustupMinor": -1,
+            "unknown": -1,
+            "voiceIndex": -1,
+            "isNextChoice": false
+        },
+        {
+            "msgIndex": 86,
+            "text": "未作成テキスト",
+            "bustupMajor": -1,
+            "bustupMinor": -1,
+            "unknown": -1,
+            "voiceIndex": -1,
+            "isNextChoice": false
+        },
+        {
+            "msgIndex": 87,
+            "text": "未作成テキスト",
+            "bustupMajor": -1,
+            "bustupMinor": -1,
+            "unknown": -1,
+            "voiceIndex": -1,
+            "isNextChoice": false
+        },
+        {
+            "msgIndex": 88,
+            "text": "未作成テキスト",
+            "bustupMajor": -1,
+            "bustupMinor": -1,
+            "unknown": -1,
+            "voiceIndex": -1,
+            "isNextChoice": false
+        },
+        {
+            "msgIndex": 89,
+            "text": "未作成テキスト",
+            "bustupMajor": -1,
+            "bustupMinor": -1,
+            "unknown": -1,
+            "voiceIndex": -1,
+            "isNextChoice": false
+        },
+        {
+            "msgIndex": 90,
+            "text": "未作成テキスト",
+            "bustupMajor": -1,
+            "bustupMinor": -1,
+            "unknown": -1,
+            "voiceIndex": -1,
+            "isNextChoice": false
+        },
+        {
+            "msgIndex": 91,
+            "text": "未作成テキスト",
+            "bustupMajor": -1,
+            "bustupMinor": -1,
+            "unknown": -1,
+            "voiceIndex": -1,
+            "isNextChoice": false
+        },
+        {
+            "msgIndex": 92,
+            "text": "未作成テキスト",
+            "bustupMajor": -1,
+            "bustupMinor": -1,
+            "unknown": -1,
+            "voiceIndex": -1,
+            "isNextChoice": false
+        },
+        {
+            "msgIndex": 93,
+            "text": "未作成テキスト",
+            "bustupMajor": -1,
+            "bustupMinor": -1,
+            "unknown": -1,
+            "voiceIndex": -1,
+            "isNextChoice": false
+        },
+        {
+            "msgIndex": 94,
+            "text": "未作成テキスト",
+            "bustupMajor": -1,
+            "bustupMinor": -1,
+            "unknown": -1,
+            "voiceIndex": -1,
+            "isNextChoice": false
+        },
+        {
+            "msgIndex": 95,
+            "text": "未作成テキスト",
+            "bustupMajor": -1,
+            "bustupMinor": -1,
+            "unknown": -1,
+            "voiceIndex": -1,
+            "isNextChoice": false
+        },
+        {
+            "msgIndex": 96,
+            "text": "未作成テキスト",
+            "bustupMajor": -1,
+            "bustupMinor": -1,
+            "unknown": -1,
+            "voiceIndex": -1,
+            "isNextChoice": false
+        },
+        {
+            "msgIndex": 97,
+            "text": "未作成テキスト",
+            "bustupMajor": -1,
+            "bustupMinor": -1,
+            "unknown": -1,
+            "voiceIndex": -1,
+            "isNextChoice": false
+        },
+        {
+            "msgIndex": 98,
+            "text": "未作成テキスト",
+            "bustupMajor": -1,
+            "bustupMinor": -1,
+            "unknown": -1,
+            "voiceIndex": -1,
+            "isNextChoice": false
+        },
+        {
+            "msgIndex": 99,
+            "text": "未作成テキスト",
+            "bustupMajor": -1,
+            "bustupMinor": -1,
+            "unknown": -1,
+            "voiceIndex": -1,
+            "isNextChoice": false
+        },
+        {
+            "msgIndex": 100,
+            "text": "未作成テキスト",
+            "bustupMajor": -1,
+            "bustupMinor": -1,
+            "unknown": -1,
+            "voiceIndex": -1,
+            "isNextChoice": false
+        },
+        {
+            "msgIndex": 101,
+            "text": "未作成テキスト",
+            "bustupMajor": -1,
+            "bustupMinor": -1,
+            "unknown": -1,
+            "voiceIndex": -1,
+            "isNextChoice": false
+        },
+        {
+            "msgIndex": 102,
+            "text": "未作成テキスト",
+            "bustupMajor": -1,
+            "bustupMinor": -1,
+            "unknown": -1,
+            "voiceIndex": -1,
+            "isNextChoice": false
+        },
+        {
+            "msgIndex": 103,
+            "text": "未作成テキスト",
+            "bustupMajor": -1,
+            "bustupMinor": -1,
+            "unknown": -1,
+            "voiceIndex": -1,
+            "isNextChoice": false
+        },
+        {
+            "msgIndex": 104,
+            "text": "未作成テキスト",
+            "bustupMajor": -1,
+            "bustupMinor": -1,
+            "unknown": -1,
+            "voiceIndex": -1,
+            "isNextChoice": false
+        },
+        {
+            "msgIndex": 105,
+            "text": "未作成テキスト",
+            "bustupMajor": -1,
+            "bustupMinor": -1,
+            "unknown": -1,
+            "voiceIndex": -1,
+            "isNextChoice": false
+        },
+        {
+            "msgIndex": 106,
+            "text": "未作成テキスト",
+            "bustupMajor": -1,
+            "bustupMinor": -1,
+            "unknown": -1,
+            "voiceIndex": -1,
+            "isNextChoice": false
+        },
+        {
+            "msgIndex": 107,
+            "text": "未作成テキスト",
+            "bustupMajor": -1,
+            "bustupMinor": -1,
+            "unknown": -1,
+            "voiceIndex": -1,
+            "isNextChoice": false
+        },
+        {
+            "msgIndex": 108,
+            "text": "未作成テキスト",
+            "bustupMajor": -1,
+            "bustupMinor": -1,
+            "unknown": -1,
+            "voiceIndex": -1,
+            "isNextChoice": false
+        },
+        {
+            "msgIndex": 109,
+            "text": "未作成テキスト",
+            "bustupMajor": -1,
+            "bustupMinor": -1,
+            "unknown": -1,
+            "voiceIndex": -1,
+            "isNextChoice": false
+        },
+        {
+            "msgIndex": 110,
+            "text": "未作成テキスト",
+            "bustupMajor": -1,
+            "bustupMinor": -1,
+            "unknown": -1,
+            "voiceIndex": -1,
+            "isNextChoice": false
+        },
+        {
+            "msgIndex": 111,
+            "text": "未作成テキスト",
+            "bustupMajor": -1,
+            "bustupMinor": -1,
+            "unknown": -1,
+            "voiceIndex": -1,
+            "isNextChoice": false
+        },
+        {
+            "msgIndex": 112,
+            "text": "未作成テキスト",
+            "bustupMajor": -1,
+            "bustupMinor": -1,
+            "unknown": -1,
+            "voiceIndex": -1,
+            "isNextChoice": false
+        },
+        {
+            "msgIndex": 113,
+            "text": "未作成テキスト",
+            "bustupMajor": -1,
+            "bustupMinor": -1,
+            "unknown": -1,
+            "voiceIndex": -1,
+            "isNextChoice": false
+        },
+        {
+            "msgIndex": 114,
+            "text": "未作成テキスト",
+            "bustupMajor": -1,
+            "bustupMinor": -1,
+            "unknown": -1,
+            "voiceIndex": -1,
+            "isNextChoice": false
+        },
+        {
+            "msgIndex": 115,
+            "text": "未作成テキスト",
+            "bustupMajor": -1,
+            "bustupMinor": -1,
+            "unknown": -1,
+            "voiceIndex": -1,
+            "isNextChoice": false
+        },
+        {
+            "msgIndex": 116,
+            "text": "未作成テキスト",
+            "bustupMajor": -1,
+            "bustupMinor": -1,
+            "unknown": -1,
+            "voiceIndex": -1,
+            "isNextChoice": false
+        },
+        {
+            "msgIndex": 117,
+            "text": "未作成テキスト",
+            "bustupMajor": -1,
+            "bustupMinor": -1,
+            "unknown": -1,
+            "voiceIndex": -1,
+            "isNextChoice": false
+        },
+        {
+            "msgIndex": 118,
+            "text": "未作成テキスト",
+            "bustupMajor": -1,
+            "bustupMinor": -1,
+            "unknown": -1,
+            "voiceIndex": -1,
+            "isNextChoice": false
+        },
+        {
+            "msgIndex": 119,
+            "text": "未作成テキスト",
+            "bustupMajor": -1,
+            "bustupMinor": -1,
+            "unknown": -1,
+            "voiceIndex": -1,
+            "isNextChoice": false
+        },
+        {
+            "msgIndex": 120,
+            "text": "未作成テキスト",
+            "bustupMajor": -1,
+            "bustupMinor": -1,
+            "unknown": -1,
+            "voiceIndex": -1,
+            "isNextChoice": false
+        },
+        {
+            "msgIndex": 121,
+            "text": "未作成テキスト",
+            "bustupMajor": -1,
+            "bustupMinor": -1,
+            "unknown": -1,
+            "voiceIndex": -1,
+            "isNextChoice": false
+        },
+        {
+            "msgIndex": 122,
+            "text": "未作成テキスト",
+            "bustupMajor": -1,
+            "bustupMinor": -1,
+            "unknown": -1,
+            "voiceIndex": -1,
+            "isNextChoice": false
+        },
+        {
+            "msgIndex": 123,
+            "text": "未作成テキスト",
+            "bustupMajor": -1,
+            "bustupMinor": -1,
+            "unknown": -1,
+            "voiceIndex": -1,
+            "isNextChoice": false
+        },
+        {
+            "msgIndex": 124,
+            "text": "未作成テキスト",
+            "bustupMajor": -1,
+            "bustupMinor": -1,
+            "unknown": -1,
+            "voiceIndex": -1,
+            "isNextChoice": false
+        },
+        {
+            "msgIndex": 125,
+            "text": "未作成テキスト",
+            "bustupMajor": -1,
+            "bustupMinor": -1,
+            "unknown": -1,
+            "voiceIndex": -1,
+            "isNextChoice": false
+        },
+        {
+            "msgIndex": 126,
+            "text": "未作成テキスト",
+            "bustupMajor": -1,
+            "bustupMinor": -1,
+            "unknown": -1,
+            "voiceIndex": -1,
+            "isNextChoice": false
+        },
+        {
+            "msgIndex": 127,
+            "text": "未作成テキスト",
+            "bustupMajor": -1,
+            "bustupMinor": -1,
+            "unknown": -1,
+            "voiceIndex": -1,
+            "isNextChoice": false
+        },
+        {
+            "msgIndex": 128,
+            "text": "未作成テキスト",
+            "bustupMajor": -1,
+            "bustupMinor": -1,
+            "unknown": -1,
+            "voiceIndex": -1,
+            "isNextChoice": false
+        },
+        {
+            "msgIndex": 129,
+            "text": "未作成テキスト",
+            "bustupMajor": -1,
+            "bustupMinor": -1,
+            "unknown": -1,
+            "voiceIndex": -1,
+            "isNextChoice": false
+        },
+        {
+            "msgIndex": 130,
+            "text": "未作成テキスト",
+            "bustupMajor": -1,
+            "bustupMinor": -1,
+            "unknown": -1,
+            "voiceIndex": -1,
+            "isNextChoice": false
+        },
+        {
+            "msgIndex": 131,
+            "text": "未作成テキスト",
+            "bustupMajor": -1,
+            "bustupMinor": -1,
+            "unknown": -1,
+            "voiceIndex": -1,
+            "isNextChoice": false
+        },
+        {
+            "msgIndex": 132,
+            "text": "未作成テキスト",
+            "bustupMajor": -1,
+            "bustupMinor": -1,
+            "unknown": -1,
+            "voiceIndex": -1,
+            "isNextChoice": false
+        },
+        {
+            "msgIndex": 133,
+            "text": "未作成テキスト",
+            "bustupMajor": -1,
+            "bustupMinor": -1,
+            "unknown": -1,
+            "voiceIndex": -1,
+            "isNextChoice": false
+        },
+        {
+            "msgIndex": 134,
+            "text": "未作成テキスト",
+            "bustupMajor": -1,
+            "bustupMinor": -1,
+            "unknown": -1,
+            "voiceIndex": -1,
+            "isNextChoice": false
+        },
+        {
+            "msgIndex": 135,
+            "text": "未作成テキスト",
+            "bustupMajor": -1,
+            "bustupMinor": -1,
+            "unknown": -1,
+            "voiceIndex": -1,
+            "isNextChoice": false
+        },
+        {
+            "msgIndex": 136,
+            "text": "未作成テキスト",
+            "bustupMajor": -1,
+            "bustupMinor": -1,
+            "unknown": -1,
+            "voiceIndex": -1,
+            "isNextChoice": false
+        },
+        {
+            "msgIndex": 137,
+            "text": "未作成テキスト",
+            "bustupMajor": -1,
+            "bustupMinor": -1,
+            "unknown": -1,
+            "voiceIndex": -1,
+            "isNextChoice": false
+        },
+        {
+            "msgIndex": 138,
+            "text": "未作成テキスト",
+            "bustupMajor": -1,
+            "bustupMinor": -1,
+            "unknown": -1,
+            "voiceIndex": -1,
+            "isNextChoice": false
+        },
+        {
+            "msgIndex": 139,
+            "text": "未作成テキスト",
+            "bustupMajor": -1,
+            "bustupMinor": -1,
+            "unknown": -1,
+            "voiceIndex": -1,
+            "isNextChoice": false
+        },
+        {
+            "msgIndex": 140,
+            "text": "未作成テキスト",
+            "bustupMajor": -1,
+            "bustupMinor": -1,
+            "unknown": -1,
+            "voiceIndex": -1,
+            "isNextChoice": false
+        },
+        {
+            "msgIndex": 141,
+            "text": "未作成テキスト",
+            "bustupMajor": -1,
+            "bustupMinor": -1,
+            "unknown": -1,
+            "voiceIndex": -1,
+            "isNextChoice": false
+        },
+        {
+            "msgIndex": 142,
+            "text": "未作成テキスト",
+            "bustupMajor": -1,
+            "bustupMinor": -1,
+            "unknown": -1,
+            "voiceIndex": -1,
+            "isNextChoice": false
+        },
+        {
+            "msgIndex": 143,
+            "text": "未作成テキスト",
+            "bustupMajor": -1,
+            "bustupMinor": -1,
+            "unknown": -1,
+            "voiceIndex": -1,
+            "isNextChoice": false
+        },
+        {
+            "msgIndex": 144,
+            "text": "未作成テキスト",
+            "bustupMajor": -1,
+            "bustupMinor": -1,
+            "unknown": -1,
+            "voiceIndex": -1,
+            "isNextChoice": false
+        },
+        {
+            "msgIndex": 145,
+            "text": "未作成テキスト",
+            "bustupMajor": -1,
+            "bustupMinor": -1,
+            "unknown": -1,
+            "voiceIndex": -1,
+            "isNextChoice": false
+        },
+        {
+            "msgIndex": 146,
+            "text": "未作成テキスト",
+            "bustupMajor": -1,
+            "bustupMinor": -1,
+            "unknown": -1,
+            "voiceIndex": -1,
+            "isNextChoice": false
+        },
+        {
+            "msgIndex": 147,
+            "text": "未作成テキスト",
+            "bustupMajor": -1,
+            "bustupMinor": -1,
+            "unknown": -1,
+            "voiceIndex": -1,
+            "isNextChoice": false
+        },
+        {
+            "msgIndex": 148,
+            "text": "未作成テキスト",
+            "bustupMajor": -1,
+            "bustupMinor": -1,
+            "unknown": -1,
+            "voiceIndex": -1,
+            "isNextChoice": false
+        },
+        {
+            "msgIndex": 149,
+            "text": "未作成テキスト",
+            "bustupMajor": -1,
+            "bustupMinor": -1,
+            "unknown": -1,
+            "voiceIndex": -1,
+            "isNextChoice": false
+        },
+        {
+            "msgIndex": 150,
+            "text": "未作成テキスト",
+            "bustupMajor": -1,
+            "bustupMinor": -1,
+            "unknown": -1,
+            "voiceIndex": -1,
+            "isNextChoice": false
+        },
+        {
+            "msgIndex": 151,
+            "text": "未作成テキスト",
+            "bustupMajor": -1,
+            "bustupMinor": -1,
+            "unknown": -1,
+            "voiceIndex": -1,
+            "isNextChoice": false
+        },
+        {
+            "msgIndex": 152,
+            "text": "未作成テキスト",
+            "bustupMajor": -1,
+            "bustupMinor": -1,
+            "unknown": -1,
+            "voiceIndex": -1,
+            "isNextChoice": false
+        },
+        {
+            "msgIndex": 153,
+            "text": "未作成テキスト",
+            "bustupMajor": -1,
+            "bustupMinor": -1,
+            "unknown": -1,
+            "voiceIndex": -1,
+            "isNextChoice": false
+        },
+        {
+            "msgIndex": 154,
+            "text": "未作成テキスト",
+            "bustupMajor": -1,
+            "bustupMinor": -1,
+            "unknown": -1,
+            "voiceIndex": -1,
+            "isNextChoice": false
+        },
+        {
+            "msgIndex": 155,
+            "text": "未作成テキスト",
+            "bustupMajor": -1,
+            "bustupMinor": -1,
+            "unknown": -1,
+            "voiceIndex": -1,
+            "isNextChoice": false
+        },
+        {
+            "msgIndex": 156,
+            "text": "未作成テキスト",
+            "bustupMajor": -1,
+            "bustupMinor": -1,
+            "unknown": -1,
+            "voiceIndex": -1,
+            "isNextChoice": false
+        },
+        {
+            "msgIndex": 157,
+            "text": "未作成テキスト",
+            "bustupMajor": -1,
+            "bustupMinor": -1,
+            "unknown": -1,
+            "voiceIndex": -1,
+            "isNextChoice": false
+        },
+        {
+            "msgIndex": 158,
+            "text": "未作成テキスト",
+            "bustupMajor": -1,
+            "bustupMinor": -1,
+            "unknown": -1,
+            "voiceIndex": -1,
+            "isNextChoice": false
+        },
+        {
+            "msgIndex": 159,
+            "text": "未作成テキスト",
+            "bustupMajor": -1,
+            "bustupMinor": -1,
+            "unknown": -1,
+            "voiceIndex": -1,
+            "isNextChoice": false
+        },
+        {
+            "msgIndex": 160,
+            "text": "未作成テキスト",
+            "bustupMajor": -1,
+            "bustupMinor": -1,
+            "unknown": -1,
+            "voiceIndex": -1,
+            "isNextChoice": false
+        },
+        {
+            "msgIndex": 161,
+            "text": "未作成テキスト",
+            "bustupMajor": -1,
+            "bustupMinor": -1,
+            "unknown": -1,
+            "voiceIndex": -1,
+            "isNextChoice": false
+        },
+        {
+            "msgIndex": 162,
+            "text": "未作成テキスト",
+            "bustupMajor": -1,
+            "bustupMinor": -1,
+            "unknown": -1,
+            "voiceIndex": -1,
+            "isNextChoice": false
+        },
+        {
+            "msgIndex": 163,
+            "text": "未作成テキスト",
+            "bustupMajor": -1,
+            "bustupMinor": -1,
+            "unknown": -1,
+            "voiceIndex": -1,
+            "isNextChoice": false
+        },
+        {
+            "msgIndex": 164,
+            "text": "未作成テキスト",
+            "bustupMajor": -1,
+            "bustupMinor": -1,
+            "unknown": -1,
+            "voiceIndex": -1,
+            "isNextChoice": false
+        },
+        {
+            "msgIndex": 165,
+            "text": "未作成テキスト",
+            "bustupMajor": -1,
+            "bustupMinor": -1,
+            "unknown": -1,
+            "voiceIndex": -1,
+            "isNextChoice": false
+        },
+        {
+            "msgIndex": 166,
+            "text": "未作成テキスト",
+            "bustupMajor": -1,
+            "bustupMinor": -1,
+            "unknown": -1,
+            "voiceIndex": -1,
+            "isNextChoice": false
+        },
+        {
+            "msgIndex": 167,
+            "text": "未作成テキスト",
+            "bustupMajor": -1,
+            "bustupMinor": -1,
+            "unknown": -1,
+            "voiceIndex": -1,
+            "isNextChoice": false
+        },
+        {
+            "msgIndex": 168,
+            "text": "未作成テキスト",
+            "bustupMajor": -1,
+            "bustupMinor": -1,
+            "unknown": -1,
+            "voiceIndex": -1,
+            "isNextChoice": false
+        },
+        {
+            "msgIndex": 169,
+            "text": "未作成テキスト",
+            "bustupMajor": -1,
+            "bustupMinor": -1,
+            "unknown": -1,
+            "voiceIndex": -1,
+            "isNextChoice": false
+        },
+        {
+            "msgIndex": 170,
+            "text": "未作成テキスト",
+            "bustupMajor": -1,
+            "bustupMinor": -1,
+            "unknown": -1,
+            "voiceIndex": -1,
+            "isNextChoice": false
+        },
+        {
+            "msgIndex": 171,
+            "text": "未作成テキスト",
+            "bustupMajor": -1,
+            "bustupMinor": -1,
+            "unknown": -1,
+            "voiceIndex": -1,
+            "isNextChoice": false
+        },
+        {
+            "msgIndex": 172,
+            "text": "未作成テキスト",
+            "bustupMajor": -1,
+            "bustupMinor": -1,
+            "unknown": -1,
+            "voiceIndex": -1,
+            "isNextChoice": false
+        },
+        {
+            "msgIndex": 173,
+            "text": "未作成テキスト",
+            "bustupMajor": -1,
+            "bustupMinor": -1,
+            "unknown": -1,
+            "voiceIndex": -1,
+            "isNextChoice": false
+        },
+        {
+            "msgIndex": 174,
+            "text": "未作成テキスト",
+            "bustupMajor": -1,
+            "bustupMinor": -1,
+            "unknown": -1,
+            "voiceIndex": -1,
+            "isNextChoice": false
+        },
+        {
+            "msgIndex": 175,
+            "text": "未作成テキスト",
+            "bustupMajor": -1,
+            "bustupMinor": -1,
+            "unknown": -1,
+            "voiceIndex": -1,
+            "isNextChoice": false
+        },
+        {
+            "msgIndex": 176,
+            "text": "未作成テキスト",
+            "bustupMajor": -1,
+            "bustupMinor": -1,
+            "unknown": -1,
+            "voiceIndex": -1,
+            "isNextChoice": false
+        },
+        {
+            "msgIndex": 177,
+            "text": "未作成テキスト",
+            "bustupMajor": -1,
+            "bustupMinor": -1,
+            "unknown": -1,
+            "voiceIndex": -1,
+            "isNextChoice": false
+        },
+        {
+            "msgIndex": 178,
+            "text": "未作成テキスト",
+            "bustupMajor": -1,
+            "bustupMinor": -1,
+            "unknown": -1,
+            "voiceIndex": -1,
+            "isNextChoice": false
+        },
+        {
+            "msgIndex": 179,
+            "text": "未作成テキスト",
+            "bustupMajor": -1,
+            "bustupMinor": -1,
+            "unknown": -1,
+            "voiceIndex": -1,
+            "isNextChoice": false
+        },
+        {
+            "msgIndex": 180,
+            "text": "未作成テキスト",
+            "bustupMajor": -1,
+            "bustupMinor": -1,
+            "unknown": -1,
+            "voiceIndex": -1,
+            "isNextChoice": false
+        },
+        {
+            "msgIndex": 181,
+            "text": "未作成テキスト",
+            "bustupMajor": -1,
+            "bustupMinor": -1,
+            "unknown": -1,
+            "voiceIndex": -1,
+            "isNextChoice": false
+        },
+        {
+            "msgIndex": 182,
+            "text": "未作成テキスト",
+            "bustupMajor": -1,
+            "bustupMinor": -1,
+            "unknown": -1,
+            "voiceIndex": -1,
+            "isNextChoice": false
+        },
+        {
+            "msgIndex": 183,
+            "text": "未作成テキスト",
+            "bustupMajor": -1,
+            "bustupMinor": -1,
+            "unknown": -1,
+            "voiceIndex": -1,
+            "isNextChoice": false
+        },
+        {
+            "msgIndex": 184,
+            "text": "未作成テキスト",
+            "bustupMajor": -1,
+            "bustupMinor": -1,
+            "unknown": -1,
+            "voiceIndex": -1,
+            "isNextChoice": false
+        },
+        {
+            "msgIndex": 185,
+            "text": "未作成テキスト",
+            "bustupMajor": -1,
+            "bustupMinor": -1,
+            "unknown": -1,
+            "voiceIndex": -1,
+            "isNextChoice": false
+        },
+        {
+            "msgIndex": 186,
+            "text": "未作成テキスト",
+            "bustupMajor": -1,
+            "bustupMinor": -1,
+            "unknown": -1,
+            "voiceIndex": -1,
+            "isNextChoice": false
+        },
+        {
+            "msgIndex": 187,
+            "text": "未作成テキスト",
+            "bustupMajor": -1,
+            "bustupMinor": -1,
+            "unknown": -1,
+            "voiceIndex": -1,
+            "isNextChoice": false
+        },
+        {
+            "msgIndex": 188,
+            "text": "未作成テキスト",
+            "bustupMajor": -1,
+            "bustupMinor": -1,
+            "unknown": -1,
+            "voiceIndex": -1,
+            "isNextChoice": false
+        },
+        {
+            "msgIndex": 189,
+            "text": "未作成テキスト",
+            "bustupMajor": -1,
+            "bustupMinor": -1,
+            "unknown": -1,
+            "voiceIndex": -1,
+            "isNextChoice": false
+        },
+        {
+            "msgIndex": 190,
+            "text": "未作成テキスト",
+            "bustupMajor": -1,
+            "bustupMinor": -1,
+            "unknown": -1,
+            "voiceIndex": -1,
+            "isNextChoice": false
+        },
+        {
+            "msgIndex": 191,
+            "text": "未作成テキスト",
+            "bustupMajor": -1,
+            "bustupMinor": -1,
+            "unknown": -1,
+            "voiceIndex": -1,
+            "isNextChoice": false
+        },
+        {
+            "msgIndex": 192,
+            "text": "未作成テキスト",
+            "bustupMajor": -1,
+            "bustupMinor": -1,
+            "unknown": -1,
+            "voiceIndex": -1,
+            "isNextChoice": false
+        },
+        {
+            "msgIndex": 193,
+            "text": "未作成テキスト",
+            "bustupMajor": -1,
+            "bustupMinor": -1,
+            "unknown": -1,
+            "voiceIndex": -1,
+            "isNextChoice": false
+        },
+        {
+            "msgIndex": 194,
+            "text": "未作成テキスト",
+            "bustupMajor": -1,
+            "bustupMinor": -1,
+            "unknown": -1,
+            "voiceIndex": -1,
+            "isNextChoice": false
+        },
+        {
+            "msgIndex": 195,
+            "text": "未作成テキスト",
+            "bustupMajor": -1,
+            "bustupMinor": -1,
+            "unknown": -1,
+            "voiceIndex": -1,
+            "isNextChoice": false
+        },
+        {
+            "msgIndex": 196,
+            "text": "未作成テキスト",
+            "bustupMajor": -1,
+            "bustupMinor": -1,
+            "unknown": -1,
+            "voiceIndex": -1,
+            "isNextChoice": false
+        },
+        {
+            "msgIndex": 197,
+            "text": "未作成テキスト",
+            "bustupMajor": -1,
+            "bustupMinor": -1,
+            "unknown": -1,
+            "voiceIndex": -1,
+            "isNextChoice": false
+        },
+        {
+            "msgIndex": 198,
+            "text": "未作成テキスト",
+            "bustupMajor": -1,
+            "bustupMinor": -1,
+            "unknown": -1,
+            "voiceIndex": -1,
+            "isNextChoice": false
+        },
+        {
+            "msgIndex": 199,
+            "text": "未作成テキスト",
+            "bustupMajor": -1,
+            "bustupMinor": -1,
+            "unknown": -1,
+            "voiceIndex": -1,
+            "isNextChoice": false
+        },
+        {
+            "msgIndex": 200,
+            "text": "未作成テキスト",
+            "bustupMajor": -1,
+            "bustupMinor": -1,
+            "unknown": -1,
+            "voiceIndex": -1,
+            "isNextChoice": false
+        },
+        {
+            "msgIndex": 201,
+            "text": "未作成テキスト",
+            "bustupMajor": -1,
+            "bustupMinor": -1,
+            "unknown": -1,
+            "voiceIndex": -1,
+            "isNextChoice": false
+        },
+        {
+            "msgIndex": 202,
+            "text": "未作成テキスト",
+            "bustupMajor": -1,
+            "bustupMinor": -1,
+            "unknown": -1,
+            "voiceIndex": -1,
+            "isNextChoice": false
+        },
+        {
+            "msgIndex": 203,
+            "text": "未作成テキスト",
+            "bustupMajor": -1,
+            "bustupMinor": -1,
+            "unknown": -1,
+            "voiceIndex": -1,
+            "isNextChoice": false
+        },
+        {
+            "msgIndex": 204,
+            "text": "未作成テキスト",
+            "bustupMajor": -1,
+            "bustupMinor": -1,
+            "unknown": -1,
+            "voiceIndex": -1,
+            "isNextChoice": false
+        },
+        {
+            "msgIndex": 205,
+            "text": "未作成テキスト",
+            "bustupMajor": -1,
+            "bustupMinor": -1,
+            "unknown": -1,
+            "voiceIndex": -1,
+            "isNextChoice": false
+        },
+        {
+            "msgIndex": 206,
+            "text": "未作成テキスト",
+            "bustupMajor": -1,
+            "bustupMinor": -1,
+            "unknown": -1,
+            "voiceIndex": -1,
+            "isNextChoice": false
+        },
+        {
+            "msgIndex": 207,
+            "text": "未作成テキスト",
+            "bustupMajor": -1,
+            "bustupMinor": -1,
+            "unknown": -1,
+            "voiceIndex": -1,
+            "isNextChoice": false
+        },
+        {
+            "msgIndex": 208,
+            "text": "未作成テキスト",
+            "bustupMajor": -1,
+            "bustupMinor": -1,
+            "unknown": -1,
+            "voiceIndex": -1,
+            "isNextChoice": false
+        },
+        {
+            "msgIndex": 209,
+            "text": "未作成テキスト",
+            "bustupMajor": -1,
+            "bustupMinor": -1,
+            "unknown": -1,
+            "voiceIndex": -1,
+            "isNextChoice": false
+        },
+        {
+            "msgIndex": 210,
+            "text": "未作成テキスト",
+            "bustupMajor": -1,
+            "bustupMinor": -1,
+            "unknown": -1,
+            "voiceIndex": -1,
+            "isNextChoice": false
+        },
+        {
+            "msgIndex": 211,
+            "text": "未作成テキスト",
+            "bustupMajor": -1,
+            "bustupMinor": -1,
+            "unknown": -1,
+            "voiceIndex": -1,
+            "isNextChoice": false
+        },
+        {
+            "msgIndex": 212,
+            "text": "未作成テキスト",
+            "bustupMajor": -1,
+            "bustupMinor": -1,
+            "unknown": -1,
+            "voiceIndex": -1,
+            "isNextChoice": false
+        },
+        {
+            "msgIndex": 213,
+            "text": "未作成テキスト",
+            "bustupMajor": -1,
+            "bustupMinor": -1,
+            "unknown": -1,
+            "voiceIndex": -1,
+            "isNextChoice": false
+        },
+        {
+            "msgIndex": 214,
+            "text": "未作成テキスト",
+            "bustupMajor": -1,
+            "bustupMinor": -1,
+            "unknown": -1,
+            "voiceIndex": -1,
+            "isNextChoice": false
+        },
+        {
+            "msgIndex": 215,
+            "text": "未作成テキスト",
+            "bustupMajor": -1,
+            "bustupMinor": -1,
+            "unknown": -1,
+            "voiceIndex": -1,
+            "isNextChoice": false
+        },
+        {
+            "msgIndex": 216,
+            "text": "未作成テキスト",
+            "bustupMajor": -1,
+            "bustupMinor": -1,
+            "unknown": -1,
+            "voiceIndex": -1,
+            "isNextChoice": false
+        },
+        {
+            "msgIndex": 217,
+            "text": "未作成テキスト",
+            "bustupMajor": -1,
+            "bustupMinor": -1,
+            "unknown": -1,
+            "voiceIndex": -1,
+            "isNextChoice": false
+        },
+        {
+            "msgIndex": 218,
+            "text": "未作成テキスト",
+            "bustupMajor": -1,
+            "bustupMinor": -1,
+            "unknown": -1,
+            "voiceIndex": -1,
+            "isNextChoice": false
+        },
+        {
+            "msgIndex": 219,
+            "text": "未作成テキスト",
+            "bustupMajor": -1,
+            "bustupMinor": -1,
+            "unknown": -1,
+            "voiceIndex": -1,
+            "isNextChoice": false
+        },
+        {
+            "msgIndex": 220,
+            "text": "未作成テキスト",
+            "bustupMajor": -1,
+            "bustupMinor": -1,
+            "unknown": -1,
+            "voiceIndex": -1,
+            "isNextChoice": false
+        },
+        {
+            "msgIndex": 221,
+            "text": "未作成テキスト",
+            "bustupMajor": -1,
+            "bustupMinor": -1,
+            "unknown": -1,
+            "voiceIndex": -1,
+            "isNextChoice": false
+        },
+        {
+            "msgIndex": 222,
+            "text": "未作成テキスト",
+            "bustupMajor": -1,
+            "bustupMinor": -1,
+            "unknown": -1,
+            "voiceIndex": -1,
+            "isNextChoice": false
+        },
+        {
+            "msgIndex": 223,
+            "text": "未作成テキスト",
+            "bustupMajor": -1,
+            "bustupMinor": -1,
+            "unknown": -1,
+            "voiceIndex": -1,
+            "isNextChoice": false
+        },
+        {
+            "msgIndex": 224,
+            "text": "未作成テキスト",
+            "bustupMajor": -1,
+            "bustupMinor": -1,
+            "unknown": -1,
+            "voiceIndex": -1,
+            "isNextChoice": false
+        },
+        {
+            "msgIndex": 225,
+            "text": "未作成テキスト",
+            "bustupMajor": -1,
+            "bustupMinor": -1,
+            "unknown": -1,
+            "voiceIndex": -1,
+            "isNextChoice": false
+        },
+        {
+            "msgIndex": 226,
+            "text": "未作成テキスト",
+            "bustupMajor": -1,
+            "bustupMinor": -1,
+            "unknown": -1,
+            "voiceIndex": -1,
+            "isNextChoice": false
+        },
+        {
+            "msgIndex": 227,
+            "text": "未作成テキスト",
+            "bustupMajor": -1,
+            "bustupMinor": -1,
+            "unknown": -1,
+            "voiceIndex": -1,
+            "isNextChoice": false
+        },
+        {
+            "msgIndex": 228,
+            "text": "未作成テキスト",
+            "bustupMajor": -1,
+            "bustupMinor": -1,
+            "unknown": -1,
+            "voiceIndex": -1,
+            "isNextChoice": false
+        },
+        {
+            "msgIndex": 229,
+            "text": "未作成テキスト",
+            "bustupMajor": -1,
+            "bustupMinor": -1,
+            "unknown": -1,
+            "voiceIndex": -1,
+            "isNextChoice": false
+        },
+        {
+            "msgIndex": 230,
+            "text": "未作成テキスト",
+            "bustupMajor": -1,
+            "bustupMinor": -1,
+            "unknown": -1,
+            "voiceIndex": -1,
+            "isNextChoice": false
+        },
+        {
+            "msgIndex": 231,
+            "text": "未作成テキスト",
+            "bustupMajor": -1,
+            "bustupMinor": -1,
+            "unknown": -1,
+            "voiceIndex": -1,
+            "isNextChoice": false
+        },
+        {
+            "msgIndex": 232,
+            "text": "未作成テキスト",
+            "bustupMajor": -1,
+            "bustupMinor": -1,
+            "unknown": -1,
+            "voiceIndex": -1,
+            "isNextChoice": false
+        },
+        {
+            "msgIndex": 233,
+            "text": "未作成テキスト",
+            "bustupMajor": -1,
+            "bustupMinor": -1,
+            "unknown": -1,
+            "voiceIndex": -1,
+            "isNextChoice": false
+        },
+        {
+            "msgIndex": 234,
+            "text": "未作成テキスト",
+            "bustupMajor": -1,
+            "bustupMinor": -1,
+            "unknown": -1,
+            "voiceIndex": -1,
+            "isNextChoice": false
+        },
+        {
+            "msgIndex": 235,
+            "text": "未作成テキスト",
+            "bustupMajor": -1,
+            "bustupMinor": -1,
+            "unknown": -1,
+            "voiceIndex": -1,
+            "isNextChoice": false
+        },
+        {
+            "msgIndex": 236,
+            "text": "未作成テキスト",
+            "bustupMajor": -1,
+            "bustupMinor": -1,
+            "unknown": -1,
+            "voiceIndex": -1,
+            "isNextChoice": false
+        },
+        {
+            "msgIndex": 237,
+            "text": "未作成テキスト",
+            "bustupMajor": -1,
+            "bustupMinor": -1,
+            "unknown": -1,
+            "voiceIndex": -1,
+            "isNextChoice": false
+        },
+        {
+            "msgIndex": 238,
+            "text": "未作成テキスト",
+            "bustupMajor": -1,
+            "bustupMinor": -1,
+            "unknown": -1,
+            "voiceIndex": -1,
+            "isNextChoice": false
+        },
+        {
+            "msgIndex": 239,
+            "text": "未作成テキスト",
+            "bustupMajor": -1,
+            "bustupMinor": -1,
+            "unknown": -1,
+            "voiceIndex": -1,
+            "isNextChoice": false
+        },
+        {
+            "msgIndex": 240,
+            "text": "未作成テキスト",
+            "bustupMajor": -1,
+            "bustupMinor": -1,
+            "unknown": -1,
+            "voiceIndex": -1,
+            "isNextChoice": false
+        },
+        {
+            "msgIndex": 241,
+            "text": "未作成テキスト",
+            "bustupMajor": -1,
+            "bustupMinor": -1,
+            "unknown": -1,
+            "voiceIndex": -1,
+            "isNextChoice": false
+        },
+        {
+            "msgIndex": 242,
+            "text": "未作成テキスト",
+            "bustupMajor": -1,
+            "bustupMinor": -1,
+            "unknown": -1,
+            "voiceIndex": -1,
+            "isNextChoice": false
+        },
+        {
+            "msgIndex": 243,
+            "text": "未作成テキスト",
+            "bustupMajor": -1,
+            "bustupMinor": -1,
+            "unknown": -1,
+            "voiceIndex": -1,
+            "isNextChoice": false
+        },
+        {
+            "msgIndex": 244,
+            "text": "未作成テキスト",
+            "bustupMajor": -1,
+            "bustupMinor": -1,
+            "unknown": -1,
+            "voiceIndex": -1,
+            "isNextChoice": false
+        },
+        {
+            "msgIndex": 245,
+            "text": "未作成テキスト",
+            "bustupMajor": -1,
+            "bustupMinor": -1,
+            "unknown": -1,
+            "voiceIndex": -1,
+            "isNextChoice": false
+        },
+        {
+            "msgIndex": 246,
+            "text": "未作成テキスト",
+            "bustupMajor": -1,
+            "bustupMinor": -1,
+            "unknown": -1,
+            "voiceIndex": -1,
+            "isNextChoice": false
+        },
+        {
+            "msgIndex": 247,
+            "text": "未作成テキスト",
+            "bustupMajor": -1,
+            "bustupMinor": -1,
+            "unknown": -1,
+            "voiceIndex": -1,
+            "isNextChoice": false
+        },
+        {
+            "msgIndex": 248,
+            "text": "未作成テキスト",
+            "bustupMajor": -1,
+            "bustupMinor": -1,
+            "unknown": -1,
+            "voiceIndex": -1,
+            "isNextChoice": false
+        },
+        {
+            "msgIndex": 249,
+            "text": "未作成テキスト",
+            "bustupMajor": -1,
+            "bustupMinor": -1,
+            "unknown": -1,
+            "voiceIndex": -1,
+            "isNextChoice": false
+        },
+        {
+            "msgIndex": 250,
+            "text": "未作成テキスト",
+            "bustupMajor": -1,
+            "bustupMinor": -1,
+            "unknown": -1,
+            "voiceIndex": -1,
+            "isNextChoice": false
+        },
+        {
+            "msgIndex": 251,
+            "text": "未作成テキスト",
+            "bustupMajor": -1,
+            "bustupMinor": -1,
+            "unknown": -1,
+            "voiceIndex": -1,
+            "isNextChoice": false
+        },
+        {
+            "msgIndex": 252,
+            "text": "未作成テキスト",
+            "bustupMajor": -1,
+            "bustupMinor": -1,
+            "unknown": -1,
+            "voiceIndex": -1,
+            "isNextChoice": false
+        },
+        {
+            "msgIndex": 253,
+            "text": "未作成テキスト",
+            "bustupMajor": -1,
+            "bustupMinor": -1,
+            "unknown": -1,
+            "voiceIndex": -1,
+            "isNextChoice": false
+        },
+        {
+            "msgIndex": 254,
+            "text": "未作成テキスト",
+            "bustupMajor": -1,
+            "bustupMinor": -1,
+            "unknown": -1,
+            "voiceIndex": -1,
+            "isNextChoice": false
+        },
+        {
+            "msgIndex": 255,
+            "text": "未作成テキスト",
+            "bustupMajor": -1,
+            "bustupMinor": -1,
+            "unknown": -1,
+            "voiceIndex": -1,
+            "isNextChoice": false
+        },
+        {
+            "msgIndex": 256,
+            "text": "未作成テキスト",
+            "bustupMajor": -1,
+            "bustupMinor": -1,
+            "unknown": -1,
+            "voiceIndex": -1,
+            "isNextChoice": false
+        },
+        {
+            "msgIndex": 257,
+            "text": "未作成テキスト",
+            "bustupMajor": -1,
+            "bustupMinor": -1,
+            "unknown": -1,
+            "voiceIndex": -1,
+            "isNextChoice": false
+        },
+        {
+            "msgIndex": 258,
+            "text": "未作成テキスト",
+            "bustupMajor": -1,
+            "bustupMinor": -1,
+            "unknown": -1,
+            "voiceIndex": -1,
+            "isNextChoice": false
+        },
+        {
+            "msgIndex": 259,
+            "text": "未作成テキスト",
+            "bustupMajor": -1,
+            "bustupMinor": -1,
+            "unknown": -1,
+            "voiceIndex": -1,
+            "isNextChoice": false
+        },
+        {
+            "msgIndex": 260,
+            "text": "未作成テキスト",
+            "bustupMajor": -1,
+            "bustupMinor": -1,
+            "unknown": -1,
+            "voiceIndex": -1,
+            "isNextChoice": false
+        },
+        {
+            "msgIndex": 261,
+            "text": "未作成テキスト",
+            "bustupMajor": -1,
+            "bustupMinor": -1,
+            "unknown": -1,
+            "voiceIndex": -1,
+            "isNextChoice": false
+        },
+        {
+            "msgIndex": 262,
+            "text": "未作成テキスト",
+            "bustupMajor": -1,
+            "bustupMinor": -1,
+            "unknown": -1,
+            "voiceIndex": -1,
+            "isNextChoice": false
+        },
+        {
+            "msgIndex": 263,
+            "text": "未作成テキスト",
+            "bustupMajor": -1,
+            "bustupMinor": -1,
+            "unknown": -1,
+            "voiceIndex": -1,
+            "isNextChoice": false
+        },
+        {
+            "msgIndex": 264,
+            "text": "未作成テキスト",
+            "bustupMajor": -1,
+            "bustupMinor": -1,
+            "unknown": -1,
+            "voiceIndex": -1,
+            "isNextChoice": false
+        },
+        {
+            "msgIndex": 265,
+            "text": "未作成テキスト",
+            "bustupMajor": -1,
+            "bustupMinor": -1,
+            "unknown": -1,
+            "voiceIndex": -1,
+            "isNextChoice": false
+        },
+        {
+            "msgIndex": 266,
+            "text": "未作成テキスト",
+            "bustupMajor": -1,
+            "bustupMinor": -1,
+            "unknown": -1,
+            "voiceIndex": -1,
+            "isNextChoice": false
+        },
+        {
+            "msgIndex": 267,
+            "text": "未作成テキスト",
+            "bustupMajor": -1,
+            "bustupMinor": -1,
+            "unknown": -1,
+            "voiceIndex": -1,
+            "isNextChoice": false
+        },
+        {
+            "msgIndex": 268,
+            "text": "未作成テキスト",
+            "bustupMajor": -1,
+            "bustupMinor": -1,
+            "unknown": -1,
+            "voiceIndex": -1,
+            "isNextChoice": false
+        },
+        {
+            "msgIndex": 269,
+            "text": "未作成テキスト",
+            "bustupMajor": -1,
+            "bustupMinor": -1,
+            "unknown": -1,
+            "voiceIndex": -1,
+            "isNextChoice": false
+        },
+        {
+            "msgIndex": 270,
+            "text": "未作成テキスト",
+            "bustupMajor": -1,
+            "bustupMinor": -1,
+            "unknown": -1,
+            "voiceIndex": -1,
+            "isNextChoice": false
+        },
+        {
+            "msgIndex": 271,
+            "text": "未作成テキスト",
+            "bustupMajor": -1,
+            "bustupMinor": -1,
+            "unknown": -1,
+            "voiceIndex": -1,
+            "isNextChoice": false
+        },
+        {
+            "msgIndex": 272,
+            "text": "未作成テキスト",
+            "bustupMajor": -1,
+            "bustupMinor": -1,
+            "unknown": -1,
+            "voiceIndex": -1,
+            "isNextChoice": false
+        },
+        {
+            "msgIndex": 273,
+            "text": "未作成テキスト",
+            "bustupMajor": -1,
+            "bustupMinor": -1,
+            "unknown": -1,
+            "voiceIndex": -1,
+            "isNextChoice": false
+        },
+        {
+            "msgIndex": 274,
+            "text": "未作成テキスト",
+            "bustupMajor": -1,
+            "bustupMinor": -1,
+            "unknown": -1,
+            "voiceIndex": -1,
+            "isNextChoice": false
+        },
+        {
+            "msgIndex": 275,
+            "text": "未作成テキスト",
+            "bustupMajor": -1,
+            "bustupMinor": -1,
+            "unknown": -1,
+            "voiceIndex": -1,
+            "isNextChoice": false
+        },
+        {
+            "msgIndex": 276,
+            "text": "未作成テキスト",
+            "bustupMajor": -1,
+            "bustupMinor": -1,
+            "unknown": -1,
+            "voiceIndex": -1,
+            "isNextChoice": false
+        },
+        {
+            "msgIndex": 277,
+            "text": "未作成テキスト",
+            "bustupMajor": -1,
+            "bustupMinor": -1,
+            "unknown": -1,
+            "voiceIndex": -1,
+            "isNextChoice": false
+        },
+        {
+            "msgIndex": 278,
+            "text": "未作成テキスト",
+            "bustupMajor": -1,
+            "bustupMinor": -1,
+            "unknown": -1,
+            "voiceIndex": -1,
+            "isNextChoice": false
+        },
+        {
+            "msgIndex": 279,
+            "text": "未作成テキスト",
+            "bustupMajor": -1,
+            "bustupMinor": -1,
+            "unknown": -1,
+            "voiceIndex": -1,
+            "isNextChoice": false
+        },
+        {
+            "msgIndex": 280,
+            "text": "未作成テキスト",
+            "bustupMajor": -1,
+            "bustupMinor": -1,
+            "unknown": -1,
+            "voiceIndex": -1,
+            "isNextChoice": false
+        },
+        {
+            "msgIndex": 281,
+            "text": "未作成テキスト",
+            "bustupMajor": -1,
+            "bustupMinor": -1,
+            "unknown": -1,
+            "voiceIndex": -1,
+            "isNextChoice": false
+        },
+        {
+            "msgIndex": 282,
+            "text": "未作成テキスト",
+            "bustupMajor": -1,
+            "bustupMinor": -1,
+            "unknown": -1,
+            "voiceIndex": -1,
+            "isNextChoice": false
+        },
+        {
+            "msgIndex": 283,
+            "text": "未作成テキスト",
+            "bustupMajor": -1,
+            "bustupMinor": -1,
+            "unknown": -1,
+            "voiceIndex": -1,
+            "isNextChoice": false
+        },
+        {
+            "msgIndex": 284,
+            "text": "未作成テキスト",
+            "bustupMajor": -1,
+            "bustupMinor": -1,
+            "unknown": -1,
+            "voiceIndex": -1,
+            "isNextChoice": false
+        },
+        {
+            "msgIndex": 285,
+            "text": "未作成テキスト",
+            "bustupMajor": -1,
+            "bustupMinor": -1,
+            "unknown": -1,
+            "voiceIndex": -1,
+            "isNextChoice": false
+        },
+        {
+            "msgIndex": 286,
+            "text": "未作成テキスト",
+            "bustupMajor": -1,
+            "bustupMinor": -1,
+            "unknown": -1,
+            "voiceIndex": -1,
+            "isNextChoice": false
+        },
+        {
+            "msgIndex": 287,
+            "text": "未作成テキスト",
+            "bustupMajor": -1,
+            "bustupMinor": -1,
+            "unknown": -1,
+            "voiceIndex": -1,
+            "isNextChoice": false
+        },
+        {
+            "msgIndex": 288,
+            "text": "未作成テキスト",
+            "bustupMajor": -1,
+            "bustupMinor": -1,
+            "unknown": -1,
+            "voiceIndex": -1,
+            "isNextChoice": false
+        },
+        {
+            "msgIndex": 289,
+            "text": "未作成テキスト",
+            "bustupMajor": -1,
+            "bustupMinor": -1,
+            "unknown": -1,
+            "voiceIndex": -1,
+            "isNextChoice": false
+        },
+        {
+            "msgIndex": 290,
+            "text": "未作成テキスト",
+            "bustupMajor": -1,
+            "bustupMinor": -1,
+            "unknown": -1,
+            "voiceIndex": -1,
+            "isNextChoice": false
+        },
+        {
+            "msgIndex": 291,
+            "text": "未作成テキスト",
+            "bustupMajor": -1,
+            "bustupMinor": -1,
+            "unknown": -1,
+            "voiceIndex": -1,
+            "isNextChoice": false
+        },
+        {
+            "msgIndex": 292,
+            "text": "未作成テキスト",
+            "bustupMajor": -1,
+            "bustupMinor": -1,
+            "unknown": -1,
+            "voiceIndex": -1,
+            "isNextChoice": false
+        },
+        {
+            "msgIndex": 293,
+            "text": "未作成テキスト",
+            "bustupMajor": -1,
+            "bustupMinor": -1,
+            "unknown": -1,
+            "voiceIndex": -1,
+            "isNextChoice": false
+        },
+        {
+            "msgIndex": 294,
+            "text": "未作成テキスト",
+            "bustupMajor": -1,
+            "bustupMinor": -1,
+            "unknown": -1,
+            "voiceIndex": -1,
+            "isNextChoice": false
+        },
+        {
+            "msgIndex": 295,
+            "text": "未作成テキスト",
+            "bustupMajor": -1,
+            "bustupMinor": -1,
+            "unknown": -1,
+            "voiceIndex": -1,
+            "isNextChoice": false
+        },
+        {
+            "msgIndex": 296,
+            "text": "未作成テキスト",
+            "bustupMajor": -1,
+            "bustupMinor": -1,
+            "unknown": -1,
+            "voiceIndex": -1,
+            "isNextChoice": false
+        },
+        {
+            "msgIndex": 297,
+            "text": "未作成テキスト",
+            "bustupMajor": -1,
+            "bustupMinor": -1,
+            "unknown": -1,
+            "voiceIndex": -1,
+            "isNextChoice": false
+        },
+        {
+            "msgIndex": 298,
+            "text": "未作成テキスト",
+            "bustupMajor": -1,
+            "bustupMinor": -1,
+            "unknown": -1,
+            "voiceIndex": -1,
+            "isNextChoice": false
+        },
+        {
+            "msgIndex": 299,
+            "text": "未作成テキスト",
+            "bustupMajor": -1,
+            "bustupMinor": -1,
+            "unknown": -1,
+            "voiceIndex": -1,
+            "isNextChoice": false
+        }
+    ]
+}
