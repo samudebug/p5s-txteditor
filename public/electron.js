@@ -2,6 +2,8 @@ const {app, BrowserWindow, Menu, ipcMain, dialog} = require('electron');
 const fs = require('fs')
 const readFile = require('./reader');
 const writeFile = require('./writer');
+const path = require("path")
+const url = require("url");
 let win;
 const menuTemplate = [
     {
@@ -89,6 +91,7 @@ async function exportFile(event, data) {
             }
         ]
     });
+    
     if (filePath !== undefined) {
         try {
             writeFile(filePath, data);
@@ -130,8 +133,12 @@ function saveProject(filePath, jsonData) {
 
 function createWindow() {
     const menu = Menu.buildFromTemplate(menuTemplate);
-    win = new BrowserWindow({width: 800, height: 600, webPreferences: {nodeIntegration: true}});
-    win.loadURL('http://localhost:3000/')
+    win = new BrowserWindow({width: 800, height: 600, icon: './favicon.ico', webPreferences: {nodeIntegration: true}});
+    win.loadURL(url.format({
+        pathname: path.join(__dirname, '/../build/index.html'),
+        protocol: 'file:',
+        slashes: true
+    }))
     Menu.setApplicationMenu(menu)
     ipcMain.on("save-data", saveDataCallback);
     ipcMain.on("open-file", openFile);
