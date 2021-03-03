@@ -1,5 +1,4 @@
-import { useRef } from 'react'
-import readFile from '../fileReader/reader';
+import { useEffect } from 'react'
 import {useHistory} from 'react-router-dom'
 import { Layout, Row, Col } from 'antd';
 import Button from '../button/Button'
@@ -10,9 +9,24 @@ const electron = window.require("electron");
 
 const { Content} = Layout;
 function Home() {
-    const inpRef = useRef(null);
     const history = useHistory();
     const fileContext = useFile();
+    useEffect(() => {
+        electron.ipcRenderer.on("invoke-open", (event, data) => {
+            electron.ipcRenderer.send("open-file", {});
+        })
+        
+        electron.ipcRenderer.on("invoke-open-project", (event, data) => {
+            electron.ipcRenderer.send("open-project", {});
+        })
+
+        electron.ipcRenderer.on("opened-file-data", (event, data) => {
+            openFile(data);
+        })
+        return () => {
+            electron.ipcRenderer.removeAllListeners();
+        }
+    })
     const openFile = async (file) => {
         // const file = e.target.files[0];
         // if (!file) {

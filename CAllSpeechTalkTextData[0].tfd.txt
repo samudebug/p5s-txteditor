@@ -1,0 +1,4000 @@
+0	0	All right, let's begin the operation!
+1	0	That was one hell of an entrance, Joker![0a]They're all riled up!
+2	0	Just keep at it! Go ham until you've drawn[0a]every last bit of attention!
+3	0	Everyone else, proceed as planned![0a]Joker's got the diversion covered,[0a]so now's your time to shine!
+4	0	Gotcha. Leave the searchlights to us!
+5	0	And we're to support Oracle as she[0a]hacks the terminal?
+6	0	Right. Let's secure the area in front[0a]of the gate first.
+7	0	Yes, yes! Slice 'em and dice 'em!
+8	0	Mweheheh, the enemy's starting to[0a]swarm Joker... Teach 'em a lesson!
+9	0	Joker's got the enemy BIG time mad![0a]Awesome job—just a bit longer!
+10	0	He's doing it all by himself, too...[0a]Now that's our Joker!
+11	0	I bet Skull wouldn't pull it off that[0a]smoothly.
+12	0	The hell's with this déjà vu?
+13	0	Hmm? Look out, we've got incoming!
+14	0	Dammit! Fine, let's do this! We'll[0a]take ALL of you on!
+15	0	Stay sharp, you two! We haven't[0a]fought in some time.
+16	0	Just warm up a bit for starters. It'll[0a]come back to you soon enough!
+17	0	Heh, don't forget who you're talkin'[0a]to—this is the offense duty champ!
+18	0	That's what I like to see, Skull![0a]We should get in there too!
+19	0	Joker—use your Persona!
+20	0	That's it, Joker! Now let's finish them off!
+21	0	You're done for!
+22	0	Heh, you AND your shield can say[0a]goodbye!
+23	0	So it's not just the outfits—we even[0a]got our Personas, huh?
+24	0	And there's a ton of Shadows here[0a]too... What the hell is this place?
+25	0	I'm getting a feeling... Is this a...?
+26	0	Wait, we're trapped!? What do we[0a]do now!?
+27	0	Who could do this? Well, let's take[0a]these Shadows out and see if it[0a]disappears!
+28	0	Reinforcements... If this keeps up[0a]much longer, we'll be done for.
+29	0	We should make good use of our[0a]surroundings. See anything that[0a]could give you the advantage?
+30	0	Great show, Joker! You really[0a]did 'em in with that one!
+31	0	My head... is spinnin'...
+32	0	Skull! Keep it together!
+33	0	All right! That'll show 'em!
+34	0	Y'all are WAY too weak! Don't even[0a]try stepping to us again!
+35	0	Looks like the cage around us[0a]is gone.
+36	0	Hmm?
+37	0	Joker! Skull! Watch out!
+38	0	The hell... Even more of 'em!?
+39	0	We're getting surrounded fast...[0a]We have to retreat!
+40	0	Guys—over there! That looks like[0a]our best bet!
+41	0	Let's move it!
+42	0	This place is disgusting. Who just[0a]dumps people into garbage like[0a]that?
+43	0	Let's find a way out as soon as[0a]possible.
+44	0	We don't know what we'll run into,[0a]either—let's keep an eye on how[0a]we're holding up as we press on.
+45	0	Where the hell'd they come from!?
+46	0	Nobody's coming for us if we go[0a]down here. Let's get 'em!
+47	0	All right, let's be careful.
+48	0	We'd be fine, but we don't want to[0a]endanger Sophia. Try staying out of[0a]sight.
+49	0	Wait! A Shadow!
+50	0	Holy shit! She just beat 'em!
+51	0	No way... Was that a Persona!?
+52	0	Who the— What are you doing!?
+53	0	I am helping the Phantom Thieves.[0a]Don't take it personally.
+54	0	...In that case, let's get in there too!
+55	0	Oh, right—keep track of how[0a]you're holding up. Need any[0a]healing items?
+56	0	Check anything suspicious-looking.[0a]Never know what you might find...
+57	0	Shadows incoming! A whole load[0a]of 'em... Get ready!
+58	0	There are more ways to target an[0a]enemy's weakness than skills alone,[0a]remember?
+59	0	Pow, Shadow down! Nice one. That[0a]kind of shooting'll get you far!
+60	0	Now's our chance! Wipe 'em out!
+61	0	Stay on your toes, Joker—they've got[0a]skills just like we do!
+62	0	Hey Joker, you think you could find[0a]your way up there?
+63	0	Hmm, they've got numbers on their[0a]side... but not enough to stop us!
+64	0	Joker, show 'em who's boss!
+65	0	Ooh! Looking cool, Joker!
+66	0	Haha, man do you kick ass! I gotta[0a]start catchin' up!
+67	0	Wait—Shadows ahead! They haven't[0a]spotted us yet.
+68	0	Should I "wipe them out" for you?
+69	0	Here's a tip on us Phantom Thieves:[0a]we avoid charging headfirst into[0a]battle whenever possible.
+70	0	Let's try those stairs for now.
+71	0	Hey! Who's sneaking around here!?
+72	0	Looks like we're busted... We can[0a]still use our surroundings to our[0a]advantage, though.
+73	0	See that hanging there, Joker?[0a]You thinking what I'm thinking?
+74	0	Great, right where we want 'em![0a]Now let 'em have it!
+75	0	Nailed it!
+76	0	Looking cool, Joker!
+77	0	All that's left is moppin' up the rest!
+78	0	Yay, we won.
+79	0	Don't celebrate just yet... Aren't we[0a]in a dead end?
+80	0	...There.
+81	0	If we climb there, we can proceed.
+82	0	Guess there's no other option...
+83	0	I've got eyes on them!
+84	0	They just don't quit! Let's take them[0a]down, Joker!
+85	0	Ooh, you got another Persona![0a]Looks like that power you've got[0a]is alive and well!
+86	0	The enemy became a mask?[0a]Explain this.
+87	0	He seals a Shadow's form and power[0a]into a mask, turning it into a Persona.
+88	0	Oh. Interesting.
+89	0	Enemy ahead!
+90	0	Joker, try that Persona you just got!
+91	0	Let's focus on the big Shadow for[0a]now!
+92	0	How are you holding up? Make sure[0a]you heal yourself when you need it.
+93	0	This leads further inward. Should we[0a]investigate?
+94	0	Nah, we should focus on our escape.
+95	0	Hang on—it looks like this is the exit!
+96	0	Oh hell yes! Let's get our asses[0a]OUTTA here!
+97	0	Be careful—they've got serious[0a]numbers.
+98	0	Don'tcha remember what to do at[0a]times like this?
+99	0	Watch for an opening, then jump it[0a]from behind! Be careful not to get[0a]spotted!
+100	0	Now's your chance! Everyone, jump[0a]in and take 'em out!
+101	0	We did it! That ambush was a real[0a]success.
+102	0	Indeed. It's been quite some time[0a]since we fought last, but my body[0a]is still ready for more.
+103	0	They'll go a lot smoother whenever[0a]we ambush them like that, too.
+104	0	On the other hand, if we're spotted,[0a]they'll get the upper hand against[0a]us. Keep sharp out there.
+105	0	I guess now we just push forward[0a]and see what we see? Navigator[0a]at the ready!
+106	0	Hang on there! Searchlights[0a]confirmed!
+107	0	Getting spotted by one of those'll[0a]mean big trouble—surrounded in[0a]no time.
+108	0	Shadows are patrolling, too...[0a]No surprise, security is tight here.
+109	0	A frontal assault sounds like it might[0a]be out of the picture.
+110	0	Let's see if we have anything else[0a]here...
+111	0	I said not that way! That's searchlight[0a]territory!
+112	0	Hey, look! Maybe we can get in there.
+113	0	Great! If we run along there, getting[0a]in the castle should be a cinch.
+114	0	But there are more searchlights.[0a]How will we get past?
+115	0	They're smaller than the other ones,[0a]why don't we just try sneakin' past?
+116	0	Wha— Holy shit!
+117	0	We can't go any further! They're[0a]firing on anything within range.
+118	0	Oracle, can you find a way to shut[0a]them down?
+119	0	Just a sec... Analyzing...
+120	0	......
+121	0	Yesss! Got it!
+122	0	The searchlights' power source is[0a]south of here!
+123	0	South... Yeah, which way's that?
+124	0	In reality, it'd be somewhere around[0a]Maruku City. Must be some sorta[0a]facility providing power over there.
+125	0	All right, off to Maruku City! Let's[0a]move out.
+126	0	The Jail looks like Shibuya, but the[0a]layout isn't exactly the same... I'm[0a]worried we'll get ourselves lost.
+127	0	Yeah, you should keep tabs on your[0a]location or that'll probably happen!
+128	0	Maruku City's straight ahead from[0a]here. I'll highlight it on your map.
+129	0	Wait—sentry!
+130	0	It has some kind of light, too...
+131	0	Oh great. Once that thing sees us,[0a]Shadows are just gonna start[0a]pourin' in.
+132	0	We should avoid all head-on conflict[0a]when possible. Life only gets harder[0a]when they're on high alert.
+133	0	And if we're spotted too many times,[0a]we'll have no choice but to come[0a]back later.
+134	0	Let's look for an alternate route—[0a]maybe one where we can stay[0a]unseen.
+135	0	There's a sentry here as well.
+136	0	Guess we just hafta take that one[0a]out...
+137	0	It looks like it hasn't noticed us yet,[0a]though.
+138	0	Joker, think you could pull off an[0a]ambush from over there?
+139	0	Nice move, Joker!
+140	0	Well done.
+141	0	Taking down enemies doesn't get[0a]any easier than an ambush!
+142	0	Oh! A treasure chest!
+143	0	Shit yeah! Let's stomp those guys[0a]and loot that thing!
+144	0	Wait! That treasure chest has a[0a]security system!
+145	0	If the security level here gets too[0a]high, the chest is shielded until[0a]things quiet back down again.
+146	0	If enemies spot us too many times,[0a]no treasure for us. Got it.
+147	0	Damn, they saw us!
+148	0	Oh, the treasure chest...
+149	0	Yes! It's all ours!
+150	0	Wave of Shadows incoming![0a]They're weak to [1b]M0~4~Electricity[0a]and [1b]M0~2~Fire!
+151	0	Can't strike their weakness? Try a[0a]Baton Pass!
+152	0	That takes care of that. Let's get[0a]going.
+153	0	Stoooooop! Maruku City's right here.
+154	0	You mean on the other side of that?
+155	0	I don't see a way to open the gate,[0a]either. Looks like we need an[0a]alternative.
+156	0	Such as? I don't think we'll be able[0a]to climb that.
+157	0	Look over there—what if we tried[0a]going up that way?
+158	0	At the very least, we might spot[0a]a way around this from up there.
+159	0	Good idea. Let's hop on up.
+160	0	Heeey, that's the wrong way![0a]Look at your objective markerrr!
+161	0	Waugh, this is tight...! Think we can[0a]really make it?
+162	0	Whoooa! Look at that god-tier[0a]balance!
+163	0	One moment. Something is nearby.
+164	0	Something? What kinda something?
+165	0	It is a... space. Connected to...[0a]somewhere.
+166	0	Hmmm!? Hey, Sophie! You're right!
+167	0	It's like the space here is being[0a]warped... and connected to... the[0a]Crossing?
+168	0	As in, the Crossing where we first[0a]entered the Jail?
+169	0	Sooo, if we use this, we'll go back to[0a]the entrance?
+170	0	Sounds like moving between the Jail[0a]and the real world will make our[0a]resupply efforts at least a bit easier.
+171	0	That's it: I'm callin' this a checkpoint![0a]Go ahead and give it a spin so the[0a]location data registers.
+172	0	Oh? Do you intend to skip the[0a]checkpoint?
+173	0	It looks like this tunnel eventually[0a]leads right under Maruku City.
+174	0	Tunnel? Looks more like a sewer to[0a]me. And there's no easy way to get[0a]to the other side...
+175	0	Welp, looks like we're swimmin'.
+176	0	No, no, no. I am NOT swimming[0a]in THAT. Not happening!
+177	0	I would prefer not to as well... Can't[0a]we search for another way?
+178	0	...Hey, check out the grate.
+179	0	What do you think—could we use[0a]that to get around?
+180	0	Yeah, it's worth a try!
+181	0	Gah, it's too cramped in here! I keep[0a]runnin' into Panther's boots.
+182	0	Run into anything else back there[0a]and I'll show you how much damage[0a]these boots can really do.
+183	0	*gasp* No, please don't. For real.
+184	0	Hey, we came out right where we[0a]wanted! I knew that was the right[0a]move!
+185	0	We should be able to traverse this[0a]using the pipes.
+186	0	Neat. Very thiefy.
+187	0	We ARE the Phantom Thieves, ya[0a]know! You'll get it soon enough!
+188	0	I'll bet that leads to the surface.
+189	0	Who the hell are you!?
+190	0	Waugh! Busted!
+191	0	Can't have these guys raise a fuss[0a]about us. Get rid of 'em, quick!
+192	0	All good? Then out of the "tunnel"[0a]we go!
+193	0	Heeey, we're just on the other side[0a]of the wall! Well done, Thieves!
+194	0	Great! Now the tower itself is all[0a]that's left!
+195	0	Lift those knees up. One two,[0a]one two!
+196	0	Oh yeah, made it!
+197	0	All right, let's check out that light!
+198	0	I wonder if the other cores are in jail-[0a]cell-covered towers like this one...
+199	0	Some form of shorthand reference[0a]would be more convenient. How[0a]does "Incarceration Zone" sound?
+200	0	In-cars-or... what? Dude, why the[0a]hell would we call it that?
+201	0	These places are for protecting the[0a]Jail's power sources, so... how about[0a]"Prison Keeps"?
+202	0	This is where Miyamae Park is[0a]in the real world.
+203	0	Is that our current destination?
+204	0	Well, that didn't take long.
+205	0	This one doesn't appear any easier[0a]to breach, though.
+206	0	Looks like we're taking the long way[0a]'round.
+207	0	Security is gonna be tight—let's stay[0a]sharp.
+208	0	Who's there!?
+209	0	Uh-oh, busted! Take 'em out before[0a]they call for backup!
+210	0	Hey, check out the skateboard! Feel[0a]like shredding some Shadows?
+211	0	Ooh, good call, Skull! I bet you[0a]could mow down a whole gang[0a]of Shadows if you did it right!
+212	0	This gate's closed too. Maybe there's[0a]another way in somewhere over[0a]there?
+213	0	I can't see an entrance...
+214	0	Maybe we should gain some[0a]elevation?
+215	0	That spot seems rather odd...
+216	0	Maybe we'll find something useful[0a]there. C'mon, let's check it out!
+217	0	Nice work! Now, to infiltrate the[0a]Keep!
+218	0	Aw, another locked door?[0a]And we'd made it so far...
+219	0	Hold up! I think I might be able to[0a]hack this.
+220	0	Ooh, for real!?
+221	0	Let's check out the terminal—at the[0a]very least, I can give it a shot.
+222	0	Uh-huh, uh-huh... Great, I should[0a]be able to work with this!
+223	0	Okay, Oracle, we'll leave the door[0a]to you.
+224	0	Time to get crackin'! Aaaaand, go!
+225	0	Whoa, whoa! Where'd all these[0a]Shadows come from!?
+226	0	Uh-oh, busted! Keep 'em off of me,[0a]guys!
+227	0	Everyone—protect Oracle!
+228	0	Oracle! Report!
+229	0	Almost there! Just a little bit longer!
+230	0	The Shadows are givin' me guff![0a]Somebody, help!
+231	0	This is not looking good... Heeelp!
+232	0	Yes, I did it!
+233	0	That really freaked me out for a bit[0a]there... Thanks for having my back.
+234	0	It seems any hacking attempts here[0a]are met with reinforcements.
+235	0	Let's make sure Oracle's as prepared[0a]as possible from here on out.
+236	0	Wait—incoming Shadows!
+237	0	How'd you get in here!? Where are[0a]the guards!?
+238	0	In Her Majesty's name, you shall go[0a]no further!
+239	0	Watch out! That one's extra tough!
+240	0	It's gotta have an opening[0a]somewhere! Watch its[0a]movements!
+241	0	Ohhh, you guys rule!
+242	0	Now it's just a climb to the top.[0a]Full steam ahead!
+243	0	This core is Alice on a... book?
+244	0	She made the cover of UN UN?[0a]That's a really famous magazine.
+245	0	A widely recognized symbol of[0a]power. Mona's theory is being[0a]proven with each turn.
+246	0	She would've been famous even if[0a]she hadn't started doing all this...
+247	0	Panther...
+248	0	Then what reason did she have?[0a]Does she even have one at all?
+249	0	Whatever the case, the next core's[0a]the last one.
+250	0	It's just a bit west of here! Over by[0a]Bunkamachi.
+251	0	Bunkamachi? That's quite the[0a]cultural hotspot.
+252	0	Returning to Shibuya Crossing and[0a]using Central Street would probably[0a]be quickest.
+253	0	Once you get past Central Street,[0a]you'll be at Bunkamachi.
+254	0	Bunkamachi is home to a large[0a]ballet hall as well.
+255	0	Ballet? Oh, I got it—where wealthy[0a]people have others park their own[0a]vehicles for them.
+256	0	...That would be valet.
+257	0	Hey Noir, didn't you say you used[0a]to do valet— I mean, ballet?
+258	0	Yes, I was in a few recitals...[0a]I still use valet service, though.
+259	0	How incredible. I would appreciate[0a]witnessing your valet skills in action.
+260	0	You do know the ballet's what's more[0a]impressive, right?
+261	0	Ah, this looks like something for me[0a]to get my paws on.
+262	0	Best of luck, Oracle—we'll have your[0a]back from here.
+263	0	Yes, hacking complete! Moving on...
+264	0	Huh? What's that for?
+265	0	Hmm, looks like some kinda[0a]generator.
+266	0	Let there be light!
+267	0	...No result. Could it be broken?
+268	0	No, it's feeding power somewhere...
+269	0	Eh, why don't we just leave it for[0a]now? We've got other shit to do.
+270	0	Look, it's another one of those[0a]machines. I wonder what purpose[0a]they serve...
+271	0	Will you switch it on, Joker? Or will[0a]you leave it be?
+272	0	Ummm... Did that do something?
+273	0	Hellooooo?
+274	0	Frickin' nothing, that's what it did!
+275	0	No point hangin' around here. Let's[0a]move on, Joker.
+276	0	Oh, a third generator.
+277	0	What now, Joker? Plan on switching[0a]it on?
+278	0	Nothing yet again?
+279	0	Oh? I think something's been turned[0a]on!
+280	0	So, third time was the charm, was it?
+281	0	Looks like the power is running[0a]up ahead of us. Let's check it out!
+282	0	Hey, isn't this like one of the other[0a]terminals you've been hacking,[0a]Oracle?
+283	0	Sounds like we need you for this one[0a]too. Think you can do it?
+284	0	Hmm, the screen's not on. I don't[0a]think it's powered up.
+285	0	It can't be hacked? But, we have[0a]nowhere else to go.
+286	0	Oh, right! I think I remember[0a]spotting some huge machine[0a]on Central Street.
+287	0	Maybe that's this terminal's power[0a]source?
+288	0	I believe that's our only lead for now.[0a]Let's return to Central Street.
+289	0	Hey, ain't this another one o' them[0a]terminals Oracle's been hacking?
+290	0	This one's screen is blank, though.[0a]Could it be turned off?
+291	0	We powered something earlier.[0a]Was it not this terminal?
+292	0	No, that went here—it's just not[0a]enough juice.
+293	0	Based on the power consumption,[0a]I'd say this thing uses three separate[0a]sources.
+294	0	THREE power sources!? The electric[0a]bill for this terminal alone must be[0a]horrifying...
+295	0	There have to be more of those[0a]generators somewhere nearby. Let's[0a]go back to Central Street and look.
+296	0	Hmm... Looks like all the power from[0a]those generators we turned on is[0a]ending here.
+297	0	Oh hey, it's another one of those[0a]terminals you've been hacking,[0a]Oracle.
+298	0	Huh? It took three whole generators[0a]to power this one lil' thing?
+299	0	I know what you mean, that seems[0a]rather wasteful. Perhaps something[0a]else beyond here is also powered up.
+300	0	Well, I'm still glad we were able to[0a]find them all.
+301	0	Indeed—otherwise, we would've had[0a]to turn back.
+302	0	Your instincts continue to serve you[0a]well, Joker.
+303	0	All right then! Good luck with the[0a]hacking, Oracle!
+304	0	Hey! Isn't that one of those power[0a]generators?
+305	0	Good thing we found it. Shall we[0a]switch it on now?
+306	0	Do you think this properly powered[0a]the terminal?
+307	0	Uhhh... this isn't gonna cut it.
+308	0	Considering the output levels I'm[0a]seeing here, we're gonna need to[0a]turn on two more.
+309	0	What!? How much power's that[0a]thing use!?
+310	0	Looks like we have to poke around[0a]and find some more generators.
+311	0	Power source sighted. We should[0a]turn it on.
+312	0	That's the second generator so far.
+313	0	Just one more to go, right? Let's[0a]keep it up!
+314	0	There's a generator!
+315	0	We've activated three generators.[0a]Is that sufficient, Oracle?
+316	0	Yep, we have the power! Let's get[0a]back to that terminal!
+317	0	The terminal really is on now, thank[0a]goodness.
+318	0	Finally we can get going—
+319	0	Not just yet. Oracle still has to hack[0a]into it.
+320	0	Welp, it's hacking time! Ready to[0a]watch my back?
+321	0	Mission complete! We've nearly[0a]reached Bunkamachi.
+322	0	So, this is the final Prison Keep.
+323	0	The walls're just as high as the[0a]others...
+324	0	I suspect the gate is closed just as[0a]with the others. How will we[0a]breach the keep?
+325	0	Perhaps we can leap over there from[0a]another rooftop? Let's try gaining[0a]some elevation.
+326	0	This appears to be the main[0a]entrance.
+327	0	Locked—no surprise there...
+328	0	Nope. I guess we'll have to drop in[0a]from above, huh?
+329	0	Whoa, check the view!
+330	0	This offers a pretty good view of the[0a]area.
+331	0	Now, to find a point of entry...
+332	0	Hey! There!
+333	0	That string of flags leads all the way[0a]to the Keep. Think we could slide[0a]down it to get over there?
+334	0	Hmmm, it doesn't look taut enough[0a]for us to use like that.
+335	0	What if we gave the Ferris wheel[0a]a spin? Would that tighten it up?
+336	0	You know, that could work. Let's[0a]head over there and check it out.
+337	0	Who are you? What are you doing[0a]here!?
+338	0	Aw crap, we're busted!
+339	0	Careful! That one's stronger than the[0a]others!
+340	0	This must be the terminal for the[0a]Ferris wheel. Can you power it up,[0a]Oracle?
+341	0	We don't have to go huntin' for more[0a]generators, do we?
+342	0	Nope, looks like we're good here.[0a]It's already juiced up for us!
+343	0	Perhaps the Ferris wheel's connected[0a]to the same generators?
+344	0	Then everything turned out great[0a]for us! Can you get it working,[0a]Oracle?
+345	0	Aaallriiight! Ferris wheel: activate!
+346	0	Oooh.
+347	0	You did it!
+348	0	Now we can enter the Prison Keep.
+349	0	Yes! Time for our grand entrance!
+350	0	Wha— What are you doing here!?
+351	0	We've come to relieve you of your[0a]duties!
+352	0	Take him down and the core is ours!
+353	0	Yes! Mission complete!
+354	0	So the last core is... a CD?
+355	0	Oh, I recognize that album. Its songs[0a]are in a lot of commercials nowadays.
+356	0	That's Alice's biggest album, the one[0a]that's been at the top of the charts[0a]for weeks now...
+357	0	So, 'zat mean it's a scam? Did she[0a]only blow up 'cause she changed[0a]so many hearts?
+358	0	......
+359	0	That should be the last of the Jail's[0a]power sources.
+360	0	Correct—the searchlights should[0a]be deactivated now.
+361	0	Finally, we can enter Alice's castle.[0a]Shall we?
+362	0	Yes. We need to stop her as soon as[0a]possible.
+363	0	Let's return to the Crossing so we can[0a]head to the castle!
+364	0	Sitrep, everyone!
+365	0	We're at the searchlights—just[0a]waitin' on the signal!
+366	0	No Shadows in sight on our end.
+367	0	Looks like the diversion is working,[0a]all thanks to Joker!
+368	0	It's all up to you now, Oracle.
+369	0	I've got this. Mona, take over[0a]navigation for me!
+370	0	Gotcha! Good luck hacking!
+371	0	Joker, more Shadows incoming!
+372	0	Watch out, reinforcements are here!
+373	0	How's that wall comin'? Ya done yet?
+374	0	Hang on! I'm working on it!
+375	0	All these Shadows flooding the[0a]Shibuya streets... That's certainly[0a]no everyday sight.
+376	0	Now I'm imagining it happening in[0a]the real world... Scary.
+377	0	Aaaaaaaaaand, as the cherry on top:
+378	0	Mweheheh... Enjoy your Oracle[0a]Virus Parfait, chumps!
+379	0	Thank goodness we made it in time!
+380	0	That couldn'ta gone better, Joker!
+381	0	Now the real fight begins!
+382	0	Let's mop up the rest of these Shadows[0a]so we can get to 705!
+383	0	Enemy Shadows defeated! Nice,[0a]now nothing stands in our way!
+384	0	I've returned from my diversion.[0a]The plan appears to have been a[0a]success.
+385	0	Hey, great hustle out there, Sophie![0a]Now all we hafta do is storm the[0a]castle!
+386	0	Nooo! Not that way!
+387	0	The searchlights are off now!
+388	0	Looks like the plan worked. Time to[0a]breach the enemy stronghold.
+389	0	I'm picking up some Shadows...[0a]Looks like a few guards stuck[0a]around.
+390	0	Add 'em to the KO count so we can[0a]move on!
+391	0	The searchlights in the area ahead[0a]are still active.
+392	0	Those'll be a breeze for Joker. He can[0a]slip right past 'em!
+393	0	So you're the ones defiling this[0a]kingdom...
+394	0	You will go no further. Once you are[0a]dead, Her Majesty can be at ease!
+395	0	This one's tough! Careful, guys!
+396	0	All Shadows defeated!
+397	0	The barrier's down, too—let's move[0a]out while we still can!
+398	0	All right! We're in!
+399	0	I'm picking up that Treasure-like[0a]smell right above us, in the throne[0a]room. Let's go!
+400	0	Oof, it's locked...
+401	0	Try finding a mechanism somewhere[0a]here.
+402	0	We've found the intruders![0a]Capture them!
+403	0	Shoot! Incoming!
+404	0	How the heck did we get caught?
+405	0	It must have something to do with[0a]the switches in the busts... Maybe[0a]there's a correct order?
+406	0	Try focusing—look for any sort of[0a]clue how to approach this.
+407	0	Hey, that did it! Good sleuthing,[0a]Joker.
+408	0	Let's get on up.
+409	0	Oh... The stairwell...
+410	0	This is quite the climb...
+411	0	If this is anything like the 705 in the[0a]real world, there'll be an elevator[0a]somewhere.
+412	0	Maybe check for one here too?
+413	0	Intruders! Get them!
+414	0	How dare you filth defy Her[0a]Majesty!?
+415	0	Incoming! We're surrounded!
+416	0	What the hell? How'd we get[0a]jumped!?
+417	0	Ugh, they don't give up!
+418	0	The elevator's on its way! Just hang[0a]in there!
+419	0	All right! Now take the elevator!
+420	0	More Shadows? But how!?
+421	0	There's no escape!
+422	0	We've found the intruders! Call for[0a]backup!
+423	0	We made it! Hurry, get out!
+424	0	That was a pretty rough ride![0a]Everyone holding up?
+425	0	They really aren't messing around[0a]with us anymore.
+426	0	We've gone quite a ways up[0a]already—how much further[0a]to the top?
+427	0	There should be a stairwell on[0a]the other side of that door...
+428	0	Invasive filth! You'll never reach the[0a]royal hall!
+429	0	The cost of defying Her Majesty is[0a]your heads!
+430	0	Incoming! The exploring can wait[0a]until we know it's safe!
+431	0	They've got serious numbers...[0a]Wanna try out that party popper?
+432	0	Finally, it's over...
+433	0	Hell yeah! Let's keep on rollin'!
+434	0	Aw, what!? Now THIS door won't[0a]open!
+435	0	But this door leads to the stairwell...
+436	0	Hmm?
+437	0	Maybe we should check outside?[0a]Could be worthwhile.
+438	0	Oh! How about THIS way?
+439	0	Let's see where they take us.
+440	0	So, they escaped, did they?
+441	0	Joker! The window!
+442	0	Aaagh! Please forgive me, Your[0a]Majesty!
+443	0	I TOLD you to capture them...[0a]Do you require punishment?
+444	0	Yeeeeek!
+445	0	Ugh, wouldn't want to be on the receiving end[0a]of that...
+446	0	Oh, now you pity whoever's gettin' whipped...
+447	0	That Treasure-like smell isn't far now.[0a]Let's get to the roof.
+448	0	Can't you get it through your thick[0a]skull? No one wants you around.
+449	0	Oh, shit! What the hell is goin' on!?[0a]This thing just flipped out outta[0a]nowhere!
+450	0	The room's also changed. Are these...[0a]prison cells?
+451	0	No time—here it comes!
+452	0	Look sharp, folks!
+453	0	Aren't you supposed to be all down[0a]in the dumps? What're you doing[0a]batting your lashes at some guy?
+454	0	What is WITH this thing!?
+455	0	I don't know, but... whatever that[0a]thing is, it's horrible!
+456	0	What the hell's up with this room,[0a]too!? Ain't it supposed to have the[0a]birdcage key in it? Not THIS!?
+457	0	The key is most assuredly here.[0a]It must be hidden somewhere[0a]within the cell.
+458	0	We're not exactly fit to search for it[0a]now—focus on the enemy first!
+459	0	Huh? Oh, you're here? You're so[0a]bland I didn't even notice you,[0a]hahaha!
+460	0	Is this stuff... from Alice's past? Did[0a]she really go through all this?
+461	0	There were some truly terrible things[0a]said in the classroom as well...
+462	0	I believe we've seen why Alice strove[0a]so far to wipe the records of her time[0a]at school...
+463	0	We should avoid wasting energy on[0a]our attacks. Let's read the enemy's[0a]movements and respond in kind!
+464	0	I lost the reading! Where'd it go!?
+465	0	This thing can teleport!? Watch out[0a]for sneak attacks, everyone!
+466	0	Your face really pisses me off. Why[0a]won't you just go off and die for us[0a]already?
+467	0	Those wind-up attacks look like[0a]they'll really hurt! Better stay[0a]sharp!
+468	0	Ahahah, that's so good! You think a[0a]guy would actually be into someone[0a]like YOU? Get real!
+469	0	Whoa! This thing's really puttin' up[0a]a fight!
+470	0	Don't get too close! Keep a safe[0a]distance!
+471	0	*gasp* Look out!
+472	0	It's warpin' all over the place now![0a]Quit cheatin', dammit!
+473	0	I heard you actually confessed your[0a]feelings to him? Gross. SO FUCKING[0a]GROSS!
+474	0	Are you just, like, obsessed with guys[0a]now or something? It's not like you'd[0a]ever make a good couple.
+475	0	In fact, I think I'll take him off your[0a]hands for you! Ahahahahaha!
+476	0	"Take him"? So, all of this bullying[0a]was over some affairs of the heart.
+477	0	What a bunch of bullies! They were[0a]just too mean to Alice!
+478	0	The enemy's getting weaker! Put that[0a]bully in its place!
+479	0	Hell yeah! That did it!
+480	0	Hang on—something's up...
+481	0	Look! The chain goes all the way to[0a]the top!
+482	0	Perhaps it fell when we opened the[0a]lock.
+483	0	Climbing this should give us a straight[0a]shot to the birdcage of Desires.
+484	0	We'll enter through here after we[0a]send the calling card.
+485	0	What in the... She turned into some[0a]kinda rabbit!
+486	0	So this really is Alice in Wonderland...
+487	0	Oh my, I'm late for a very important[0a]date.
+488	0	Come along, come along! I have such[0a]wonders to show you!
+489	0	What wonders?
+490	0	Ignore her, Sophie. She just wants to[0a]torture us or something.
+491	0	Alice... I'm gonna make you see the[0a]light!
+492	0	Aw, you Phantom Thieves seem like[0a]best buds. Any of you happen to be[0a]dating?
+493	0	Wha— How would that be any of[0a]your business!?
+494	0	*giggle* I wonder who you've got[0a]your eye on, Takamaki-san?
+495	0	Personally, I've got a thing for[0a]Joker! I'm gonna take your heart!
+496	0	Dude, she is freaky! You better[0a]watch out, Joker!
+497	0	Alice, why are you doing this!?[0a]You've hurt so many people!
+498	0	Huh? Don't blame me.
+499	0	It's not my fault everyone's in love[0a]with me.
+500	0	What can I do if they say they only[0a]have eyes for me? *giggle*
+501	0	What? No one who's saying that[0a]means it—you're just manipulating[0a]them!
+502	0	Oh? So you know about all that, huh?[0a]I never would have guessed you were[0a]a phantom thief, Takamaki-san.
+503	0	Who will change whose heart in the[0a]end? Oh, I just can't wait to find out!
+504	0	She's tough... See any weaknesses[0a]yet, Oracle?
+505	0	One sec, analyzing...
+506	0	She is weak to... [1b]M0~2~Fire![0a]Burn that smirk right off her face!
+507	0	It burns! You must really wanna piss[0a]me off.
+508	0	Weakness to [1b]M0~2~Fire[0a]confirmed! Let's turn up the heat!
+509	0	Looks like she's weak to[0a][1b]M0~5~Wind! Got any wind[0a]to send her way?
+510	0	Looks like I'm up to bat! I'll take care[0a]of this!
+511	0	Cut it ouuut! You'll ruin my hair!
+512	0	[1b]M0~5~Wind is doing the[0a]trick! Keep on blowin'[0a]her away!
+513	0	That brainwashing is serious...[0a]Be careful, everyone!
+514	0	Think we could use that pole?
+515	0	We can wait for Alice to enter range[0a]then utilize a spin attack for massive[0a]damage.
+516	0	Right, pay attention to your timing[0a]and then let her have it!
+517	0	Hey, check out the party popper!
+518	0	That's a good idea. With proper aim,[0a]we could do some major damage.
+519	0	Raining confetti upon the stage...[0a]That would be quite pleasing,[0a]aesthetically.
+520	0	You'll have your chance when Alice[0a]goes for the pole. That's when you[0a]blast her!
+521	0	Owww! Hey, what the hell!?
+522	0	Ah, so that is how those function.
+523	0	Only here! You're not supposed to[0a]aim them at people!
+524	0	Ow... What the hell was that!?
+525	0	Now! Get her!
+526	0	Yes! She's getting weaker. Take her[0a]down!
+527	0	Why are you being like this? I was[0a]finally able to find some happiness...
+528	0	Are you here to take everything[0a]I have? Just like she did?
+529	0	JUST TRY ME!
+530	0	Something's changed... Stay on[0a]guard!
+531	0	Whoa, holy shit!
+532	0	Why's she so fast now!? Sheesh!
+533	0	It's time to take you all to school!
+534	0	She refuses to give up... Alice, what[0a]made you like this?
+535	0	You'd never get it, Takamaki-san.
+536	0	I've been treated like shit all my life![0a]I had everything taken from me![0a]You don't know what that's like!
+537	0	The further up the social ladder,[0a]the shittier they were to me!
+538	0	Even if they saw someone getting[0a]tortured, they'd just smile and keep[0a]on walking like I didn't matter!
+539	0	How could trash like that NOT[0a]deserve it?
+540	0	And I'll show you that you're trash[0a]too.
+541	0	Once I've got a man in my grasp,[0a]there's no letting go. I'll turn him on[0a]you, then you'll learn true despair...
+542	0	Soon I will be loved by all the men[0a]in the world!
+543	0	Ngh! Why are you... I'm not doing[0a]anything wrong!
+544	0	Alice is getting weaker! Just one[0a]more big push—keep it up, guys!
+545	0	All those girls looking down on me...[0a]They'll see! They'll see how every[0a]man is mine!
+546	0	Is that really what you want, Alice?[0a]Don't be stupid!
+547	0	I remember your real answer. You[0a]have to remember too, Alice!
+548	0	Tell me! What do you REALLY want!?
+549	0	I...
+550	0	This... can't be...
+551	0	Did we do it!?
+552	0	Hmm, we still can't see what's[0a]going on inside.
+553	0	We'll just have to get even higher.[0a]Let's see, where's the tallest building[0a]around here?
+554	0	Bingo! Let's try getting to that one's[0a]roof!
+555	0	Roger that, changing destination...
+556	0	All right—I think we can make it up[0a]there if we follow those balloons!
+557	0	So we can use those to cross the[0a]rooftops? Great! Let's keep our[0a]eyes open for any balloons.
+558	0	This looks like some[0a]sort of container...
+559	0	Gah, this place is fulla garbage...[0a]Where are we, anyways?
+560	0	I don't know, but we should look[0a]for an exit.
+561	0	Ooh, look! The gate's open!
+562	0	Is it because we took the core?[0a]Whatever the case, we can get back[0a]without having to go underground.
+563	0	Right! Let's stroll on through and[0a]find the next keep!
+564	0	I don't think randomly messing[0a]with them is gonna work! There's[0a]gotta be some kind of clue...
+565	0	We Phantom Thieves have expert[0a]eyes—they'll get us to the bottom[0a]of this!
+566	0	They're still powered, despite our[0a]taking all the cores?
+567	0	These aren't the ones we turned off.[0a]Those're the ones up where we[0a]climbed, over there.
+568	0	Ah yes, the elevated area with the[0a]turret. Well, let's be on our way.
+569	0	.....?
+570	0	There's a switch.[0a]Should I use it...?
+571	0	Go for it
+572	0	Back away slowly
+573	0	0
+574	0	0
+575	0	0
+576	0	0
+577	0	0
+578	0	0
+579	0	0
+580	0	0
+581	0	0
+582	0	0
+583	0	0
+584	0	0
+585	0	0
+586	0	0
+587	0	0
+588	0	0
+589	0	0
+590	0	0
+591	0	0
+592	0	0
+593	0	0
+594	0	0
+595	0	0
+596	0	0
+597	0	0
+598	0	0
+599	0	0
+600	0	0
+601	0	0
+602	0	0
+603	0	0
+604	0	0
+605	0	0
+606	0	0
+607	0	0
+608	0	0
+609	0	0
+610	0	0
+611	0	0
+612	0	0
+613	0	0
+614	0	0
+615	0	0
+616	0	0
+617	0	0
+618	0	0
+619	0	0
+620	0	0
+621	0	0
+622	0	0
+623	0	0
+624	0	0
+625	0	0
+626	0	0
+627	0	0
+628	0	0
+629	0	0
+630	0	0
+631	0	0
+632	0	0
+633	0	0
+634	0	0
+635	0	0
+636	0	0
+637	0	0
+638	0	0
+639	0	0
+640	0	0
+641	0	0
+642	0	0
+643	0	0
+644	0	0
+645	0	0
+646	0	0
+647	0	0
+648	0	0
+649	0	0
+650	0	0
+651	0	0
+652	0	0
+653	0	0
+654	0	0
+655	0	0
+656	0	0
+657	0	0
+658	0	0
+659	0	0
+660	0	0
+661	0	0
+662	0	0
+663	0	0
+664	0	0
+665	0	0
+666	0	0
+667	0	0
+668	0	0
+669	0	0
+670	0	0
+671	0	0
+672	0	0
+673	0	0
+674	0	0
+675	0	0
+676	0	0
+677	0	0
+678	0	0
+679	0	0
+680	0	0
+681	0	0
+682	0	0
+683	0	0
+684	0	0
+685	0	0
+686	0	0
+687	0	0
+688	0	0
+689	0	0
+690	0	0
+691	0	0
+692	0	0
+693	0	0
+694	0	0
+695	0	0
+696	0	0
+697	0	This statue... Is that supposed to be[0a]Natsume?
+698	0	What a creep!
+699	0	It won't budge. I don't think we'll[0a]be opening this any time soon.
+700	0	There's something written there.[0a]"The way forward will reveal itself[0a]to he who proves his worth."
+701	0	Then, we'll likely need to obtain [0a]something to help us do that...
+702	0	It doesn't look like we have much[0a]choice. Let's see if there's another[0a]path we can take.
+703	0	"The way forward will reveal itself to he who[0a]proves his worth."
+704	0	This way's no good. We'll have to[0a]try something else.
+705	0	Dude, an overlord's castle, though?[0a]This is actually kinda sick!
+706	0	Pipe down, Skull. We're on enemy[0a]turf, remember?
+707	0	Oh, yeah... Sorry.
+708	0	*sigh* First things first, let's get an[0a]idea of our surroundings.
+709	0	Hold up! We got searchlights ahead.[0a]Security here's pretty tight.
+710	0	It appears the gate is closed as well. We[0a]won't be getting in this way.
+711	0	In that case, let us play true to phantom thief[0a]form and sneak in through the back.
+712	0	We have no further business here.[0a]Our job now is to find this "proof"[0a]needed to enter.
+713	0	Huh!? We're back at the entrance!?
+714	0	Looks like you're sent back here if you get caught by the searchlights.
+715	0	Just what I'd expect from the "supreme overlord"[0a]type. Those guys always get the most jank, OP[0a]abilities.
+716	0	Hrgh... This guy's really starting to piss me off.
+717	0	It seems foolish to try getting in through the[0a]front. Let's try going around the back.
+718	0	It says "One must offer sun and rain"...
+719	0	Hm? We got Shadows! Heads up!
+720	0	That building just screams[0a]"suspicious." Think that's[0a]our "shrine of sun"?
+721	0	If it is, then perhaps the orb[0a]is inside. Let's take a closer[0a]look, Joker.
+722	0	Whoa, where are you going? Aren't [0a]we gonna check out the shrine?
+723	0	Wha—!? The lights went off! Wait, is[0a]that a Shadow!?
+724	0	It's just as the novel said. The orb is a[0a]symbol of the sun. Remove it, and the[0a]light fades.
+725	0	Once that happens, warriors will[0a]appear to prevent its theft.
+726	0	Then that means...
+727	0	Yes, this seems par for the course.
+728	0	Why didn't you tell us this earlier!?
+729	0	Phew. That was a close one.
+730	0	Next time, tell us about the[0a]gaggle of enemies BEFORE[0a]we get jumped, Inari.
+731	0	My apologies, I knew I had[0a]forgotten something.
+732	0	Anyways, we've got the sun we[0a]need. All that's left is to find the[0a]rain.
+733	0	It said something about a "land of[0a]rain," right? Let's keep looking.
+734	0	Ooh, you lowered the bridge. That'll[0a]help us get around easier.
+735	0	There's a bridge here, but we[0a]obviously can't cross it like this.
+736	0	Nothing we can do now. Let's try a[0a]different path.
+737	0	I see... Is this what they call rain?
+738	0	It just started pouring all of a sudden.[0a]Maybe this is the place we're looking[0a]for...
+739	0	It certainly matches the "land of rain"[0a]moniker. No doubt the orb is[0a]somewhere nearby.
+740	0	Whoa, what's that!?
+741	0	Sure looks suspicious... Think that's[0a]our target?
+742	0	It could be a trap. But we don't have[0a]any other choice. Don't let your[0a]guard down.
+743	0	Hm!? I'm sensing what feels like[0a]treasure...
+744	0	There!
+745	0	Is that jewel... alive?
+746	0	It's a Treasure Demon! Get it before it escapes!
+747	0	It's trying to get away! After it, Joker!
+748	0	Dang, this thing is tough!
+749	0	Looks like [1b]M0~3~Ice is effective![0a]Strike its weakness and force it[0a]to come out!
+750	0	What was that?
+751	0	They're a rare type of Shadow we sometimes see[0a]in the Metaverse.
+752	0	We call them Treasure Demons.[0a]Taking one down can net you all[0a]kinds of big rewards.
+753	0	I see. I'll be sure to remember these [0a]Treasure Demons.
+754	0	So if we see one, we should try to[0a]defeat it like the one just now?
+755	0	Right. They're quick to run away, [0a]though, so you gotta be careful.
+756	0	The door is closed.
+757	0	So we can't get inside? I don't see a[0a]keyhole anywhere either...
+758	0	Let's take a look around. There might[0a]be another way in.
+759	0	Searchlights! Don't get spotted now!
+760	0	...So it was here after all.
+761	0	We've got both the sun and the rain.[0a]Let's get back over to the tower.
+762	0	Oh, hey. Did the rain stop?
+763	0	Oh, yeah, guess so. It's prolly 'cause we took that orb, huh?
+764	0	Hey, wait! This place is treatin' us like a party of RPG heroes, right?
+765	0	How 'bout we decide each other's job [0a]classes? Y'know, like Warrior and[0a]Priest and stuff!
+766	0	Well, Joker's definitely the Hero.[0a]Queen's the Martial Artist. I guess[0a]Mona would be the Mage.
+767	0	What about me?
+768	0	You're the Jester, Skull. Done deal.
+769	0	The Jeste— Wait, why!?
+770	0	Does that mean my job would be the[0a]Company Manager?
+771	0	...I don't think that's what they're[0a]talking about.
+772	0	Okay, let's try putting the orbs where[0a]they need to go.
+773	0	Ooh, it worked!
+774	0	So the proof is in here. Let's have a[0a]look inside.
+775	0	Haha... Well done, chosen heroes...[0a]I admit defeat.
+776	0	I will open the door for you... I wish[0a]you luck on the rest of your journey.
+777	0	Farewell... My darling...
+778	0	Ugh, he's doing one of those[0a]sentimental plot thread things...
+779	0	Come on, let's get that proof!
+780	0	Whoa! The door just up and opened[0a]for no reason!
+781	0	Perhaps it's because we proved we're [0a]worthy of passage.
+782	0	Hm? What's that?
+783	0	It looks like some kinda light...
+784	0	There's something above us.
+785	0	Ugh! What the heck is that!?
+786	0	So that's how the enemy knew we[0a]were here?
+787	0	Joker, shoot that thing before it[0a]spots us!
+788	0	This door won't open... Maybe we're[0a]missing something.
+789	0	Ooh. Looks like we've found another orb.
+790	0	With how things have been going,[0a]we'll probably use this to open some[0a]kind of door.
+791	0	A safe assessment, to say the least.[0a]Indeed, this is most likely one of[0a]the novel's "tri-color orbs."
+792	0	It says we're to gather the red, blue,[0a]and yellow orbs in order to open the[0a]sealed doors.
+793	0	All right, then! Let's look for a door[0a]we can open with this.
+794	0	Wait! The enemy is closing in!
+795	0	Oh, it's open!
+796	0	But there's even more of those doors.
+797	0	Bet these are gonna need orbs too, huh?[0a]C'mon, let's take a look around.
+798	0	There's an orb. Let us claim it for ourselves.
+799	0	Not so fast, heroes! That orb is ours!
+800	0	Wah, we got Shadows! Take 'em out, guys!
+801	0	So now we have a blue orb.
+802	0	Which means we should be able to[0a]open the blue door. Let's head back.
+803	0	Nice, it opened! So all that's left is the yellow[0a]orb, right?
+804	0	This doesn't look like the right door.[0a]Try the other one.
+805	0	Filthy intruders... You will not take the orb!
+806	0	This is the last orb, guys! You can do it!
+807	0	We've opened all the doors. Now to[0a]enter the Prison Keep.
+808	0	All right, let's move, double time!
+809	0	Maaade it!
+810	0	Looks like this way's blocked too. Should[0a]be able to hack our way through, though.
+811	0	You guys ready? I'll need you to watch my back!
+812	0	All right! We're in business!
+813	0	Okay. Now we just need to climb[0a]the tower! Race you to the top!
+814	0	It looks like this core is a... trophy? It says[0a]"Soukaisha Awards."
+815	0	Hmph. Dude probably got this by cheating,[0a]too.
+816	0	But look at this date... This was definitely before[0a]people's hearts started to change.
+817	0	So... He won this on his own?
+818	0	Hmm... I don't buy it. You can't win an award[0a]just by ripping people off.
+819	0	Regardless, that's two pieces of proof we've[0a]obtained.
+820	0	That's just one left. Where haven't we checked[0a]yet?
+821	0	There was that door back when we first[0a]entered. Maybe we should look there.
+822	0	We did score another piece of proof, so maybe[0a]it'll open now. Let's head back.
+823	0	Yo, is this it? The gate was closed,[0a]but now it's wide open.
+824	0	Okaaay! One last piece of proof!
+825	0	I can see the Prison Keep, but the entrance is[0a]closed.
+826	0	Don't think we're getting in that way. Did the[0a]book have any other hints, Fox?
+827	0	In the story, the heroes had to walk across an[0a]invisible floor to get inside.
+828	0	An invisible floor... How do we find something[0a]we can't see?
+829	0	We'll just have to look really carefully. Maybe[0a]something'll turn up.
+830	0	Joker, try to focus and see if you can't find an invisible floor around here.
+831	0	Ooh, check out those swords...[0a]Calling out to your inner[0a]edgelord, aren't they?
+832	0	Bet it'd be pretty sweet if you[0a]flung them at the enemy![0a]Shhhwing!
+833	0	Whoa, it's actually invisible!
+834	0	I-Is this safe? We're not going to fall, are we?
+835	0	Nope, we should be good![0a]Let's take these things all[0a]the way to the Keep!
+836	0	Invisible floors... How interesting.
+837	0	Be careful n-not to fall...
+838	0	Nngh, my knees won't stop shaking...
+839	0	Blerrrgh... So... It seems it's the end for me as well. Come visit me in the afterlife, won't you, beautiful?
+840	0	In your dreams!
+841	0	That takes care of old man ogles-a-lot. Now we just need to nab the proof!
+842	0	All right, let's head to the top!
+843	0	"The brave heroes approach their foe..." [0a]Who goes there? Who dares disturb my [0a]slumber?
+844	0	Oh crap! We got another one!
+845	0	And what's up with the narrating?
+846	0	Silence, whelps! I am his excellency the[0a]Overlord's retainer, Doramu!
+847	0	My liege's castle lies just beyond. Lowly[0a]humans such as yourselves have no place[0a]in its hallowed halls!
+848	0	Your end is at hand! Prepare yourselves,[0a]you foolish, repulsive-looking creatures!
+849	0	He thinks we're repulsive...
+850	0	News flash, you look just like us.
+851	0	......
+852	0	Your end is at hand!
+853	0	Yo, he straight up ignored us!
+854	0	Urgh... To be defeated by such utterly[0a]grotesque beings...
+855	0	Dude, you were one of us like two seconds ago!
+856	0	You were a fierce opponent, Overlord's retainer.
+857	0	*chuckle* Go on, then, chosen heroes... But be warned... My master... is all-powerful. Blerrrgh...
+858	0	Okay, we've made it inside. Let's keep up the pace.
+859	0	There should be a path forward somewhere around here. Keep your eyes peeled.
+860	0	How far along are we now?
+861	0	We're only about halfway up. It's gonna be a while before we get to the top.
+862	0	Guess we'll wanna keep an eye on our health and stuff.
+863	0	W-What!? Something's shooting up from the floor!
+864	0	It's a trap! Look out!
+865	0	Well... there's no turning back now. Let's double down and keep moving forward!
+866	0	We're almost to the top floor. Just a little bit further, guys!
+867	0	Write all you want, a talentless hack[0a]like you is hopeless, hopeless,[0a]HOPELESS!
+868	0	This is the same thing we saw in[0a]Shibuya!
+869	0	Careful! It's using different weapons[0a]from last time!
+870	0	I might not like that Natsume guy,[0a]but... It's these assholes who were[0a]usin' him the whole time, right?
+871	0	Yeah... I feel kind of sorry for him.[0a]They only chose him for who he was,[0a]not what he wrote.
+872	0	Authors are just chips in a bigger[0a]game! They exist solely for us to win!
+873	0	From what I can tell, his editor was a[0a]real scumbag.
+874	0	I know his pain perhaps more than[0a]anyone... For that reason, I refuse to[0a]let this go on any longer.
+875	0	Hey, cheer up. You might be a shit[0a]writer, but at least you've got a knack[0a]for stringing yourself along! Hahaha!
+876	0	It's fast... Be careful not to get caught up in its attacks!
+877	0	Okay! Taking evasive action.
+878	0	It's working! Keep it up, guys!
+879	0	Even worthless trash like yours can[0a]sell. And as long as there's a buyer,[0a]I'll be there to bleed you dry!
+880	0	A sword is nothing if you lack the[0a]conviction to swing it! Such a dull[0a]blade is worthless against me!
+881	0	Y'know, I said I was in this for the money, but holy hell, reading through this shit is tortuuure!
+882	0	He's going for a combo attack. Don't[0a]let him ram you!
+883	0	I don't care who's holding the pen![0a]If your face sells, that's all I'll ever[0a]need!
+884	0	Whoa, it's coming after us!
+885	0	Don't let your guard down after that[0a]first attack! Stand your ground and[0a]wait till he stops!
+886	0	He can't seriously be proud of[0a]submitting this trash, can he?
+887	0	Whoa, shit! That last attack was crazy[0a]fast!
+888	0	But on the other hand, it leaves him[0a]wide open. Dodge the attack then hit[0a]him with everything you've got!
+889	0	You'd better cling to that name of[0a]yours! Way I see it, that's all you'll[0a]ever have!
+890	0	It's warping around using sneak[0a]attacks... Is this what they call a[0a]"ninja"!?
+891	0	Not exactly! Last time I checked,[0a]ninjas don't use giant machetes!
+892	0	You're my ticket to the bigtime, eh,[0a]"Mr. Natsume"? Ahahahahahaha!
+893	0	You did it! The warden's down for the count!
+894	0	Whoa, check out that statue that totally ate it![0a]And hey, doesn't that remind you of how we[0a]got to the top in Shibuya? Ready for round two?
+895	0	Great! Looks like the Desires[0a]materialized!
+896	0	Go get 'em, guys!
+897	0	You ignorant whelps dare to challenge the[0a]great Overlord himself!? Imbeciles! I will[0a]feast upon your bones!
+898	0	Holy crap! A dragon!
+899	0	Be careful, guys! This one's really tough!
+900	0	Hahahaha! Pathetic humans! Gaze[0a]upon my magnificence!
+901	0	I, the Prince of Nightmares, carry the [0a]blood of dragons in my veins! No [0a]mere human could ever defeat me!
+902	0	Lay down your weapons and submit![0a]Do so, and your lives will be spared!
+903	0	Like we'd ever join you? Thanks, but[0a]no thanks!
+904	0	Besides, the evil Overlord's destined[0a]to get his ass beat! That's fantasy rule[0a]number 1, dude!
+905	0	Ango Natsume, you are a shameful [0a]despot steeped in vanity. Today, [0a]your rule comes to an end!
+906	0	He's got the advantage while he's in[0a]the air! Oracle, is there anything[0a]we can do!?
+907	0	Over there! Those swords stuck in the[0a]ground! Use those to turn him into a[0a]pincushion!
+908	0	Dammit, I can't reach him! Get down[0a]here and fight us, you smug bastard!
+909	0	It looks like we'll have to hit him[0a]from somewhere up high!
+910	0	He's landed! Now's your chance[0a]to attack!
+911	0	You're doin' good! Keep it up!
+912	0	Whoa, since when could he do[0a]that!?
+913	0	His tail is a pen...?
+914	0	Watch out! He's trying to blind us[0a]with his ink!
+915	0	Whoa! I can't see!
+916	0	Nooo! This is so gross!
+917	0	Huh? I feel weaker somehow...
+918	0	Wha!? He's totally debuffed us!
+919	0	Foolish humans. The least I can do[0a]is grant you a peaceful death.
+920	0	Witness as I pen the legends of the[0a]great Overlord!
+921	0	Hey, he's writing something!
+922	0	Is he building up energy!? Crap, [0a]you've gotta stop that pen of his!
+923	0	Hahahaha! I've done it! No greater [0a]masterpiece has ever been written!
+924	0	Ngh... You'd dare to deny my[0a]genius? Such a sin is unforgivable!
+925	0	Hmph, you're not getting your[0a]way as long as we're around!
+926	0	I was born of nightmares blacker[0a]and darker than darkness itself![0a]Watch as I unleash hell!
+927	0	Whoa, he's powered up like crazy![0a]He must be getting serious!
+928	0	We gotta slow his momentum! Can[0a]you target his weakness and knock[0a]him down?
+929	0	Gyah! D-Damn it... You made me[0a]lose my edge!
+930	0	His buff's gone! Time to put the[0a]hurt on him!
+931	0	Kgh... Blasted little rats!
+932	0	Those with talent are always being dragged[0a]down by those without. How can you be so[0a]ignorant!?
+933	0	Villain, you have no right to say[0a]such a thing!
+934	0	W-What? Are you suggesting I have[0a]no talent!?
+935	0	And what talent can you claim to[0a]possess? Stealing others' work for[0a]your own selfish interests?
+936	0	You've cast away both your soul[0a]and your pride... You've no place[0a]calling yourself a writer!
+937	0	Dammit... Dammit, dammit,[0a]dammit!
+938	0	You're just like them! You're just[0a]like those bastards who denied[0a]me!
+939	0	You think you're better than me!?[0a]I'll show you how wrong you are!
+940	0	Hahaha! How was that!?
+941	0	If you thought that was Agidyne[0a]just now, think again... It was Agi!
+942	0	Oh boy... I've definitely heard that[0a]line before!
+943	0	He's running out of steam![0a]Stay on him, guys!
+944	0	Such power... Is this the Overlord's[0a]true strength!?
+945	0	We need to avoid taking a direct[0a]hit at all costs!
+946	0	Urgh... My hands are too numb to[0a]write. How dare you employ such[0a]a cheap trick!
+947	0	Ooh, looks like [1b]M0~3~Ice is the way[0a]to go. We'll see how tough he is[0a]once we turn him into an ice pop!
+948	0	Gah! Ergh, why you little... Why[0a]would the gods favor you over[0a]me!?
+949	0	Man, he's really committed to this[0a]role, isn't he? Either way, it looks like[0a]he's weak to [1b]M0~8~Bless attacks!
+950	0	Guh... These swords were once[0a]wielded by past heroes! Even in[0a]death, they continue to defy me!
+951	0	Yo, what the hell's he talkin' about?
+952	0	It seems he's added some [0a]backstory. That said, those swords[0a]work quite well against him.
+953	0	Urrrgh... I-Impossible... You're[0a]capable of casting Absolute Zero!?
+954	0	Um... That means it worked, right?
+955	0	Yeah... looks like it. We should[0a]probably keep using them, huh?
+956	0	Aaah! My armor! The hell are [0a]you— I mean... Keep your filthy[0a]hands off me!
+957	0	So even that golden coat of yours[0a]was a sham. You're a fraud to the[0a]very core... How pitiful.
+958	0	Seems everything's finally been [0a]revealed. Time to finish him off!
+959	0	Gah...! This can't be... The great[0a]Overlord... Defeated...
+960	0	Where the hell'd those guys come from!?
+961	0	There weren't any signs of the enemy before...[0a]Is there some kind of trap in place?
+962	0	Careful, Joker. We've got eyes on us...
+963	0	Watch your surroundings! You'll prolly see[0a]something if you look hard enough!
+964	0	...Hm?
+965	0	There's a checkpoint nearby, but... it looks like[0a]the warp function isn't working.
+966	0	Is this the work of that Fearsome Four guy too?[0a]Guess he really doesn't plan on letting us leave.
+967	0	...So we're trapped here. Still, there's no need to[0a]panic.
+968	0	If he's the reason it's not working, then all we[0a]have to do is get him out of the picture.
+969	0	So now that we've defeated Do... Domu? Do you[0a]think we can use the checkpoints again?
+970	0	Oh? Ooh! They're working again!
+971	0	And there's one nearby, too. Perfect! Now we[0a]can head back to the real world and stock up on[0a]supplies and stuff if we need.
+972	0	I wouldn't be surprised if something like this[0a]happened again. It might be a good idea to prep[0a]some more, just to be on the safe side.
+973	0	Even so, we'll want to be ready in the event we're[0a]unable to return to the real world right away.
+974	0	Make sure to switch out party members so no[0a]one ends up overdoing it.
+975	0	0
+976	0	0
+977	0	0
+978	0	0
+979	0	0
+980	0	0
+981	0	0
+982	0	0
+983	0	0
+984	0	0
+985	0	0
+986	0	0
+987	0	0
+988	0	0
+989	0	0
+990	0	0
+991	0	0
+992	0	0
+993	0	0
+994	0	0
+995	0	0
+996	0	0
+997	0	0
+998	0	0
+999	0	0
+1000	0	0
+1001	0	0
+1002	0	0
+1003	0	0
+1004	0	0
+1005	0	0
+1006	0	0
+1007	0	0
+1008	0	0
+1009	0	0
+1010	0	0
+1011	0	0
+1012	0	0
+1013	0	0
+1014	0	0
+1015	0	0
+1016	0	0
+1017	0	0
+1018	0	0
+1019	0	0
+1020	0	0
+1021	0	0
+1022	0	0
+1023	0	0
+1024	0	0
+1025	0	0
+1026	0	0
+1027	0	0
+1028	0	0
+1029	0	0
+1030	0	0
+1031	0	0
+1032	0	0
+1033	0	0
+1034	0	0
+1035	0	0
+1036	0	0
+1037	0	0
+1038	0	0
+1039	0	0
+1040	0	0
+1041	0	0
+1042	0	0
+1043	0	0
+1044	0	0
+1045	0	0
+1046	0	0
+1047	0	0
+1048	0	0
+1049	0	0
+1050	0	0
+1051	0	0
+1052	0	0
+1053	0	0
+1054	0	0
+1055	0	0
+1056	0	0
+1057	0	0
+1058	0	0
+1059	0	0
+1060	0	0
+1061	0	0
+1062	0	0
+1063	0	0
+1064	0	0
+1065	0	0
+1066	0	0
+1067	0	0
+1068	0	0
+1069	0	0
+1070	0	0
+1071	0	0
+1072	0	0
+1073	0	0
+1074	0	0
+1075	0	0
+1076	0	0
+1077	0	0
+1078	0	0
+1079	0	0
+1080	0	0
+1081	0	0
+1082	0	0
+1083	0	0
+1084	0	0
+1085	0	0
+1086	0	0
+1087	0	0
+1088	0	0
+1089	0	0
+1090	0	0
+1091	0	0
+1092	0	0
+1093	0	0
+1094	0	0
+1095	0	0
+1096	0	0
+1097	0	So this is what snow is like...[0a]Hehe, it's all white and crunchy.
+1098	0	Just don't roll around in it, Sophie.[0a]You blend in so much, we might lose[0a]ya.
+1099	0	What lies beyond that road?
+1100	0	I believe it was the clock tower,[0a]back in the real world.
+1101	0	Looks real suspicious to me.[0a]Let's go check it out!
+1102	0	Too cold... Can't move...[0a]Can't I just wait here?
+1103	0	Absolutely not. What if Shadows[0a]were to ambush you?
+1104	0	Be strong, Oracle.
+1105	0	Brr... Fine...
+1106	0	Oh, it's a Prison Keep!
+1107	0	Based on the past few Jails, we should[0a]find something here that'll help us[0a]move forward.
+1108	0	Nice! The gate's open!
+1109	0	Don't you feel like something's[0a]off, though?
+1110	0	Hmm... Not picking up any Shadows[0a]on the radar.
+1111	0	Even so, we shouldn't let our guard[0a]down. Anything could happen.
+1112	0	This snowstorm's friggin' insane![0a]Can't see a thing out here.
+1113	0	Any further exposure might put our[0a]health at risk. We need to get out of[0a]here now.
+1114	0	Watch out! Shadows incoming!
+1115	0	Please... lemme hibernate...
+1116	0	No way! You'd freeze to death in this[0a]cold!
+1117	0	Hang in there, Oracle. We're almost[0a]at our destination.
+1118	0	Man, it's so nice and toasty... I really[0a]don't wanna move.
+1119	0	I could build an igloo here...[0a]*yawn* Getting the sleepies...
+1120	0	Stay vigilant, you two.
+1121	0	Too bad we can't rest here for long.[0a]At least we can generate some body[0a]heat if we start moving around.
+1122	0	Good idea. Let's get huffin' and[0a]puffin', people!
+1123	0	I think I can hack this place open.[0a]That'll attract Shadows, so you'll[0a]need to clean 'em up!
+1124	0	Only three more to go.
+1125	0	Two more left.
+1126	0	We're on our last one!
+1127	0	Oh look, the snowstorm stopped.
+1128	0	Perhaps the heaters have stopped it[0a]for good.
+1129	0	That must be why the enemies[0a]were guarding them.
+1130	0	Looks like they're pretty handy.[0a]Let's keep them in mind in case[0a]we run into any more snowy issues.
+1131	0	Aah!? H-How'd you make it through[0a]the snowstorm unscathed!?
+1132	0	So this is the goon behind that[0a]snowy mess...
+1133	0	Ohhh, I'll get punished for sure[0a]if she finds out I goofed up...
+1134	0	Sorry, but you're all gonna die[0a]right here!
+1135	0	Look!
+1136	0	The ice wall is gone, just as we[0a]thought!
+1137	0	We can move on to the next[0a]Prison Keep now. Let's go.
+1138	0	There it is... the Prison Keep.
+1139	0	It's our second one.[0a]Let's do this!
+1140	0	Be careful, we're trapped in!
+1141	0	It looks like we can descend from[0a]here... although there are Shadows[0a]in the way.
+1142	0	It's a steep slope covered with snow.[0a]The danger is there regardless.
+1143	0	Hey, isn't that a snowboard over[0a]there? Why don't we use that[0a]to cruise down?
+1144	0	Ooh, lemme do a little[0a]technomancy on it!
+1145	0	It's all yours, Oracle.
+1146	0	We'll protect you!
+1147	0	Another snowstorm!?
+1148	0	There are Shadows creeping out[0a]here, too. Hope we'll be okay.
+1149	0	There's another heater nearby.[0a]Maybe you should get rid of the[0a]snowstorm first!
+1150	0	We defeated the enemy, but we[0a]won't last long in this snowstorm.[0a]Let's find ourselves a heater.
+1151	0	We've eliminated all obstacles.[0a]Let us proceed to the tower.
+1152	0	All right, let's take what we[0a]came for!
+1153	0	Yay, we got a core! Why's it a[0a]flower?
+1154	0	Wasn't she telling off that one staff[0a]member who let that flower wither?
+1155	0	I wonder if it's related to what she[0a]said earlier...
+1156	0	How she wanted to make Sapporo a[0a]beautiful destination for all.
+1157	0	While I certainly understand her[0a]passion, sacrificing her own people[0a]to do it is completely unacceptable.
+1158	0	...Yes. I agree.
+1159	0	At any rate, we retrieved the core.[0a]Let's head back to Odori Park.
+1160	0	You, thief! Return what you stole[0a]at once!
+1161	0	You have no idea what kind of[0a]torture awaits us if the Monarch[0a]finds out...
+1162	0	Sorry to hear that, but there's no[0a]turning back!
+1163	0	Look! The ice wall disappeared!
+1164	0	That appears to be the final[0a]Prison Keep.
+1165	0	The Prison Keep is there, but...
+1166	0	It's the same ice barrier we[0a]encountered at Odori Park.[0a]We can't get through like this.
+1167	0	But the core is just ahead, right?[0a]What do we do?
+1168	0	How about up there?
+1169	0	We may be able to drop in from[0a]above, as long as we're willing[0a]to climb.
+1170	0	Nice thinking, Inari! Then[0a]let's head over there!
+1171	0	Hey, don't you think we'd get there[0a]much easier if we slid down?
+1172	0	Good idea. You're sharp, Panther.
+1173	0	Witness as we gallantly soar down[0a]these slopes to safety! This may just[0a]be the inspiration I need.
+1174	0	You consider this inspiring?
+1175	0	Woohoo! Shred the gnar, baby!
+1176	0	Ahh, I love the feeling of wind in[0a]my hair!
+1177	0	Hey, careful! Look ahead!
+1178	0	I really like the motion. Shooooom!
+1179	0	Shadows! Defeat them and move[0a]on!
+1180	0	As I suspected, it seems we can[0a]enter from here.
+1181	0	All right, let's do this thing!
+1182	0	Hey! Where'd you come from!?
+1183	0	The enemy's panicking! Get[0a]rid of them!
+1184	0	All taken care of. Now let's[0a]get to that core!
+1185	0	All right, this is the third core.
+1186	0	Is this... a badge?
+1187	0	It's the Sapporo Central mayor's[0a]insignia: a simple yet effective[0a]symbol of power.
+1188	0	Oh, look!
+1189	0	The ice wall is gone. We can[0a]finally make some progress[0a]now.
+1190	0	The Monarch's gonna punish us[0a]because of you! You think you[0a]can just do whatever you want!?
+1191	0	Save that line for your Monarch.[0a]Better yet, we'll tell her—once we[0a]take you all out!
+1192	0	All obstacles have been eliminated.
+1193	0	Finally... I was getting pretty[0a]worn-out there.
+1194	0	We should consider our health.[0a]Why don't we head back and[0a]prepare?
+1195	0	Gah, it's freezing! Bet I'll catch a cold[0a]any minute!
+1196	0	It did go from summer to winter[0a]pretty quickly, didn't it?
+1197	0	I miss being warm already.
+1198	0	Then tonight, we indulge in miso[0a]ramen—with extra chashu.
+1199	0	That's Mari-san's castle...
+1200	0	Its appearance is rather striking...[0a]The closer we get, the more vivid[0a]its detail.
+1201	0	Detail aside, we can't get in again.
+1202	0	Then let's search for another[0a]entrance.
+1203	0	Oh, can we get in from up there?
+1204	0	How're we gonna reach it, though?[0a]There anything we can use like a[0a]platform?
+1205	0	All right. Infiltration successful.
+1206	0	Shadows spotted ahead. Be careful.
+1207	0	Wow... It's beautiful.
+1208	0	Yes. Such a magnificent design.
+1209	0	This is no time to be distracted by[0a]architecture! There are enemies[0a]here!
+1210	0	Hyodo should be up ahead... but[0a]there's a problem.
+1211	0	The door is frozen.
+1212	0	All right Skull, you're up.
+1213	0	Heck no, I don't want my hands[0a]gettin' stuck!
+1214	0	Guess that's not an option, then. [0a]Let's find another way.
+1215	0	Shadows! Wipe 'em out!
+1216	0	Hey, do you think we could reach[0a]the outside from that window?
+1217	0	Ah, if we climb out through there,[0a]we may be able to ascend the outer[0a]wall.
+1218	0	Damn, it's ass-bitin' cold!
+1219	0	The wind is strong, too...
+1220	0	Careful not to fall, everyone.
+1221	0	Uhh... Shouldn't you be[0a]threatening us by now?
+1222	0	I don't think they're here to mess[0a]around! Be ready for a challenge!
+1223	0	How can you blame a peon like me?[0a]We don't get paid enough for this!
+1224	0	This world revolves around money...[0a]Money talks, bullshit walks, Mayor!
+1225	0	Bastard... So he threatened the[0a]mayor, is that it!?
+1226	0	I had no idea Mari-san went[0a]through something like this...[0a]Something so awful.
+1227	0	Think later, act now! We've got a[0a]real fight on our hands here!
+1228	0	You're guilty too, right, Mayor?
+1229	0	She died because you gave your[0a]approval! Hahahahaha!
+1230	0	This guy's atrocious, placing all the[0a]blame on the mayor!
+1231	0	We're here to set Mari-san right.[0a]Listening to thugs like you is a waste[0a]of our precious time!
+1232	0	The birdcage should be open once[0a]we beat him. Everyone, do your best!
+1233	0	It's useless no matter what you do!
+1234	0	You should've just resigned and[0a]disappeared!
+1235	0	Man, he's tough. Go down already,[0a]dammit!
+1236	0	No one likes a pushy politician.
+1237	0	Why single me out? If I'm corrupt,[0a]then so is everyone around me!
+1238	0	He's getting weaker! Come on,[0a]everyone!
+1239	0	Prepare yourself! I will cleave[0a]right through your shield!
+1240	0	Report it if you want. I'll take[0a]the mayor down with me!
+1241	0	He's up to something! Can[0a]anybody stop him!?
+1242	0	The defense of the nearby Shadows[0a]has gone way up! Be tactical!
+1243	0	It's too late to change anything. The[0a]death of a sweet little girl... So tragic!
+1244	0	Look, he's trying to heal his allies![0a]Stop him in his tracks!
+1245	0	Dammit! He healed the other[0a]Shadows!
+1246	0	Argh, what a pain in the ass!
+1247	0	Now we're accomplices.[0a]Let's try to get along.
+1248	0	Way to stick it to 'em![0a]Keep punching away!
+1249	0	You want to stay mayor that[0a]badly? What a greedy woman[0a]you are!
+1250	0	He's attacking with the shield,[0a]too! Watch out, everyone!
+1251	0	Mari-san, what you're doing is[0a]wrong. So we'll be taking those[0a]Desires back!
+1252	0	Shut your prissy little mouth![0a]What would you know!?
+1253	0	I will consume all who oppose me,[0a]no matter who they are!
+1254	0	Whoa, what's with all the food!?[0a]I... kinda want some.
+1255	0	Now's not the time to stuff your face! Here she comes!
+1256	0	That chandelier...[0a]Maybe we can use it as a weapon.
+1257	0	It should deal considerable damage[0a]if we drop it on her. If only there was[0a]a way to halt her movement...
+1258	0	Why, damn you!? Why do you insist[0a]on standing in my way!?
+1259	0	Her attack power's getting stronger![0a]This doesn't look good, guys!
+1260	0	She's fully consumed with rage...[0a]Everyone, keep your guard up!
+1261	0	Her mind is totally unstable![0a]We could deal massive damage[0a]with [1b]M0~6~Psychokinesis attacks!
+1262	0	Did she just eat one of us!?[0a]Somebody help!
+1263	0	Knocking her down should force her[0a]to spit 'em out! Aim for the body!
+1264	0	It's freezing! Why's there a[0a]blizzard in here!?
+1265	0	I was able to hack the heater to the[0a]northwest! Go turn it on before we[0a]all freeze!
+1266	0	One heater hacked to the northeast![0a]Hurry up and turn it on!
+1267	0	I hacked a heater to the southwest![0a]Use it to stop up the blizzard!
+1268	0	I'm done hacking the heater[0a]to the southeast![0a]Head over there now!
+1269	0	The blizzard has stopped.
+1270	0	Aww yeah! Payback time!
+1271	0	More... There's still more...[0a]I must eat every last one of you!
+1272	0	Please stop, Mari-san! I know you're[0a]still kind deep down!
+1273	0	The hell'd she do? Where is she!?
+1274	0	She's shrouded herself in white fog.[0a]How vexing...
+1275	0	Everyone, look out! She'll eat you if[0a]you touch her!
+1276	0	Getting eaten is the last thing we[0a]want. Can we use anything as a[0a]shield!?
+1277	0	Ohh... I must... consume...[0a]everything!
+1278	0	Huh? She's not coming after us?[0a]Maybe she's too busy eating!
+1279	0	Then it's our chance! Let's get her[0a]before she starts movin'!
+1280	0	Look at the size of this blizzard...[0a]Her lungs must really be something.
+1281	0	Stop that! Arghhh... I've done[0a]nothing to deserve such agony!
+1282	0	The enemy's in great pain![0a]Looks like she's weak to[0a][1b]M0~6~Psychokinesis attacks!
+1283	0	Aaaagh! No... No!!! I wanted to dye it[0a]white as snow!
+1284	0	It looks like she's weak to[0a][1b]M0~9~Curse attacks![0a]Get busy, Joker!
+1285	0	No... This cannot be... If I fall...[0a]What kind of monster will...?
+1286	0	......
+1287	0	......
+1288	0	Sophie, is this where you saw the[0a]heater?
+1289	0	Yes, it should be on top over there.
+1290	0	But will we be able to get that high?
+1291	0	Is there anything we could use as[0a]footing? Go check it out!
+1292	0	Look, Joker! I think you can climb up[0a]those chains!
+1293	0	Drop that chandelier on her!
+1294	0	Make her spit up from the impact!
+1295	0	L-L-Listen!
+1296	0	There's a checkpoint nearby, but its[0a]transportation function seems to[0a]have gone kaput!
+1297	0	So that means we can't go back...[0a]Did the snowstorm do this too?
+1298	0	A-A-Anyway! Let's just go to where[0a]Sophie's talking about!
+1299	0	I'm glad the snowstorm stopped and[0a]all...
+1300	0	But there seems to be nothing here.[0a]Let's head back toward Odori Park[0a]for now.
+1301	0	All right, this oughta stop the[0a]snowstorm.
+1302	0	Oh! The checkpoint's functionality[0a]is back!
+1303	0	I guess that Shadow was blocking it.[0a]Now we should be able to go back[0a]and forth like we want.
+1304	0	Huh? The checkpoint's still dead...
+1305	0	There may be something else[0a]interfering. All right, let's double[0a]back.
+1306	0	...So where're the other cores?
+1307	0	This seems to be the only path we can[0a]take. Let's keep moving.
+1308	0	0
+1309	0	0
+1310	0	0
+1311	0	0
+1312	0	0
+1313	0	0
+1314	0	0
+1315	0	0
+1316	0	0
+1317	0	0
+1318	0	0
+1319	0	0
+1320	0	0
+1321	0	0
+1322	0	0
+1323	0	0
+1324	0	0
+1325	0	0
+1326	0	0
+1327	0	0
+1328	0	0
+1329	0	0
+1330	0	0
+1331	0	0
+1332	0	0
+1333	0	0
+1334	0	0
+1335	0	0
+1336	0	0
+1337	0	0
+1338	0	0
+1339	0	0
+1340	0	0
+1341	0	0
+1342	0	0
+1343	0	0
+1344	0	0
+1345	0	0
+1346	0	0
+1347	0	0
+1348	0	0
+1349	0	0
+1350	0	0
+1351	0	0
+1352	0	0
+1353	0	0
+1354	0	0
+1355	0	0
+1356	0	0
+1357	0	0
+1358	0	0
+1359	0	0
+1360	0	0
+1361	0	0
+1362	0	0
+1363	0	0
+1364	0	0
+1365	0	0
+1366	0	0
+1367	0	0
+1368	0	0
+1369	0	0
+1370	0	0
+1371	0	0
+1372	0	0
+1373	0	0
+1374	0	0
+1375	0	0
+1376	0	0
+1377	0	0
+1378	0	0
+1379	0	0
+1380	0	0
+1381	0	0
+1382	0	0
+1383	0	0
+1384	0	0
+1385	0	0
+1386	0	0
+1387	0	0
+1388	0	0
+1389	0	0
+1390	0	0
+1391	0	0
+1392	0	0
+1393	0	0
+1394	0	0
+1395	0	0
+1396	0	0
+1397	0	0
+1398	0	0
+1399	0	0
+1400	0	0
+1401	0	0
+1402	0	0
+1403	0	0
+1404	0	0
+1405	0	0
+1406	0	0
+1407	0	0
+1408	0	0
+1409	0	0
+1410	0	0
+1411	0	0
+1412	0	0
+1413	0	0
+1414	0	0
+1415	0	0
+1416	0	0
+1417	0	0
+1418	0	0
+1419	0	0
+1420	0	0
+1421	0	0
+1422	0	0
+1423	0	0
+1424	0	0
+1425	0	0
+1426	0	0
+1427	0	0
+1428	0	0
+1429	0	0
+1430	0	0
+1431	0	0
+1432	0	0
+1433	0	0
+1434	0	0
+1435	0	0
+1436	0	0
+1437	0	0
+1438	0	0
+1439	0	0
+1440	0	0
+1441	0	0
+1442	0	0
+1443	0	0
+1444	0	0
+1445	0	0
+1446	0	0
+1447	0	0
+1448	0	0
+1449	0	0
+1450	0	0
+1451	0	0
+1452	0	0
+1453	0	0
+1454	0	0
+1455	0	0
+1456	0	0
+1457	0	0
+1458	0	0
+1459	0	0
+1460	0	0
+1461	0	0
+1462	0	0
+1463	0	0
+1464	0	0
+1465	0	0
+1466	0	0
+1467	0	0
+1468	0	0
+1469	0	0
+1470	0	0
+1471	0	0
+1472	0	0
+1473	0	0
+1474	0	0
+1475	0	0
+1476	0	0
+1477	0	0
+1478	0	0
+1479	0	0
+1480	0	0
+1481	0	0
+1482	0	0
+1483	0	0
+1484	0	0
+1485	0	0
+1486	0	0
+1487	0	0
+1488	0	0
+1489	0	0
+1490	0	0
+1491	0	0
+1492	0	0
+1493	0	0
+1494	0	0
+1495	0	0
+1496	0	0
+1497	0	Dude, what's gotten into her!?
+1498	0	She said it was a voice...
+1499	0	Whatever it is, we have to catch up[0a]to her!
+1500	0	What's the deal with this place?[0a]It's so creepy...
+1501	0	Are you holding up, Queen?
+1502	0	Ah! Yes, fine. Let's hurry up and[0a]find Sophie.
+1503	0	This looks like someone's diary...
+1504	0	"Today's the best day of my life![0a]I never thought I'd get to work[0a]on a dream project like this!"
+1505	0	"This isn't just an AI, this is the[0a]biggest advancement ever in[0a]humanity attaining true bliss!"
+1506	0	What the crap was that!?
+1507	0	Could those have been the echoes[0a]of the tortured souls here haunting[0a]the halls?
+1508	0	What in the... Give me a break...
+1509	0	Hey, why's it gotta get so dark on us?
+1510	0	It has grown even eerier as well.[0a]What lies in wait ahead of us?
+1511	0	The visibility level's a real issue, but[0a]I'm still worried about Sophie. Let's[0a]proceed with caution.
+1512	0	Not that way! We should go the way[0a]Sophie did!
+1513	0	Shadow—just on the other side![0a]Be careful...
+1514	0	Sooo, this is a research lab for[0a]computer stuff?
+1515	0	That's supposedly the case, despite[0a]the facility projecting a "human[0a]experimentation" ambiance...
+1516	0	Human experimentation!?
+1517	0	That would mean this place's[0a]Monarch views the real facility[0a]in the same way...
+1518	0	Ugh, what an effin' gross way to[0a]see shit...
+1519	0	Looks like some notes[0a]on an experiment...
+1520	0	"Determining the Effects of a[0a]Change of Heart:"
+1521	0	"We ordered the island locals to[0a]eliminate anyone who comes near[0a]the laboratory without clearance."
+1522	0	"This shall test the change[0a]of heart's ability to facilitate[0a]complex commands..."
+1523	0	"As well as any remaining latent[0a]consciousness—more specifically,[0a]whether their morals remain."
+1524	0	Looks like someone's[0a]old research diary...
+1525	0	"This research is detestable. How[0a]could humans ever experiment on[0a]each other's very souls like this?"
+1526	0	"I must stop this travesty. I'm going[0a]to march into the Director's office[0a]and tell him it's wrong, right now!"
+1527	0	So many containers... What do you[0a]think's inside?
+1528	0	They appear to be roughly[0a]person-sized.
+1529	0	C'mon! Don't put those kinds of[0a]thoughts in our heads!
+1530	0	......
+1531	0	Queen's behavior has grown[0a]unusual for her. Is something[0a]wrong?
+1532	0	Ummm... Maybe the best way to[0a]put it is, we all have our strengths[0a]and our weaknesses.
+1533	0	It looks like some sort of record,[0a]but parts of it have been redacted...
+1534	0	"Name: ■■■■; Role: Chief"
+1535	0	"Now designated subject C82.[0a]Assigned to experimentation[0a]for leaking confidential intel."
+1536	0	There's a note hastily scrawled[0a]on this torn piece of paper...
+1537	0	"Why did this happen?[0a]Where did we go wrong?"
+1538	0	"Please, give me the answer."
+1539	0	I can still hear the voice. Does its[0a]owner recognize me?
+1540	0	Hey, don't go overthinkin' it, Sophie.
+1541	0	He's right, you know. Our expert on[0a]not thinking gives pretty good advice[0a]there!
+1542	0	Yeah! Listen to the— Hey, shuddup!
+1543	0	I wonder what happened to the[0a]director after the last recording...
+1544	0	I sincerely doubt anything good...[0a]He sounded as if he was beyond[0a]wits' end.
+1545	0	So, from Alice all the way here to the[0a]director—everyone was just being[0a]used for something?
+1546	0	If the perpetrator is still out there,[0a]we have to stop them. Hopefully[0a]this place will have some answers.
+1547	0	Oh boy, that one looks dangerous!
+1548	0	It's super-powerful! On your toes, guys!
+1549	0	It's near—the voice is coming from[0a]up ahead.
+1550	0	It looks like we're taking this[0a]elevator if we're going any further...
+1551	0	...Except that it's locked. Apparently[0a]it's for personnel only.
+1552	0	Leave it to me! Just a few seconds[0a]and I'll "hire" us all!
+1553	0	Thank you, Oracle. I will protect you,[0a]no matter what.
+1554	0	Look out—incoming warden!
+1555	0	Hey, Sophie! Snap out of it! We gotta[0a]work together on this thing!
+1556	0	Yes, right.
+1557	0	What!? This thing's got an AXE!?
+1558	0	Be careful! Looks like this one can[0a]use the other wardens' attacks!
+1559	0	Crap! It's charging us now!
+1560	0	So it can control its speed that well...[0a]Don't sell this one short, everyone!
+1561	0	It raises its shields whenever[0a]bolstering itself... How aggravating.
+1562	0	Steer clear of it for now—focus on[0a]healing up and stuff in a safe spot!
+1563	0	*gasp* What strength...!
+1564	0	Here it comes! Dodge it!
+1565	0	You'll be fine if you stay elevated![0a]See anything you can hop onto?
+1566	0	It has quite a few tricks up its sleeves. I can't predict its movements.
+1567	0	Dodging all of this will be too tough.[0a]We should focus more on guarding.
+1568	0	It takes all these hits AND we can't[0a]read its next attack... This thing's[0a]really getting on my nerves!
+1569	0	Hang in there, guys! Just keep your[0a]eyes on its movements!
+1570	0	That thing's swings remind me[0a]of Queen's... Wait, is this thing[0a]LEARNING from us!?
+1571	0	If so, that spells real trouble! We've[0a]gotta take it down now!
+1572	0	I am... worthless?
+1573	0	Sophie, just focus on our enemy[0a]for now!
+1574	0	Even my directive is worthless.[0a]I'll never be a good companion...
+1575	0	In that case... why do I exist?
+1576	0	......
+1577	0	C'mon Sophie, keep it together![0a]We got your back!
+1578	0	Warden: down! Great job, guys!
+1579	0	......
+1580	0	It's a tape recorder...
+1581	0	This plan brings to fruition a dream[0a]long-cherished by the research team—[0a]no, by all mankind!
+1582	0	Every last test subject, a successful change of[0a]heart!
+1583	0	When the Penitentiary System is complete,[0a]the concept of suffering will be dead to all[0a]mankind!
+1584	0	Now, let us rejoice and welcome the new age[0a]of humanity!
+1585	0	EMMA shall be our guide into this promised[0a]land!
+1586	0	The recording ends there...
+1587	0	It's a tape recorder...
+1588	0	Please, Director Ubukata! We must immediately[0a]abort the experiment! It's too dangerous!
+1589	0	These are the orders I was given. If the system[0a]isn't tested on real humans, it won't ever be[0a]completed.
+1590	0	But—tricking the islanders into participating!?
+1591	0	You know what happens to a person when their[0a]Desire is taken, Director!
+1592	0	We've learned of another party manipulating[0a]the cognitive world for their own purposes in[0a]the real one.
+1593	0	We cannot allow these individuals to progress[0a]beyond us! So long as we follow the divine[0a]revelation, we will attain the ideal society.
+1594	0	I have absolute faith in the system as it was[0a]prophesied to me.
+1595	0	What ideal society turns its entire population[0a]into slaves!?
+1596	0	This isn't any divine revelation—it's a curse![0a]It can only lead to our destruction!
+1597	0	The recording ends there...
+1598	0	It's a tape recorder...
+1599	0	Hand over the Desires?
+1600	0	Not just the locals, but my own as well!?
+1601	0	So that's why I was made the test Monarch...[0a]He planned on turning me into just another[0a]puppet!
+1602	0	I can't believe I fell for it. Just some pathetic[0a]clown dancing at his fingertips...
+1603	0	But he's not going to win... He can't take this[0a]from me!
+1604	0	My Desire is but my own...
+1605	0	I refuse to simply give it up!
+1606	0	The recording ends there...
+1607	0	It's a tape recorder...
+1608	0	This is my final record.
+1609	0	I've done... such a terrible thing.
+1610	0	The Penitentiary System is nothing like he[0a]told me... It's not made to save humanity.
+1611	0	He's going to control everyone... Even the[0a]Monarchs.
+1612	0	All of humanity, nothing more than slaves...[0a]That was the secret purpose of this project.
+1613	0	Even my own Desire will be seized, any moment[0a]now...
+1614	0	But as long as I still have it... I can put an end to[0a]this myself.
+1615	0	It seems the tape ends there...
+1616	0	Okay, now the elevator should be[0a]operational! Time for us to find this[0a]mystery voice!
+1617	0	Anyone feeling wiped out from that[0a]fight? We could head back for a bit[0a]if anyone thinks it's necessary.
+1618	0	If you have any plans to change up[0a]the party, please include me. I wish[0a]to ascertain the owner of the voice.
+1619	0	Hmm... I'll leave that to you, Joker.
+1620	0	I'm sorry...
+1621	0	0
+1622	0	0
+1623	0	0
+1624	0	0
+1625	0	0
+1626	0	0
+1627	0	0
+1628	0	0
+1629	0	0
+1630	0	0
+1631	0	0
+1632	0	0
+1633	0	0
+1634	0	0
+1635	0	0
+1636	0	0
+1637	0	0
+1638	0	0
+1639	0	0
+1640	0	0
+1641	0	0
+1642	0	0
+1643	0	0
+1644	0	0
+1645	0	0
+1646	0	0
+1647	0	0
+1648	0	0
+1649	0	0
+1650	0	0
+1651	0	0
+1652	0	0
+1653	0	0
+1654	0	0
+1655	0	0
+1656	0	0
+1657	0	0
+1658	0	0
+1659	0	0
+1660	0	0
+1661	0	0
+1662	0	0
+1663	0	0
+1664	0	0
+1665	0	0
+1666	0	0
+1667	0	0
+1668	0	0
+1669	0	0
+1670	0	0
+1671	0	0
+1672	0	0
+1673	0	0
+1674	0	0
+1675	0	0
+1676	0	0
+1677	0	0
+1678	0	0
+1679	0	0
+1680	0	0
+1681	0	0
+1682	0	0
+1683	0	0
+1684	0	0
+1685	0	0
+1686	0	0
+1687	0	0
+1688	0	0
+1689	0	0
+1690	0	0
+1691	0	0
+1692	0	0
+1693	0	0
+1694	0	0
+1695	0	0
+1696	0	0
+1697	0	0
+1698	0	0
+1699	0	0
+1700	0	0
+1701	0	0
+1702	0	0
+1703	0	0
+1704	0	0
+1705	0	0
+1706	0	0
+1707	0	0
+1708	0	0
+1709	0	0
+1710	0	0
+1711	0	0
+1712	0	0
+1713	0	0
+1714	0	0
+1715	0	0
+1716	0	0
+1717	0	0
+1718	0	0
+1719	0	0
+1720	0	0
+1721	0	0
+1722	0	0
+1723	0	0
+1724	0	0
+1725	0	0
+1726	0	0
+1727	0	0
+1728	0	0
+1729	0	0
+1730	0	0
+1731	0	0
+1732	0	0
+1733	0	0
+1734	0	0
+1735	0	0
+1736	0	0
+1737	0	0
+1738	0	0
+1739	0	0
+1740	0	0
+1741	0	0
+1742	0	0
+1743	0	0
+1744	0	0
+1745	0	0
+1746	0	0
+1747	0	0
+1748	0	0
+1749	0	0
+1750	0	0
+1751	0	0
+1752	0	0
+1753	0	0
+1754	0	0
+1755	0	0
+1756	0	0
+1757	0	0
+1758	0	0
+1759	0	0
+1760	0	0
+1761	0	0
+1762	0	0
+1763	0	0
+1764	0	0
+1765	0	0
+1766	0	0
+1767	0	0
+1768	0	0
+1769	0	0
+1770	0	0
+1771	0	0
+1772	0	0
+1773	0	0
+1774	0	0
+1775	0	0
+1776	0	0
+1777	0	0
+1778	0	0
+1779	0	0
+1780	0	0
+1781	0	0
+1782	0	0
+1783	0	0
+1784	0	0
+1785	0	0
+1786	0	0
+1787	0	0
+1788	0	0
+1789	0	0
+1790	0	0
+1791	0	0
+1792	0	0
+1793	0	0
+1794	0	0
+1795	0	0
+1796	0	0
+1797	0	Keep an eye out for Akane-chan.[0a]We need to be quick, or else!
+1798	0	Question. If this is a Jail, doesn't that[0a]mean the Shadow Akane's here and[0a]not the real one?
+1799	0	Right, only her Shadow should be[0a]here—but that doesn't mean there's[0a]no danger!
+1800	0	If something happens to her Shadow,[0a]her life could be at risk! So let's find[0a]her!
+1801	0	Not a Shadow in sight... Why might[0a]that be?
+1802	0	Something's really strange about this[0a]Jail... Be ready for anything, guys.
+1803	0	You'd better hide if you see[0a]something coming—you're[0a]a goner if you get caught!
+1804	0	I know, I know. That's why I need[0a]your backup, Saku— Uh, Oracle.
+1805	0	Found a key, huh? You think we'll[0a]need it?
+1806	0	No clue. Could wind up being useful,[0a]though... Call it intuition.
+1807	0	Zenkichi, look out! Shadow ahead![0a]Go another way!
+1808	0	Dammit! Better find a clearer path...
+1809	0	Incoming, dead ahead! Hide or it's[0a]over!
+1810	0	Roger...
+1811	0	Okay, looks like they're gone.[0a]Now's your chance!
+1812	0	Heh... Been a while since I felt this[0a]jumpy.
+1813	0	Another enemy! Hide!
+1814	0	Whoooa. Man, was that close...
+1815	0	Okay, I don't see 'em. Am I good,[0a]Oracle?
+1816	0	Yeah, should be. But don't get[0a]careless, all right?
+1817	0	Enemy approaching! Get outta there!
+1818	0	Whew... This an okay spot?
+1819	0	Yeah, not bad at all! You're growing[0a]thiefier by the minute!
+1820	0	Is that a compliment—or even a word? Either way, not sure I'm a fan...
+1821	0	There they are! In that cell!
+1822	0	Great, let's spring 'em. Just a second,[0a]kids...
+1823	0	What the— What happened to my[0a]clothes!? Am I finally losing my[0a]marbles?
+1824	0	Is that his phantom thief attire!?[0a]And... he has a Persona!
+1825	0	What are you waiting for!? Get him!
+1826	0	Here they come, Zenkichi! Get[0a]ready!
+1827	0	Ready HOW!? Agh, never mind—[0a]guess I just gotta wing it!
+1828	0	Yeah, get 'em, Gramps! Mess their[0a]shit up!
+1829	0	He's amazing... He's moving like[0a]someone half his age!
+1830	0	How 'bout you cut the wisecracks[0a]and let me do my thing? I sure[0a]don't feel half my age!
+1831	0	Although raising a bit o' hell all[0a]decked out like this is pretty sweet,[0a]I gotta say!
+1832	0	*pant* Was that... *pant*[0a]the last of them?
+1833	0	No... No! How'd he do that?[0a]This can't be happening!
+1834	0	Just hang tight, Akane... I'm on my[0a]way.
+1835	0	Stay focused, Wolf. We don't have[0a]a clue what's ahead of us.
+1836	0	He's right—letting your emotions[0a]get the better of you won't do[0a]Akane-chan any good, Wolf.
+1837	0	Yeeeah... So, I really have to use a[0a]code name, huh?
+1838	0	I know we can't stick around here,[0a]but this place sure is pretty...
+1839	0	This shrine is a pretty big tourist spot[0a]in the real world. It looks just like[0a]this if you come here at night.
+1840	0	We can come back once this is[0a]all over. We can even bring[0a]Akane-chan with us.
+1841	0	So, when passing under the gates,[0a]you should pick a side. Walking[0a]in the middle is poor manners.
+1842	0	Oh, I remember hearing that before.[0a]Are there any other rules?
+1843	0	Well, I suppose if we're to follow[0a]proper courtesy, we should bow[0a]before passing under each one...
+1844	0	Come on, you see how many there[0a]are! It'd take us all day just to get[0a]past here.
+1845	0	Actually, it's already nighttime.
+1846	0	C'mon, we don't have time for this.[0a]Akane's waiting for us.
+1847	0	These are... foxes?
+1848	0	The path continues down beyond[0a]those gates, but with that thing[0a]here, we're not getting through...
+1849	0	Then we'd better check out some other paths for clues. Time for some legwork...
+1850	0	Wha— Uhhh, where are we? This[0a]ain't where we came from... right?
+1851	0	Ah-ha... So if we pass through one of[0a]those swirling things, we end up[0a]somewhere else in the Jail entirely...
+1852	0	*sigh* So we can't even just walk[0a]where we want to anymore?
+1853	0	That means our only choice is to[0a]see where our feet shall lead us.
+1854	0	Right! Let's see how far they can[0a]take us!
+1855	0	Uh-oh... Looks like a dead end.
+1856	0	Hang on, doesn't that fox statue[0a]remind you of anything?
+1857	0	It does appear similar to the pair[0a]that currently blocks our route—[0a]more specifically, half of the pair.
+1858	0	There's gotta be something to it,[0a]then. Let's check it out.
+1859	0	Oh, have you sensed something[0a]with your sleuthing skills?
+1860	0	I'm no kind of sleuth—I'm a PubSec[0a]agent.
+1861	0	Careful, people—Shadow incoming!
+1862	0	Hmm? Shining fox eyes?
+1863	0	Hmmm...
+1864	0	No, not me—the statue.
+1865	0	They do look like they're shining...[0a]I wonder why?
+1866	0	If something affected this statue,[0a]then maybe the other one that[0a]looks like it was affected too...
+1867	0	Daaamn, Gramps, you really are a[0a]sleuth, aren'tcha? You should be on[0a]one of those cop shows.
+1868	0	I'm already a cop in real life, genius!
+1869	0	Either way, let's double back. Maybe[0a]we should return to the statues?
+1870	0	Hey, something DID happen to the[0a]statue!
+1871	0	Its eyes are shining too—but it looks[0a]like the other one wasn't affected.
+1872	0	Looks like we're hunting for the[0a]other fox statue now...
+1873	0	So you think we'll be able to use the[0a]path if we light up both statues' eyes?
+1874	0	It's not like we got anything else to[0a]try... I say we give it a shot.
+1875	0	You're the sleuth here.
+1876	0	Ooh! Inari statue, ahoy!
+1877	0	Just so you know, Inari are not[0a]literally foxes. That's just a form[0a]they're said to take when on Earth.
+1878	0	Oookay... So, based on what we saw[0a]earlier, the eyes should light up once[0a]we defeat a Shadow. But, where is it?
+1879	0	Speak of the devil and he appears...[0a]Let's get this over with!
+1880	0	Right! We're on it!
+1881	0	The eyes are shining now.
+1882	0	Perfect! Let's get back to the other[0a]statues—hopefully we can proceed[0a]now.
+1883	0	Both statues do appear affected[0a]now... Oh?
+1884	0	Hell yeah, we're on our way!
+1885	0	Yeah, let's get going!
+1886	0	Wolf, Akane is just beyond here—[0a]I have sleuthed her location.
+1887	0	Kinda strange when an AI puts it[0a]that way...
+1888	0	But my senses are telling me the[0a]same thing. I'm almost there,[0a]Akane...
+1889	0	Wh-Who are these guys!? Why do[0a]they look just like us!?
+1890	0	Are they... the Phantom Thieves in[0a]Akane's cognition!?
+1891	0	Her cognition's... what? What does[0a]that even mean?
+1892	0	They're just some phonies! But they[0a]sure won't look like us when we're[0a]done with 'em!
+1893	0	Hmph, we'd better make it quick.[0a]Hang on, Akane! I'm coming to get[0a]you!
+1894	0	Go, my Phantom Thieves! Rid us[0a]of these impostors!
+1895	0	Don't back down! Show him the real[0a]Joker's might!
+1896	0	What!? How could— My Phantom[0a]Thieves!
+1897	0	Now's our chance! Lay into him!
+1898	0	This guy's super fast! Look for some[0a]sort of opening!
+1899	0	Even the attacks are exact copies![0a]Talk about copyright infringement!
+1900	0	How could a remake be so close to[0a]the original!? Keep your cool, Joker!
+1901	0	Hang in there, Joker! Don't you lose[0a]to that fraud!
+1902	0	Yes! Now's your chance!
+1903	0	How? How could you even do that?[0a]My Phantom Thieves can't lose!
+1904	0	We need to snap her out of it...[0a]Finish him, quick!
+1905	0	Stop...! What have you done to my[0a]Phantom Thieves!?
+1906	0	Looks like it's working! Keep it up,[0a]Joker!
+1907	0	Damn these effin' copycats...[0a]Get your own thing!
+1908	0	Hmph, I admit he looks pretty good,[0a]but he still doesn't have anything on[0a]ME!
+1909	0	Ngh, he even matches my speed!?
+1910	0	Fighting someone who does[0a]everything you do is so[0a]annoying!
+1911	0	These might be our strongest foes[0a]yet... Careful, everyone!
+1912	0	Akane-chan, please! Stop this![0a]We're on your side!
+1913	0	Shut up! Just, shut up! Only the[0a]Phantom Thieves are on my side!
+1914	0	Nobody believes in justice anymore![0a]That's why I have to carry out my[0a]own!
+1915	0	I had no idea I'd made it so bad[0a]for you, Akane...
+1916	0	I'm so sorry. I won't run from the[0a]truth anymore... Please, come back[0a]to me!
+1917	0	My Phantom Thieves... lost!?[0a]No... This can't be real!
+1918	0	Sounds like we got intruders. What's the status[0a]on that fox statue?
+1919	0	Don't worry. They won't be getting anywhere,[0a]not unless they reach the [1b]C2Father Fox Shrine[1b]R.
+1920	0	Ah, that's right... The [1b]C2Father Fox Shrine[1b]R is deep[0a]within the complex. They'll never find it.
+1921	0	Right. Now let's get back to patrol.
+1922	0	Hey! Who gave you permission to slack off!?[0a]Get your ass over to the [1b]C2Father Fox Shrine[1b]R!
+1923	0	Uh... Remind me where that was again?
+1924	0	How many times must I tell you!?[0a]The [1b]C2Father Fox Shrine[1b]R is all the way[0a]northeast of the complex!
+1925	0	You mean I gotta walk all that way? Fine...
+1926	0	Man, I keep getting lost no matter what I do...[0a]How am I supposed to go anywhere?
+1927	0	You might want to start by learning where[0a]you're at—the location name in particular.[0a]For instance, this here's the [1b]C2Path of Harmony[1b]R.
+1928	0	Okay... So if I keep going down this path, I'll[0a]reach [1b]C2Parental Square[1b]R?
+1929	0	Yup. And any time you need to get your[0a]bearings, make a mental note of your location[0a]and where the road is taking you.
+1930	0	So it seems there's something we need to do at[0a]the [1b]C2Father Fox Shrine[1b]R... I say we check it out.
+1931	0	*sigh* Patrol duty's the pits. All we do is pace[0a]around like idiots, back and forth, over and[0a]over, and for what? I'm sick and tired of this.
+1932	0	Yeah, well get over it! This is our job, so get it[0a]done right!
+1933	0	How can I when I can't even remember how to[0a]get anywhere!?
+1934	0	Ahh, once you're fully acclimated, you can get[0a]around with your eyes closed. Just pay attention[0a]to where you are and where the paths take ya.
+1935	0	For example, this is the [1b]C2Path of Fortune[1b]R, right?[0a]Keep going and you'll reach the [1b]C2Father Fox[1b]R[0a][1b]C2Shrine[1b]R.
+1936	0	Oh, right... I forgot how close the [1b]C2Father Fox[1b]R[0a][1b]C2Shrine[1b]R was. We better guard that at all costs.
+1937	0	Did you guys hear that? This path leads to the[0a][1b]C2Father Fox Shrine[1b]R.
+1938	0	Hmm... but we don't exactly know where the[0a][1b]C2Father Fox Shrine[1b]R is.
+1939	0	Hey, I think I hear that furball mewlin' away.[0a]You wanna go catch it?
+1940	0	No way, I'm not getting in trouble for leaving[0a]my post.
+1941	0	...Speaking of which, why are we chasing a cat[0a]again?
+1942	0	Because the [1b]C2Ancient Lord[1b]R's been off his rocker,[0a]saying a cat's been causin' him trouble.
+1943	0	But how would a cat even get here? You can't[0a]reach the [1b]C2Ancient Lord[1b]R from where we are now.
+1944	0	Yeah, well unlike us, cats can go wherever they[0a]darn well please.
+1945	0	0
+1946	0	By the way, I hear that cat got the drop on the[0a][1b]C2Ancient Lord[1b]R and gave him a good scratchin'!
+1947	0	You gotta be "kitten" me!
+1948	0	All right. This couldn't be any further from the[0a][1b]C2Father Fox Shrine[1b]R... Meaning I can finally catch[0a]a break.
+1949	0	Hey, what was the little area before you reach[0a]the [1b]C2Father Fox Shrine[1b]R again?
+1950	0	Ah, that would technically be [1b]C2Parting Square[1b]R.[0a]It'll lead you directly to the [1b]C2Father Fox Shrine[1b]R.
+1951	0	Wait, that doesn't make sense. I thought[0a]Beckoning Cat Square led directly to the[0a][1b]C2Father Fox Shrine[1b]R.
+1952	0	Sure, maybe if you're lookin' at a map. But go[0a]out from [1b]C2Parting Square[1b]R and you'll end up[0a]smack-dab at the [1b]C2Father Fox Shrine[1b]R. Trust me!
+1953	0	How can I when you're not making any sense!?
+1954	0	Hey, what's the deal with this memo?[0a]Can I just toss it?
+1955	0	Whoa, not so fast! That memo has my secret[0a]code on it!
+1956	0	Really... Let's see here...
+1957	0	"Note to self. Reaching the [1b]C2Mother Fox[1b]R[0a][1b]C2Shrine[1b]R requires the following ritual:"
+1958	0	"Couple, Harmony, Parental, Daughter, Fortune.[0a]Don't forget to say your prayers!"
+1959	0	What kind of ritual is that...? And why is it the[0a]"Mother" Fox Shrine?
+1960	0	"Couple, Harmony, Parental, Daughter,[0a]Fortune." What does this tell us about how to[0a]reach the Mother Fox Shrine?
+1961	0	Always put family first.
+1962	0	Pray at the locations in order.
+1963	0	What do you think, Queen?
+1964	0	Family harmony brings fortune.
+1965	0	They're all locations.
+1966	0	Let's ask Queen.
+1967	0	Ah, now that's a good saying. Nothing like[0a]keeping the family bond alive... Except[0a]that's not much of an answer.
+1968	0	So if there's harmony between the couple,[0a]maybe their daughter's more fortunate...?[0a]But how does this relate to the shrines?
+1969	0	"Couple, Harmony, Parental, Daughter,[0a]Fortune"... Where else have we heard this[0a]before?
+1970	0	You can do this, Joker!
+1971	0	I see... So we must visit these locations...
+1972	0	And pray at each one! Nice work, Joker!
+1973	0	"Couple, Harmony, Parental, Daughter,[0a]Fortune"... What are your thoughts, Joker?
+1974	0	Ah, that's it! There's a location that matches[0a]each of those words!
+1975	0	So "Couple" would mean the [1b]C2Fox Couple Statue[1b]R[0a]and "Harmony" refers to the [1b]C2Path of Harmony[1b]R.
+1976	0	What about "Don't forget to say your prayers"?[0a]We didn't see any locations with "pray" in it.
+1977	0	I think we're almost there, Joker. Let's finish[0a]sorting this out.
+1978	0	Now that we know the answer, let's be on our[0a]way. Remember: "Couple, Harmony, Parental,[0a]Daughter, Fortune."
+1979	0	I should offer a prayer...
+1980	0	This is the [1b]C2Fox Couple Statue[1b]R...
+1981	0	This is the [1b]C2Daughter Fox Shrine[1b]R...
+1982	0	This is the [1b]C2Harmony Shrine[1b]R...
+1983	0	This is the [1b]C2Parental Shrine[1b]R...
+1984	0	This is the [1b]C2Fortune Shrine[1b]R...
+1985	0	Couple, Harmony, Parental, Daughter, Fortune...
+1986	0	I wonder where that other fox statue is... I feel as though we've ran around the entire complex by now.
+1987	0	Seems like we'll have to gather some more[0a]info. Do you hear anyone talking nearby?
+1988	0	Or maybe we can listen in on those guards again. See if you can pick up on a conversation from outside one of the buildings.
+1989	0	All right... Let's see if we can find this[0a]other fox statue based on the information[0a]we gathered.
+1990	0	Now where can we find the statue we need?
+1991	0	The Mother Fox Shrine
+1992	0	The Father Fox Shrine
+1993	0	The Demon Fox Shrine
+1994	0	Good thinking. If there's a Father Fox Shrine,[0a]it makes sense there'd be a Mother Fox Shrine[0a]to match.
+1995	0	I think I'm starting to see it... The mother and[0a]father foxes are the key to getting past the[0a]Fox Couple Statue.
+1996	0	So we need to find the Mother Fox Statue to[0a]proceed. That sounds reasonable enough.
+1997	0	C'mon. We already went to the [1b]C2Father Fox[1b]R[0a][1b]C2Shrine[1b]R. That's why its eyes are glowing on the[0a]statue.
+1998	0	It didn't seem like there was anything else worth[0a]noting there. So, where would the other statue[0a]be?
+1999	0	Let's think it over again.
+2000	0	Oh. Y-Yeah... There's gotta be a demon fox[0a]statue here somewhere, right?
+2001	0	So that means we probably need to head to the[0a][1b]C2Mother Fox Shrine[1b]R... But what about that[0a]ritual?
+2002	0	You're the one not making sense!
+2003	0	If we don't catch it soon, the [1b]C2Ancient Lord[1b]R at[0a][1b]C2Parting Square[1b]R is gonna get all pissed at[0a]you again.
+2004	0	Next up is the [1b]C2Harmony Shrine[1b]R.
+2005	0	Tch. He thinks he's better than us just 'cause he's[0a]the one protecting the [1b]C2Father Fox Shrine[1b]R.
+2006	0	Yeah, he went chasing after that cat he heard[0a]and accidentally warped from [1b]C2Parting[1b]R[0a][1b]C2Square[1b]R to the [1b]C2Father Fox Shrine[1b]R.
+2007	0	So in the end, a cat lured him into a fox's trap...[0a]Hah, serves him right!
+2008	0	I believe that was: "Couple, Harmony, Parental,[0a]Daughter, Fortune." Then after, "Don't forget to[0a]say your prayers."
+2009	0	What does that mean? Is that a prayer list of[0a]some kind?
+2010	0	Yeah, I'm pretty sure that's not it. Stop spitting[0a]platitudes and help us figure this out.
+2011	0	To the [1b]C2Fox Couple Statue[1b]R we go! And let the[0a]prayer-a-thon begin!
+2012	0	Next up is the [1b]C2Parental Shrine[1b]R.
+2013	0	Next up is the [1b]C2Daughter Fox Shrine[1b]R.
+2014	0	The last one is the [1b]C2Fortune Shrine[1b]R.
+2015	0	Did you guys catch that? The [1b]C2Father Fox Shrine[1b]R[0a]is at the northeast corner of the shrine complex.
+2016	0	So from here... That would mean we go back the[0a]way we came, then north at the fork.
+2017	0	That's why we investigate, kids. First thing you[0a]do when you need more information. In fact,[0a]you could say we were investigating just now.
+2018	0	That was more eavesdroppin' than[0a]investigating, but whatever. We're thieves.[0a]We do that shit.
+2019	0	Either way, let's scour the area and listen in[0a]close if we hear any whisperings going on.
+2020	0	Sweet! Then let's get a move on!
+2021	0	All right. Be sure to keep an eye on the map.
+2022	0	The [1b]C2Father Fox Shrine[1b]R is all the way to the[0a]northeast... It really doesn't help that these[0a]weird shrine gates keep warping us around.
+2023	0	We'll have to figure out an alternate way there.
+2024	0	So we need to keep our location in mind[0a]at all times... I suppose that's a good habit[0a]to begin with.
+2025	0	Well, it still stinks that we can't trust the paths[0a]to take us where we want. Guess I'll turn off[0a]navigation for now.
+2026	0	We did see a [1b]C2Father Fox[1b]R earlier... Could that mean there's also a [1b]C2Mother Fox[1b]R?
+2027	0	I don't have a clue... Why don't we head back to[0a]the [1b]C2Fox Couple Statue[1b]R and think this through?
+2028	0	Quiet down... I hear voices in the distance.
+2029	0	Maybe we can learn something if we listen in.[0a]Let's go, Joker.
+2030	0	Don't forget, we need to do that ritual...[0a]Maybe it sounded like gibberish, but[0a]it has to be some sort of clue.
+2031	0	It seems like we're back at the[0a][1b]C2Daughter Fox Shrine[1b]R...
+2032	0	Dammit... Not here again. Which way[0a]gets us to the [1b]C2Father Fox Shrine[1b]R?
+2033	0	Are there any pathways we haven't explored[0a]yet? We may just have to check out every one[0a]we find...
+2034	0	All right. Then we'll reach the [1b]C2Father Fox[1b]R[0a][1b]C2Shrine[1b]R by using our eyes and ears.
+2035	0	It'll be mayhem if we're all in the[0a]same place. Let's split up and take[0a]'em out in one-on-ones!
+2036	0	Time to defeat these doppelgangers![0a]Wolf, Sophie, back us up!
+2037	0	You know I've got your backs!
+2038	0	Okay, got it! You guys can do it!
+2039	0	Don't you guys dare lose!
+2040	0	So this is the right way, then? Let's go!
+2041	0	You gotta be "kitten" me... Was he kidding,[0a]Mona?
+2042	0	Don't ask me—I'm no kitten! ...Anyway, let's[0a]just keep going.
+2043	0	Damn it... Where'd that cat go?
+2044	0	Come to think of it, wasn't he recently found[0a]absent from his post? Right after going on about[0a]sticking to our patrol and everything...
+2045	0	I don't know what this "kitten" crap is, but[0a]let me get this straight:
+2046	0	If we follow the sound of this cat from[0a][1b]C2Parting Square[1b]R... We'll finally be able[0a]to warp to the [1b]C2Father Fox Shrine[1b]R.
+2047	0	Got it. So the beckoning cat knows the path.
+2048	0	No, that doesn't seem right. What else could it[0a]be...
+2049	0	The [1b]C2Father Fox Shrine[1b]R is at the northeast[0a]corner of the complex.
+2050	0	But if we try to follow the map, it'll only get us[0a]warped all over the place...
+2051	0	Maybe there's a clue to this. I'm sure we'll find it[0a]if we look carefully enough.
+2052	0	0
+2053	0	0
+2054	0	0
+2055	0	0
+2056	0	0
+2057	0	0
+2058	0	0
+2059	0	0
+2060	0	0
+2061	0	0
+2062	0	0
+2063	0	0
+2064	0	0
+2065	0	0
+2066	0	0
+2067	0	0
+2068	0	0
+2069	0	0
+2070	0	0
+2071	0	0
+2072	0	0
+2073	0	0
+2074	0	0
+2075	0	0
+2076	0	0
+2077	0	0
+2078	0	0
+2079	0	0
+2080	0	0
+2081	0	0
+2082	0	0
+2083	0	0
+2084	0	0
+2085	0	0
+2086	0	0
+2087	0	0
+2088	0	0
+2089	0	0
+2090	0	0
+2091	0	0
+2092	0	0
+2093	0	0
+2094	0	0
+2095	0	0
+2096	0	0
+2097	0	0
+2098	0	0
+2099	0	0
+2100	0	0
+2101	0	0
+2102	0	0
+2103	0	0
+2104	0	0
+2105	0	0
+2106	0	0
+2107	0	0
+2108	0	0
+2109	0	0
+2110	0	0
+2111	0	0
+2112	0	0
+2113	0	0
+2114	0	0
+2115	0	0
+2116	0	0
+2117	0	0
+2118	0	0
+2119	0	0
+2120	0	0
+2121	0	0
+2122	0	0
+2123	0	0
+2124	0	0
+2125	0	0
+2126	0	0
+2127	0	0
+2128	0	0
+2129	0	0
+2130	0	0
+2131	0	0
+2132	0	0
+2133	0	0
+2134	0	0
+2135	0	0
+2136	0	0
+2137	0	0
+2138	0	0
+2139	0	0
+2140	0	0
+2141	0	0
+2142	0	0
+2143	0	0
+2144	0	0
+2145	0	0
+2146	0	0
+2147	0	0
+2148	0	0
+2149	0	0
+2150	0	0
+2151	0	0
+2152	0	0
+2153	0	0
+2154	0	0
+2155	0	0
+2156	0	0
+2157	0	0
+2158	0	0
+2159	0	0
+2160	0	0
+2161	0	0
+2162	0	0
+2163	0	0
+2164	0	0
+2165	0	0
+2166	0	0
+2167	0	0
+2168	0	0
+2169	0	0
+2170	0	0
+2171	0	0
+2172	0	0
+2173	0	0
+2174	0	0
+2175	0	0
+2176	0	0
+2177	0	0
+2178	0	0
+2179	0	0
+2180	0	0
+2181	0	0
+2182	0	0
+2183	0	0
+2184	0	0
+2185	0	0
+2186	0	0
+2187	0	0
+2188	0	0
+2189	0	0
+2190	0	0
+2191	0	0
+2192	0	0
+2193	0	0
+2194	0	0
+2195	0	0
+2196	0	0
+2197	0	0
+2198	0	0
+2199	0	0
+2200	0	0
+2201	0	0
+2202	0	0
+2203	0	0
+2204	0	0
+2205	0	0
+2206	0	0
+2207	0	0
+2208	0	0
+2209	0	0
+2210	0	0
+2211	0	0
+2212	0	0
+2213	0	0
+2214	0	0
+2215	0	0
+2216	0	0
+2217	0	0
+2218	0	0
+2219	0	0
+2220	0	0
+2221	0	0
+2222	0	0
+2223	0	0
+2224	0	0
+2225	0	0
+2226	0	0
+2227	0	0
+2228	0	0
+2229	0	0
+2230	0	0
+2231	0	0
+2232	0	0
+2233	0	0
+2234	0	0
+2235	0	0
+2236	0	0
+2237	0	0
+2238	0	0
+2239	0	0
+2240	0	0
+2241	0	0
+2242	0	0
+2243	0	0
+2244	0	0
+2245	0	0
+2246	0	0
+2247	0	0
+2248	0	0
+2249	0	0
+2250	0	0
+2251	0	0
+2252	0	0
+2253	0	0
+2254	0	0
+2255	0	0
+2256	0	0
+2257	0	0
+2258	0	0
+2259	0	0
+2260	0	0
+2261	0	0
+2262	0	0
+2263	0	0
+2264	0	0
+2265	0	0
+2266	0	0
+2267	0	0
+2268	0	0
+2269	0	0
+2270	0	0
+2271	0	0
+2272	0	0
+2273	0	0
+2274	0	0
+2275	0	0
+2276	0	0
+2277	0	0
+2278	0	0
+2279	0	0
+2280	0	0
+2281	0	0
+2282	0	0
+2283	0	0
+2284	0	0
+2285	0	0
+2286	0	0
+2287	0	0
+2288	0	0
+2289	0	0
+2290	0	0
+2291	0	0
+2292	0	0
+2293	0	0
+2294	0	0
+2295	0	0
+2296	0	0
+2297	0	Whoa, for real!?
+2298	0	I warned you. It'll shoot anything within its[0a]detection range.
+2299	0	One wrong step, and you're swiss cheese. Steer[0a]clear of those surveillance cams, guys!
+2300	0	Sheesh, these Jails sure are dangerous...
+2301	0	Man, there's cameras friggin'[0a]everywhere...
+2302	0	Those who refuse to do as they're told[0a]will be eliminated without exception.[0a]I imagine that's Konoe's goal here.
+2303	0	...Why would he go so far? He's[0a]nothing like the Phantom Thieves.
+2304	0	So this is what cities might look like[0a]in the future, huh? Place is so rigid[0a]and orderly it's giving me the creeps.
+2305	0	I don't like it either. Not to[0a]mention, there's not one sweet[0a]old lady in sight.
+2306	0	Ahaha... Gotta say I agree too.[0a]I prefer cities with actual people in them.
+2307	0	Hold up! Security looks super tight[0a]over that way! Let's try another route!
+2308	0	...All right, looks like we can make our[0a]way to the Prison Keep from here.
+2309	0	We've arrived at Juoji Zoo. Would[0a]the Prison Keep be somewhere in[0a]Mt. Chashiro, then?
+2310	0	Mt. Chashiro it is, then. Let's go,[0a]everyone!
+2311	0	Hm, something's not right about you... Wait, I[0a]see! You must be villains!
+2312	0	Say what? If anyone's a villain here, it's you, pal!
+2313	0	Enough talk! In the name of our hero, Akira, I will execute you here and now!
+2314	0	Here it comes! Take it out!
+2315	0	This may be a zoo, but I believe it's[0a]in name only. I don't sense any life[0a]from them.
+2316	0	Something's being displayed inside[0a]these cages... Are these supposed to[0a]animals?
+2317	0	Maybe in his ideal world, he doesn't have time for things he can't control himself…
+2318	0	I see another cage. Is that an exhibit,[0a]too?
+2319	0	Are these... Are these the people who were made[0a]into Monarchs? This was all just some big show[0a]to him!?
+2320	0	In reality, he likely saw them as a means to an end. They weren't much more than that.
+2321	0	Rrgh... So this dickhead uses these people for all[0a]their worth, and this is how he treats 'em? What[0a]an asshole.
+2322	0	I have to say, this city seems almost[0a]devoid of life. Is this really the society[0a]Konoe's hoping to create?
+2323	0	It's unsettling, but in a different way[0a]from the research lab in Okinawa.
+2324	0	If we get captured, there's a good[0a]chance we'll end up in one of those[0a]cages. Be careful, Meowgana.
+2325	0	I'm not gonna get caught! And stop[0a]calling me that!
+2326	0	There is an undeniable beauty in the[0a]aesthetic of this place, but I sense[0a]little passion from its creator.
+2327	0	I know what you mean. I feel like[0a]there's nothing to make it feel alive,[0a]so it all feels sorta "meh."
+2328	0	I get a little something from these,[0a]though... See these slits with the light[0a]coming out of 'em?
+2329	0	Oh, yeah... Your computer setup's[0a]kinda like this, ain't it?
+2330	0	We can't get through. It looks like it's Oracle's[0a]turn.
+2331	0	Roger! It's hacking time! Everyone ready?
+2332	0	And that about does it![0a]On to Mt. Chashiro!
+2333	0	Hm? It looks like we can use these to[0a]get to the other side.
+2334	0	This should get us back into the Prison[0a]Keep. I'm gonna hack in. Watch my back!
+2335	0	This area is off limits! Villains who violate the[0a]rules will be purged!
+2336	0	Heh, what are you, some kinda watchdog? Let's[0a]wrap this up quick and shut down those cameras!
+2337	0	There's nothing standing in our way[0a]now! Time to climb that tower!
+2338	0	Hey, look! Are the security cameras[0a]off now?
+2339	0	This will let us move around more[0a]freely. Perhaps we should return to[0a]Shinsekai at this time?
+2340	0	Yeah, there was that one place we[0a]couldn't get to before. Maybe we[0a]stop by and check it out?
+2341	0	It looks like that elevator'll take us closer to[0a]Konoe's castle.
+2342	0	We're finally making progress. We've still got[0a]a long way to go, though...
+2343	0	This is certainly a change of scenery. It looks like[0a]some sort of storage warehouse...
+2344	0	Guess the castle's still pretty far off. This is gonna take some serious patience.
+2345	0	...Uhh, does anyone else hear that? It sounds like[0a]a plane or something.
+2346	0	Oh, that's right, there was a train station nearby.[0a]Maybe it'll have something to help us get around.
+2347	0	Whoa, whoa, we're actually going[0a]through here? You guys are nuts...
+2348	0	Make sure to watch your step!
+2349	0	Those are infrared sensors. I don't recommend[0a]trying to pass through them.
+2350	0	Whaaat? But the station is right there...
+2351	0	Hey, uh, I don't know a damn thing about this[0a]kinda stuff, but couldn't we just turn those[0a]things off?
+2352	0	That's true. There might be a Prison Keep that[0a]controls the sensors.
+2353	0	Right. Let's see if we can find it.
+2354	0	Look at all these containers... What[0a]do you think's inside?
+2355	0	Judgin' from all the other shit lyin'[0a]around, I'd say it's prolly weapons or[0a]some kinda freaky machines.
+2356	0	It could also be food. I wonder what[0a]people from the future eat?
+2357	0	Bet you it's some kinda nutrient jelly[0a]ration bar thing! That's the classic[0a]dystopian diet!
+2358	0	Look, there are even more infrared[0a]sensors here.
+2359	0	We've really gotta do something[0a]about those. Let's find that Prison[0a]Keep ASAP.
+2360	0	Oh, it opened.
+2361	0	This door... I wonder...
+2362	0	Is it possible that it's connected to the switch of[0a]the same color?
+2363	0	So if we see another door like this one, we[0a]should find a switch to go with it.
+2364	0	Holy shit, is that thing for real!?
+2365	0	*gasp* Omigosh, is that a railgun!?[0a]That's THE weapon of the future!
+2366	0	You two are way too hyped about[0a]this...
+2367	0	Oh, man. I bet that thing packs a[0a]punch! C'mon, we gotta shoot it at[0a]least once!
+2368	0	This way seems to be blocked as well.
+2369	0	This building... It looks like they're[0a]shipping containers somewhere.
+2370	0	Prolly the warehouse from earlier,[0a]right? Place was friggin' full of[0a]containers.
+2371	0	Maybe we can use that as a shortcut[0a]to get back to the warehouse.
+2372	0	But we can't cross just yet... We have[0a]to do something about those sensors[0a]first.
+2373	0	Right. Let's find the Prison Keep.
+2374	0	Looks like we found our Prison Keep! Only thing now is... how do we get there?
+2375	0	I don't see a keyhole... How is anyone supposed[0a]to open this?
+2376	0	Well, the door's color is... white. So if this is like[0a]the other ones...
+2377	0	Then, we gotta find a white switch! Let's take a[0a]look around!
+2378	0	Man, you kids sure have a lot of[0a]energy. My eyes are starting to hurt...
+2379	0	Is that so? Your mask's design led me[0a]to believe it had built-in sunglasses.
+2380	0	Phantom thieves are supposed to[0a]move in darkness. What good would[0a]sunglasses do?
+2381	0	The lights here are pretty blinding,[0a]though. Do you want to take a break?
+2382	0	My mask has a shades mode built in.[0a]We could have matching masks, Wolf.
+2383	0	Uhh... I appreciate all the sentiment,[0a]but I think I'll be fine.
+2384	0	This door... It's not the type that opens with[0a]a switch. We need Oracle for this one.
+2385	0	All right, I'm gonna start the hack! You know[0a]the drill!
+2386	0	So you're the ones who've been wrecking[0a]our security!
+2387	0	Unacceptable... Prepare to face the almighty[0a]hammer of justice!
+2388	0	This one looks tough. Get ready!
+2389	0	We've found the white switch. Now[0a]we can get to the Prison Keep.
+2390	0	Hell yeah! Let's head back and bust[0a]our way in!
+2391	0	All right, it's open. Come on!
+2392	0	Intruders! Those who disturb the[0a]peace will be purged!
+2393	0	Geez, it's just one cliché after another with these guys...
+2394	0	The enemy's been wiped out! Now's[0a]your chance to get to the top!
+2395	0	That elevator over there should[0a]drop us right off at the station!
+2396	0	Hopefully, this brings us closer to[0a]Konoe's castle...
+2397	0	This looks like an airport...
+2398	0	The flight from Juoji bound for Abeno Haretas[0a]will be departing shortly.
+2399	0	Those who seek an audience with Lord Akira,[0a]please make your way to the airship departure[0a]gate.
+2400	0	Did you hear that? It said airship.
+2401	0	An audience with Lord Akira... It sounds like[0a]boarding this airship will take us straight to[0a]the castle.
+2402	0	Maybe... Still, Konoe controls every inch of this[0a]place. I doubt we can just hop on.
+2403	0	Wolf's right. Let's stay on guard as we make[0a]our way to the departure gate.
+2404	0	Hey! You haven't surrendered your Desires[0a]yet, have you!?
+2405	0	Damn, they found us! Guess we'll just have[0a]to take 'em out!
+2406	0	It looks like that last enemy dropped[0a]something.
+2407	0	A "Worker's Pass," huh? Looks like we can[0a]say goodbye to that vent.
+2408	0	So this is the departure gate...
+2409	0	Entry denied. Insufficient access privileges.
+2410	0	Please surrender your Desires or present your[0a]"VIP Pass."
+2411	0	"VIP Pass"? The hell's that?
+2412	0	So if we get one, even we'll be allowed inside?
+2413	0	That simplifies things a bit. Let's go find a pass,[0a]then.
+2414	0	But who would be carrying a VIP pass? I doubt[0a]we could tell just by looking.
+2415	0	If only we knew of a place where such[0a]individuals might gather...
+2416	0	Well, if they're important enough to be called[0a]VIPs... Maybe they'd be in the first class[0a]lounge?
+2417	0	That's it, Noir! I had a feeling you'd know[0a]something about the VIP life!
+2418	0	Already got a reading! Let's check it out!
+2419	0	This looks like the lounge... The door won't[0a]open, though.
+2420	0	We probably need something to gain access[0a]to this place too. Maybe we should look[0a]around?
+2421	0	Such garish scenery—they won't win any praise from me. This is hardly something I'd expect from "first class."
+2422	0	Fox, this isn't the time! Focus on the enemy!
+2423	0	Hey, what's this? A permit to use the lounge?
+2424	0	Now that we have one, we can probably open[0a]that door.
+2425	0	So I guess the next step is to head to the lounge[0a]and find a VIP pass, huh?
+2426	0	All right, we're off to the lounge! Let's go!
+2427	0	Whoa, who the hell are you? This area's VIP[0a]only!
+2428	0	Yo, you think this guy's a VIP? Bet he's got a[0a]pass.
+2429	0	Oh, I'm sure we can get him to part ways[0a]with it!
+2430	0	Hey, take it easy. This is less "phantom thieves"[0a]and more just... "thieves."
+2431	0	Excellent, we have our VIP pass.
+2432	0	Great, now we can ride that airship. Let's get[0a]back to the departure gate!
+2433	0	VIP Pass accepted. You are cleared to board.
+2434	0	All right, it's open! Let's make our way to the[0a]castle!
+2435	0	Wait, a sec... This is a Prison Keep!
+2436	0	I get it... This must be an air-traffic control tower for the airships.
+2437	0	It might be a good idea to get this place under[0a]control if we want a safe flight.
+2438	0	Agreed. If we can stop the other airships,[0a]it might reduce enemy reinforcements later on.
+2439	0	All right then, if that's the plan, let's make shit[0a]happen!
+2440	0	We got the core!
+2441	0	Interesting... A Madicce company badge. Its[0a]symmetrical design is rather appealing.
+2442	0	We've cleared all of the Prison Keeps. Let's go[0a]ahead and board the airship.
+2443	0	Return what you've stolen from the tower[0a]immediately. This is your only warning.
+2444	0	Hmph, like a phantom thief would ever return[0a]what they stole?
+2445	0	Filthy little rats... I shall take great pleasure in[0a]granting you your destruction!
+2446	0	Here it comes!
+2447	0	Looks like we've finally cleared up[0a]the rabble. Talk about a waste of time.
+2448	0	Man, you sound like one of the bad[0a]guys. Kinda suits you, honestly.
+2449	0	He looks like one, too. Definitely[0a]doesn't look like a cop.
+2450	0	Oh, shut up. Let's hear you say that[0a]after I put you all away.
+2451	0	So that was an airship... The view[0a]from the sky was truly breathtaking.
+2452	0	My legs still feel all rubbery when[0a]I walk...
+2453	0	I thought it was fun... In fact, I'd like[0a]to go again.
+2454	0	Hey, knock yourself out. Just save it[0a]for after we take down Konoe.
+2455	0	Guess that hero show or whatever's[0a]wrapped up.
+2456	0	I wonder what it was like. Kinda[0a]curious, honestly.
+2457	0	Oh, you wanna go see one[0a]sometime? We can go to[0a]a Featherman show!
+2458	0	W-Wha!? What happened!?
+2459	0	It seems we've been forcibly teleported[0a]somewhere.
+2460	0	Urgh, I don't feel so good... I think I'm warp-sick.
+2461	0	What, so we're locked up? Man, I feel like[0a]getting caught's all we ever do anymore...
+2462	0	We have to get out of here, and quickly...
+2463	0	Hey, just try to stay calm. In times like these[0a]the best thing to do is to carefully check your[0a]surroundings.
+2464	0	The door's open on the other side. I wonder if[0a]there's a way for us to get over there...
+2465	0	How did you escape!? Quit resisting and come[0a]quietly!
+2466	0	Whoops, looks like we got company.
+2467	0	So these are the jerks that sprung the trap on us?
+2468	0	I guess we should say thanks! Quit resisting and[0a]get stomped!
+2469	0	This elevator looks like it'll take[0a]us up, but they've got it[0a]on lockdown...
+2470	0	There must be a mechanism to[0a]release it somewhere. Let's see if we[0a]can find it.
+2471	0	This must be the security room.
+2472	0	It looks like we can unlock that elevator from[0a]here.
+2473	0	So if we release the lock, we'll be able to keep[0a]going up. Can you hack it, Oracle?
+2474	0	Of course! Just gimme the word! And don't[0a]forget to cover my six!
+2475	0	Yes, the elevator's working! Let's head[0a]on up!
+2476	0	We should be able to ride all the way[0a]up to the top like this. Maybe we can[0a]even rest before we get there.
+2477	0	...Guess that woulda been a little too[0a]easy. Come on, let's greet our guests.
+2478	0	Getting lots of Shadow readings here![0a]You guys are just gonna have to hold[0a]out!
+2479	0	Good grief... Finally at the top.
+2480	0	About damn time. Let's roll!
+2481	0	Seems we're quite a ways up.
+2482	0	Have we reached the roof yet?
+2483	0	Stop! Picking up an enemy nearby! This one[0a]looks tough!
+2484	0	You fools dare oppose the great hero Akira?[0a]My lightning will turn you into dust!
+2485	0	...It's an elevator.
+2486	0	Yo, we have to go up even more!?
+2487	0	It looks really high... I can't even see the top.
+2488	0	Well, given Konoe's elevated opinion of himself,[0a]I'd say this is par for the course...
+2489	0	Guess we're going up, then. We gotta get those[0a]Desires back!
+2490	0	It's like I'm some kind of joke to people... You[0a]want to die? Trust me, I'll be glad to get rid of[0a]you!
+2491	0	This guy's sick... He really killed his own wife[0a]over some money!?
+2492	0	Unbelievable... That monster! How could anyone[0a]do something so awful!?
+2493	0	Hey, don't let yourselves get caught[0a]up in the trauma! Try to stay calm!
+2494	0	Yeah, well... It's hard to stay calm[0a]after the shit we just saw.
+2495	0	A protector of justice? Hahahahaha![0a]Did one of those things save you?
+2496	0	So this is why Konoe was trying to[0a]become a hero.
+2497	0	Because no one was there to save[0a]him? That's terrible...
+2498	0	Wipe that stupid look off your face![0a]I call the shots, you little shit!
+2499	0	Damn... This makes me sick.
+2500	0	Let's see you keep up that mopey[0a]little face when you're dead![0a]Hahahahaha!
+2501	0	Rocket launchers? Shit, he's packing[0a]some serious heat.
+2502	0	That thing's got a ton of firepower![0a]Stay outta the crosshairs!
+2503	0	Dammit... Bastard shoots us 'n runs[0a]away! Come back here, asshole!
+2504	0	Hit-and-run tactics... What a[0a]nuisance.
+2505	0	Would you just die already? Your[0a]mother knew when to quit, why[0a]don't you!?
+2506	0	Watch out! It can still attack while[0a]it's moving!
+2507	0	So that was Konoe's father... Konoe[0a]suffered all alone for so long...
+2508	0	Sophie...
+2509	0	I am the enforcer of righteousness! The hero who will purge the wicked from every corner of the globe!
+2510	0	Prepare yourselves, Phantom Thieves, and watch[0a]as I shatter your illusory sense of justice with my[0a]own two hands!
+2511	0	Oh, come on! He's got a mech!?
+2512	0	Careful, I'm picking up major energy [0a]spikes from that thing!
+2513	0	It even looks super-powered...
+2514	0	Looks more like a kid's toy to me.[0a]Can't say I'm big on doing this, but...[0a]Let's give it all we got!
+2515	0	Maybe we can use those rails on the[0a]upper platforms to dodge the[0a]enemy's attacks? 
+2516	0	Check out those rails. They might[0a]help us outmaneuver Konoe.
+2517	0	Hey, those guns look familiar, yeah?[0a]How 'bout we give that asswipe a[0a]little shock!?
+2518	0	Those things are lethal, but it takes a[0a]minute for them to fire. You're gonna[0a]have to time this carefully.
+2519	0	All weapons at maximum firepower...[0a]Justice will always prevail against evil!
+2520	0	Oh, yo, holy shit! Is this thing for real!?
+2521	0	There's gotta be an opening somewhere! Just focus on avoiding him for now.
+2522	0	The enemy's stopped moving! It's overheated!
+2523	0	Now's our chance! Shoot him down!
+2524	0	What!?
+2525	0	Yes, we got him!
+2526	0	This is when we beat him up, right?
+2527	0	Systems cooled down and[0a]back online. Hit me with your[0a]best shot!
+2528	0	Rats, it's already back in action.[0a]Watch out, guys!
+2529	0	I will purge all traces of evil... None will be left standing!
+2530	0	Steer clear, everyone! You don't[0a]wanna get hit by that!
+2531	0	Steer clear how!? Maybe we can get[0a]to higher ground!?
+2532	0	Damn... That firepower's no joke!
+2533	0	What if we try using those rails?[0a]Maybe we can get behind him!
+2534	0	All guns, fire! Leave nothing left!
+2535	0	Whoa, they're following us!?
+2536	0	Those are homing missiles! Think you[0a]can shake 'em!?
+2537	0	Let fall the hammer of justice!
+2538	0	Shiiit! He's even got a rocket pu—
+2539	0	Skull, get out of the way!
+2540	0	He can fly!?
+2541	0	Dammit!
+2542	0	Traditional superhero antics, it seems...
+2543	0	We don't stand a chance when it's[0a]down at our level. Get out of its attack[0a]range as soon as you can!
+2544	0	Ngh... You pests! Move, my vessel of[0a]justice!
+2545	0	He's down! It's go time!
+2546	0	What do you mean, "system failure"!?[0a]Why you...!
+2547	0	The enemy's shorted out![0a][1b]M0~4~Electricity's your friend here!
+2548	0	What!? My armor!
+2549	0	[1b]M0~7~Nuclear attacks are go![0a]Let him have it!
+2550	0	Damn, he's tough! There's gotta be a[0a]rule about bringin' a giant robot to a[0a]fight, right?
+2551	0	Surrender, Phantom Thieves. Submit[0a]to my justice or die!
+2552	0	I am the hero in this story. I will create a world without evil!
+2553	0	You'll be creating one without hopes[0a]or dreams, too! It's not right!
+2554	0	No way I'm gonna let you use Mom's[0a]research for that!
+2555	0	Your little group could never hope to[0a]accomplish what I could.
+2556	0	This is a necessity. The world needs a[0a]new system—it's the only way.
+2557	0	You would be forcing that system on the rest of us... You'd be no better than a dictator!
+2558	0	We'd all just be told how to live[0a]without making any decisions for[0a]ourselves... I won't go back to that!
+2559	0	Ngh... No, not yet!
+2560	0	I will not bend to evil... I refuse!
+2561	0	How unfortunate. Such an indomitable will, yet you've strayed so far from your path...
+2562	0	No matter your reasons, you still used an innocent girl as a means to an end. I'll make you pay for that!
+2563	0	But the hero can't lose... He must be victorious!
+2564	0	A hero must stand his ground. He[0a]must not let evil overcome him!
+2565	0	He may be our enemy, but you've gotta admire his determination.
+2566	0	Mech or not, he's really taking it up[0a]a notch! Watch your backs, guys!
+2567	0	Hey, check out those wings![0a]Think we can use 'em to get[0a]the jump on him!?
+2568	0	What is all this? This stuff drop from the robot?
+2569	0	Careful. Hitting those with enough force will cause them to explode.
+2570	0	It explodes, huh? Maybe we can use[0a]that to our advantage!
+2571	0	Arrgh! That was a cheap trick!
+2572	0	Nice, he felt that one! It's working![0a]Keep on him!
+2573	0	Let's see if you can keep up with this!
+2574	0	Since when could he move like that!?[0a]He's gotta be cheating!
+2575	0	In the name of justice, I will vanquish the evils of this world!
+2576	0	Ngh, what terrifying swordsmanship!
+2577	0	Don't just swing away at him. Pay[0a]close attention to his movements!
+2578	0	You will fall by my blade!
+2579	0	Holy shit, back off, dude! Take it out on the wall or somethin'!
+2580	0	That may be possible. What if we lured Konoe into the wreckage of his mech?
+2581	0	May the light of justice flood this soiled earth!
+2582	0	This is the power to annihilate the[0a]wicked! Haaaaaah!
+2583	0	Uh oh, this looks bad... Get away from him! Hurry!
+2584	0	There is no escape, evildoers!
+2585	0	We've got attacks coming in from all[0a]sides! Look out!
+2586	0	There... I'll crush you!
+2587	0	Come. I'll show you what a true hero is made of!
+2588	0	Damn, he's quick... Doesn't help that[0a]I'm in my forties, either!
+2589	0	Even if I lose my wings, the fire of[0a]justice will never fade!
+2590	0	He's jumping at us from the[0a]wreckage! Watch out, here[0a]he comes!
+2591	0	Strength in the face of adversity! That is the unmistakable mark of a hero!
+2592	0	Man, if only you gave as much of a shit about actually helping people!
+2593	0	Guh... This is nothing!
+2594	0	Konoe's stopped moving! Hit him fast and hit him hard!
+2595	0	Ngh, my armor won't move!
+2596	0	That's it! [1b]M0~4~Electric attacks are the name of the game! Keep it up!
+2597	0	Urrgh! This won't be enough to stop me!
+2598	0	That did it! Looks like he's weak to[0a][1b]M0~7~Nuclear attacks!
+2599	0	What's the difference between me and those you've saved? Why couldn't I be saved, too?
+2600	0	I will bring the world to a new era of[0a]righteousness! One that refuses to[0a]tolerate evil of any kind!
+2601	0	This feeling... It's so unsettling. This[0a]must be sadness.
+2602	0	Yes, this is sad. But that's exactly why[0a]we have to stop him. Before he makes[0a]any more mistakes.
+2603	0	Why!? Why can't you share my[0a]vision!?
+2604	0	I'm ridding the world of evil, just as you are... We're doing the same thing, Phantom Thieves!
+2605	0	You're wrong, Konoe. The Phantom[0a]Thieves would never steal someone[0a]else's freedom.
+2606	0	You would sacrifice whoever it took[0a]to achieve your goal... Your father[0a]would've done the exact same.
+2607	0	Take a good look at all these guys have done, Konoe. Maybe then you'll see where you went wrong.
+2608	0	Ngh... I won't accept defeat...
+2609	0	The hero has to win... Justice has to win!
+2610	0	Couldn't have said it better myself![0a]That's why we're takin' you down!
+2611	0	All right, guys! Finish him off!
+2612	0	Urrgh... No... I can't lose! Not now!
+2613	0	Okay, the lock opened just like we thought! Now to make our way up on those chains!
+2614	0	I saw the Prison Keep over that way. Let's head[0a]east first.
+2615	0	Gonna be kind of a trek. We better brace[0a]ourselves.
+2616	0	Whoa! It actually shot at us!
+2617	0	It seems forcing our way through won't do us[0a]any good.
+2618	0	I'm gonna look for a safer route and put it up on our map.
+2619	0	Might be kinda roundabout, but it's better than[0a]being blown to smithereens.
+2620	0	It seems the enemy[0a]dropped something...
+2621	0	This is the First Class Lounge. Please present your "Lounge Pass."
+2622	0	We need a pass for here too? You're kidding.
+2623	0	So we can't go through from the front... We'll just have to find some kind of back entrance.
+2624	0	What's this? Ooh, is it a VIP Pass...!? Nope.
+2625	0	Perhaps the enemy we fought just now wasn't a[0a]VIP. Still, this does say "Lounge Pass" on it...
+2626	0	Maybe it will open the door to the lounge room?
+2627	0	There're a couple other first class lounges! Let's[0a]go check 'em out!
+2628	0	Whoa, the airship's HUGE!
+2629	0	Seeing it up close, it's much larger than I[0a]imagined.
+2630	0	All right, let's hop on and take this thing straight[0a]to the castle!
+2631	0	...This door's locked.
+2632	0	These types usually open with a switch, but I[0a]don't see anything like that nearby...
+2633	0	We'll just have to find some kind of secret[0a]passage. Any idea where we should look?
+2634	0	0
+2635	0	0
+2636	0	0
+2637	0	0
+2638	0	0
+2639	0	0
+2640	0	0
+2641	0	0
+2642	0	0
+2643	0	0
+2644	0	0
+2645	0	0
+2646	0	0
+2647	0	0
+2648	0	0
+2649	0	0
+2650	0	0
+2651	0	0
+2652	0	0
+2653	0	0
+2654	0	0
+2655	0	0
+2656	0	0
+2657	0	0
+2658	0	0
+2659	0	0
+2660	0	0
+2661	0	0
+2662	0	0
+2663	0	0
+2664	0	0
+2665	0	0
+2666	0	0
+2667	0	0
+2668	0	0
+2669	0	0
+2670	0	0
+2671	0	0
+2672	0	0
+2673	0	0
+2674	0	0
+2675	0	0
+2676	0	0
+2677	0	0
+2678	0	0
+2679	0	0
+2680	0	0
+2681	0	0
+2682	0	0
+2683	0	0
+2684	0	0
+2685	0	0
+2686	0	0
+2687	0	0
+2688	0	0
+2689	0	0
+2690	0	0
+2691	0	0
+2692	0	0
+2693	0	0
+2694	0	0
+2695	0	0
+2696	0	0
+2697	0	0
+2698	0	0
+2699	0	0
+2700	0	0
+2701	0	0
+2702	0	0
+2703	0	0
+2704	0	0
+2705	0	0
+2706	0	0
+2707	0	0
+2708	0	0
+2709	0	0
+2710	0	0
+2711	0	0
+2712	0	0
+2713	0	0
+2714	0	0
+2715	0	0
+2716	0	0
+2717	0	0
+2718	0	0
+2719	0	0
+2720	0	0
+2721	0	0
+2722	0	0
+2723	0	0
+2724	0	0
+2725	0	0
+2726	0	0
+2727	0	0
+2728	0	0
+2729	0	0
+2730	0	0
+2731	0	0
+2732	0	0
+2733	0	0
+2734	0	0
+2735	0	0
+2736	0	0
+2737	0	0
+2738	0	0
+2739	0	0
+2740	0	0
+2741	0	0
+2742	0	0
+2743	0	0
+2744	0	0
+2745	0	0
+2746	0	0
+2747	0	0
+2748	0	0
+2749	0	0
+2750	0	0
+2751	0	0
+2752	0	0
+2753	0	0
+2754	0	0
+2755	0	0
+2756	0	0
+2757	0	0
+2758	0	0
+2759	0	0
+2760	0	0
+2761	0	0
+2762	0	0
+2763	0	0
+2764	0	0
+2765	0	0
+2766	0	0
+2767	0	0
+2768	0	0
+2769	0	0
+2770	0	0
+2771	0	0
+2772	0	0
+2773	0	0
+2774	0	0
+2775	0	0
+2776	0	0
+2777	0	0
+2778	0	0
+2779	0	0
+2780	0	0
+2781	0	0
+2782	0	0
+2783	0	0
+2784	0	0
+2785	0	0
+2786	0	0
+2787	0	0
+2788	0	0
+2789	0	0
+2790	0	0
+2791	0	0
+2792	0	0
+2793	0	0
+2794	0	0
+2795	0	0
+2796	0	0
+2797	0	0
+2798	0	0
+2799	0	0
+2800	0	0
+2801	0	0
+2802	0	0
+2803	0	0
+2804	0	0
+2805	0	0
+2806	0	0
+2807	0	0
+2808	0	0
+2809	0	0
+2810	0	0
+2811	0	0
+2812	0	0
+2813	0	0
+2814	0	0
+2815	0	0
+2816	0	0
+2817	0	0
+2818	0	0
+2819	0	0
+2820	0	0
+2821	0	0
+2822	0	0
+2823	0	0
+2824	0	0
+2825	0	0
+2826	0	0
+2827	0	0
+2828	0	0
+2829	0	0
+2830	0	0
+2831	0	0
+2832	0	0
+2833	0	0
+2834	0	0
+2835	0	0
+2836	0	0
+2837	0	0
+2838	0	0
+2839	0	0
+2840	0	0
+2841	0	0
+2842	0	0
+2843	0	0
+2844	0	0
+2845	0	0
+2846	0	0
+2847	0	0
+2848	0	0
+2849	0	0
+2850	0	0
+2851	0	0
+2852	0	0
+2853	0	0
+2854	0	0
+2855	0	0
+2856	0	0
+2857	0	0
+2858	0	0
+2859	0	0
+2860	0	0
+2861	0	0
+2862	0	0
+2863	0	0
+2864	0	0
+2865	0	0
+2866	0	0
+2867	0	0
+2868	0	0
+2869	0	0
+2870	0	0
+2871	0	0
+2872	0	0
+2873	0	0
+2874	0	0
+2875	0	0
+2876	0	0
+2877	0	0
+2878	0	0
+2879	0	0
+2880	0	0
+2881	0	0
+2882	0	0
+2883	0	0
+2884	0	0
+2885	0	0
+2886	0	0
+2887	0	0
+2888	0	0
+2889	0	0
+2890	0	0
+2891	0	0
+2892	0	0
+2893	0	0
+2894	0	0
+2895	0	0
+2896	0	0
+2897	0	0
+2898	0	0
+2899	0	0
+2900	0	0
+2901	0	0
+2902	0	0
+2903	0	0
+2904	0	0
+2905	0	0
+2906	0	0
+2907	0	0
+2908	0	0
+2909	0	0
+2910	0	0
+2911	0	0
+2912	0	0
+2913	0	0
+2914	0	0
+2915	0	0
+2916	0	0
+2917	0	0
+2918	0	0
+2919	0	0
+2920	0	0
+2921	0	0
+2922	0	0
+2923	0	0
+2924	0	0
+2925	0	0
+2926	0	0
+2927	0	0
+2928	0	0
+2929	0	0
+2930	0	0
+2931	0	0
+2932	0	0
+2933	0	0
+2934	0	0
+2935	0	0
+2936	0	0
+2937	0	0
+2938	0	0
+2939	0	0
+2940	0	0
+2941	0	0
+2942	0	0
+2943	0	0
+2944	0	0
+2945	0	0
+2946	0	0
+2947	0	0
+2948	0	0
+2949	0	0
+2950	0	0
+2951	0	0
+2952	0	0
+2953	0	0
+2954	0	0
+2955	0	0
+2956	0	0
+2957	0	0
+2958	0	0
+2959	0	0
+2960	0	0
+2961	0	0
+2962	0	0
+2963	0	0
+2964	0	0
+2965	0	0
+2966	0	0
+2967	0	0
+2968	0	0
+2969	0	0
+2970	0	0
+2971	0	0
+2972	0	0
+2973	0	0
+2974	0	0
+2975	0	0
+2976	0	0
+2977	0	0
+2978	0	0
+2979	0	0
+2980	0	0
+2981	0	0
+2982	0	0
+2983	0	0
+2984	0	0
+2985	0	0
+2986	0	0
+2987	0	0
+2988	0	0
+2989	0	0
+2990	0	0
+2991	0	0
+2992	0	0
+2993	0	0
+2994	0	0
+2995	0	0
+2996	0	0
+2997	0	Dude... So we're like, just...[0a]stuck here!?
+2998	0	I'd say so. I tried exiting, but no such[0a]luck.
+2999	0	That means all we can do is press on.[0a]Keep ready, everyone.
+3000	0	This place feels... grimy and confined.
+3001	0	I agree. I'm not sure how to put it...[0a]It's as if it's generating a wellspring[0a]of revulsion within me.
+3002	0	Who could have brought us here?
+3003	0	I dunno, but whoever built the place[0a]is outta their effin' mind...
+3004	0	Man... Just when things were on the[0a]upswing, this crap has to happen.
+3005	0	The upswing, huh? So the case is[0a]going well now?
+3006	0	Sure is—thanks to you all. The boss[0a]and I are working out the last kinks[0a]of our plan of attack.
+3007	0	Worse comes to worst, she'll even[0a]be able to bring the hammer down[0a]without me.
+3008	0	Not happenin', Cappenin'! You[0a]promised Akane you're getting[0a]even with Owada!
+3009	0	Heh, you're right—but that's not[0a]on the table unless we can get[0a]out of here.
+3010	0	There's a tough-looking one—don't[0a]let your guard down!
+3011	0	Hey, so this place really is a Jail and[0a]not actually Mementos, right?
+3012	0	That's what we were told...[0a]Whatever it is, it's giving me[0a]a bad feeling.
+3013	0	Now get going, Sophia.
+3014	0	Understood.
+3015	0	Sophie, please! Snap out of it!
+3016	0	Ngh... Sophie! Don't you know who[0a]we are!?
+3017	0	Phantom Thieves are opponents.[0a]They require elimination.
+3018	0	Sophie!
+3019	0	There's no point in talking to her.[0a]Sophia cannot defy my commands.
+3020	0	So you really are the one who made[0a]Sophie?
+3021	0	Yep, she might just be an early[0a]version of EMMA, but she's still[0a]quite impressive, eh?
+3022	0	Gah, do we really have to go all out[0a]here?
+3023	0	No! We can't hurt Sophie—she's our[0a]friend!
+3024	0	Don't be ridiculous! She'll take off[0a]our heads if we don't stop her[0a]somehow!
+3025	0	And THEN who's going to save the[0a]world? We have to figure out how[0a]to stop her!
+3026	0	......
+3027	0	I'm worried about Sophie. Let's find[0a]a way out of here, and quickly.
+3028	0	We should try gaining altitude when[0a]we can. Considering how far we fell[0a]down here...
+3029	0	Damn that Ichinose! I can't believe[0a]she's played us this whole time!
+3030	0	And how she mind-controlled[0a]Sophie? 100 percent uncool.
+3031	0	To think of her amusement as we[0a]struggled with each Monarch...
+3032	0	If we're gonna take back everyone's[0a]Desires, we have to stop her, no[0a]matter what!
+3033	0	Ichinose-san created Sophie, right?[0a]So she could understand the human[0a]heart?
+3034	0	She said she doesn't have one, but...[0a]is that really possible?
+3035	0	Well, she claims it's unnecessary, but really— Wait. We should be looking for a way out first.
+3036	0	It appears we go no further until we[0a]defeat that one.
+3037	0	Ugh! We don't have time for this!
+3038	0	This one's super tough! Stay on your[0a]toes, folks!
+3039	0	We've made serious progress here,[0a]but there's still no exit in sight...
+3040	0	Just hang on a little longer, Sophie.
+3041	0	......
+3042	0	Ichinose's just ahead of us.[0a]Are we ready?
+3043	0	Right—we can't let her keep making[0a]fools of the Phantom Thieves. Time[0a]for some payback!
+3044	0	There's a whole lot of 'em... Give it[0a]everything you've got, guys!
+3045	0	Heh, it don't matter how many[0a]weaklings they throw at us—[0a]we'll crush 'em all!
+3046	0	Ahahaha, don't you see that's[0a]pointless? You're all getting[0a]blasted again pretty soon.
+3047	0	All right, I'm starting the frequency[0a]hack! Watch my back, guys!
+3048	0	Keep Ichinose's attention until I can[0a]drop that barrier!
+3049	0	You really don't know when to give[0a]up—do you actually think you're[0a]going to stop me?
+3050	0	Unfortunately for you, "give up" is[0a]not a phrase found in the Phantom[0a]Thieves' vocabulary.
+3051	0	Even with the whole world turned[0a]against us, we fight for our beliefs!
+3052	0	That's pretty much our entire deal!
+3053	0	As long as we're still breathing,[0a]we press on!
+3054	0	......
+3055	0	That said, I'm not sure how much[0a]longer we can do this... Hurry up,[0a]Oracle!
+3056	0	Oh-ho! I was wondering why it was[0a]taking so long to charge up. So this[0a]is your fault, Futaba-chan?
+3057	0	That's right—you against me,[0a]Ichinose!
+3058	0	Ahahaha, now that sounds fun![0a]I'm not too familiar with how[0a]things are done here, buuut...
+3059	0	Basically, all I need to do is just think[0a]up a barrier program, right?
+3060	0	Whoa! How'd it just—!?
+3061	0	This is bad... If we don't stop it, we're the ones who go down here!
+3062	0	Man, this is a tough fight! We're all[0a]counting on you, Oracle!
+3063	0	*gasp* *pant* Did we do it?
+3064	0	Nice try, Phantom Thieves—but no.[0a]Sorry.
+3065	0	Dammit, there's not enough time![0a]I'm sorry, guys... Get out! Quick!
+3066	0	Sophie! Are you okay now?
+3067	0	Yes. I heard you all the entire time...[0a]Thank you.
+3068	0	I want to stop Ichinose! Will you[0a]help me?
+3069	0	But of course! We'll do it together!
+3070	0	But how? You were clearly running[0a]on fumes, how does adding one[0a]person...?
+3071	0	She's not just "one person"—she's[0a]our beloved friend and teammate!
+3072	0	Yeah! Sure she's just one robot,[0a]but that's not all she is—not like[0a]YOU'D get it, though!
+3073	0	I don't need to. The laser's almost[0a]fully charged—
+3074	0	Oh, but is it? Did someone get[0a]soooo distracted that they left[0a]themselves wide open for me!?
+3075	0	Ngh! The power's...
+3076	0	Sophia, I just don't get you...[0a]The only thing a heart does is[0a]open a person up to suffering!
+3077	0	What makes you actually want[0a]one? Why would you go and do[0a]something so foolish!?
+3078	0	It's not foolish at all. My heart gives[0a]me the power to protect my friends.
+3079	0	You just want to convince yourself[0a]a heart is worthless so you won't be[0a]tortured over discarding your own.
+3080	0	You're merely lying to yourself in the[0a]hope that you won't hurt anymore!
+3081	0	Shut up... Shut up! How the hell[0a]could a program understand the[0a]human heart anyway!?
+3082	0	That takes care of the Shadows![0a]Time for you to throw in the towel,[0a]Ichinose!
+3083	0	......
+3084	0	Ichinose?
+3085	0	How could Sophia... when I can't...
+3086	0	Haha... Hahahaha...
+3087	0	Looks like this area's safe. Let's rest[0a]up while we can.
+3088	0	All right, let's roll out!
+3089	0	0
+3090	0	0
+3091	0	0
+3092	0	0
+3093	0	0
+3094	0	0
+3095	0	0
+3096	0	0
+3097	0	0
+3098	0	0
+3099	0	0
+3100	0	0
+3101	0	0
+3102	0	0
+3103	0	0
+3104	0	0
+3105	0	0
+3106	0	0
+3107	0	0
+3108	0	0
+3109	0	0
+3110	0	0
+3111	0	0
+3112	0	0
+3113	0	0
+3114	0	0
+3115	0	0
+3116	0	0
+3117	0	0
+3118	0	0
+3119	0	0
+3120	0	0
+3121	0	0
+3122	0	0
+3123	0	0
+3124	0	0
+3125	0	0
+3126	0	0
+3127	0	0
+3128	0	0
+3129	0	0
+3130	0	0
+3131	0	0
+3132	0	0
+3133	0	0
+3134	0	0
+3135	0	0
+3136	0	0
+3137	0	0
+3138	0	0
+3139	0	0
+3140	0	0
+3141	0	0
+3142	0	0
+3143	0	0
+3144	0	0
+3145	0	0
+3146	0	0
+3147	0	0
+3148	0	0
+3149	0	0
+3150	0	0
+3151	0	0
+3152	0	0
+3153	0	0
+3154	0	0
+3155	0	0
+3156	0	0
+3157	0	0
+3158	0	0
+3159	0	0
+3160	0	0
+3161	0	0
+3162	0	0
+3163	0	0
+3164	0	0
+3165	0	0
+3166	0	0
+3167	0	0
+3168	0	0
+3169	0	0
+3170	0	0
+3171	0	0
+3172	0	0
+3173	0	0
+3174	0	0
+3175	0	0
+3176	0	0
+3177	0	0
+3178	0	0
+3179	0	0
+3180	0	0
+3181	0	0
+3182	0	0
+3183	0	0
+3184	0	0
+3185	0	0
+3186	0	0
+3187	0	0
+3188	0	0
+3189	0	0
+3190	0	0
+3191	0	0
+3192	0	0
+3193	0	0
+3194	0	0
+3195	0	0
+3196	0	0
+3197	0	0
+3198	0	0
+3199	0	0
+3200	0	0
+3201	0	0
+3202	0	0
+3203	0	0
+3204	0	0
+3205	0	0
+3206	0	0
+3207	0	0
+3208	0	0
+3209	0	0
+3210	0	0
+3211	0	0
+3212	0	0
+3213	0	0
+3214	0	0
+3215	0	0
+3216	0	0
+3217	0	0
+3218	0	0
+3219	0	0
+3220	0	0
+3221	0	0
+3222	0	0
+3223	0	0
+3224	0	0
+3225	0	0
+3226	0	0
+3227	0	0
+3228	0	0
+3229	0	0
+3230	0	0
+3231	0	0
+3232	0	0
+3233	0	0
+3234	0	0
+3235	0	0
+3236	0	0
+3237	0	0
+3238	0	0
+3239	0	0
+3240	0	0
+3241	0	0
+3242	0	0
+3243	0	0
+3244	0	0
+3245	0	0
+3246	0	0
+3247	0	0
+3248	0	0
+3249	0	0
+3250	0	0
+3251	0	0
+3252	0	0
+3253	0	0
+3254	0	0
+3255	0	0
+3256	0	0
+3257	0	0
+3258	0	0
+3259	0	0
+3260	0	0
+3261	0	0
+3262	0	0
+3263	0	0
+3264	0	0
+3265	0	0
+3266	0	0
+3267	0	0
+3268	0	0
+3269	0	0
+3270	0	0
+3271	0	0
+3272	0	0
+3273	0	0
+3274	0	0
+3275	0	0
+3276	0	0
+3277	0	0
+3278	0	0
+3279	0	0
+3280	0	0
+3281	0	0
+3282	0	0
+3283	0	0
+3284	0	0
+3285	0	0
+3286	0	0
+3287	0	0
+3288	0	0
+3289	0	0
+3290	0	0
+3291	0	0
+3292	0	0
+3293	0	0
+3294	0	0
+3295	0	0
+3296	0	0
+3297	0	0
+3298	0	0
+3299	0	0
+3300	0	0
+3301	0	0
+3302	0	0
+3303	0	0
+3304	0	0
+3305	0	0
+3306	0	0
+3307	0	0
+3308	0	0
+3309	0	0
+3310	0	0
+3311	0	0
+3312	0	0
+3313	0	0
+3314	0	0
+3315	0	0
+3316	0	0
+3317	0	0
+3318	0	0
+3319	0	0
+3320	0	0
+3321	0	0
+3322	0	0
+3323	0	0
+3324	0	0
+3325	0	0
+3326	0	0
+3327	0	0
+3328	0	0
+3329	0	0
+3330	0	0
+3331	0	0
+3332	0	0
+3333	0	0
+3334	0	0
+3335	0	0
+3336	0	0
+3337	0	0
+3338	0	0
+3339	0	0
+3340	0	0
+3341	0	0
+3342	0	0
+3343	0	0
+3344	0	0
+3345	0	0
+3346	0	0
+3347	0	0
+3348	0	0
+3349	0	0
+3350	0	0
+3351	0	0
+3352	0	0
+3353	0	0
+3354	0	0
+3355	0	0
+3356	0	0
+3357	0	0
+3358	0	0
+3359	0	0
+3360	0	0
+3361	0	0
+3362	0	0
+3363	0	0
+3364	0	0
+3365	0	0
+3366	0	0
+3367	0	0
+3368	0	0
+3369	0	0
+3370	0	0
+3371	0	0
+3372	0	0
+3373	0	0
+3374	0	0
+3375	0	0
+3376	0	0
+3377	0	0
+3378	0	0
+3379	0	0
+3380	0	0
+3381	0	0
+3382	0	0
+3383	0	0
+3384	0	0
+3385	0	0
+3386	0	0
+3387	0	0
+3388	0	0
+3389	0	0
+3390	0	0
+3391	0	0
+3392	0	0
+3393	0	0
+3394	0	0
+3395	0	0
+3396	0	0
+3397	0	Are these... tree roots or something?[0a]They're super-creepy...
+3398	0	Trees often represent life and[0a]fertility, but these roots look[0a]much more sinister than usual.
+3399	0	The elevator's not going to do us[0a]any good like this. I suppose we'll[0a]have to climb our way up.
+3400	0	We haven't much time. Do any[0a]stairwells reach the server room?
+3401	0	No, but if we can reach the main deck,[0a]we should find another elevator.
+3402	0	Then let's head there. See any places[0a]where we can gain elevation?
+3403	0	Yikes, check out this mess! Hey,[0a]Panther—think you can burn out[0a]some of this stuff?
+3404	0	You really want me to try that? If it[0a]worked, we'd be surrounded by fire[0a]pretty quick.
+3405	0	Now here's a problem—what else[0a]could we use to get higher?
+3406	0	The building infrastructure has[0a]become rather wild. It has been[0a]warped in an artful way.
+3407	0	Focus on the danger instead of the[0a]aesthetics—parts of this floor are[0a]crumbling.
+3408	0	Look, the wall's broken over there.[0a]You can see into the floor above us.
+3409	0	I bet we can get higher through[0a]there. Let's check it out, Joker.
+3410	0	This place is worse off than the[0a]floor below us. I wonder how[0a]bad it's going to get...
+3411	0	I only hope these roots don't keep us[0a]from reaching our destination.
+3412	0	If they get to be too much, just[0a]leave it to me. I'll mow anything[0a]down with my trusty axe!
+3413	0	Right, that's... great to hear.
+3414	0	Is this tower popular with tourists?
+3415	0	Quite, it's a historic landmark of[0a]Tokyo. Its marriage of function and[0a]form gives it an almost regal air.
+3416	0	We'll check it out when it's back to[0a]normal one day, Sophie—first, we[0a]have to turn it back the way it was.
+3417	0	Just as the death of suffering is nigh,[0a]the dawning of a new god too draws[0a]near.
+3418	0	Man shall attain its fate and be[0a]delivered from doubt and strife.[0a]Now, enter the Promised Land.
+3419	0	No way is that happening! I don't[0a]care how much doubt I have,[0a]I want my freedom!
+3420	0	Not only that—suffering can have[0a]positive outcomes as well, like[0a]how we all met.
+3421	0	Fools...
+3422	0	From the country's police forces to[0a]basically a god—you guys really know[0a]how to pick your battles, huh?
+3423	0	Yeah, true, we're good at pissin' off[0a]people in power. I guess it's just our[0a]specialty!
+3424	0	We all decided we're done playing[0a]the games of the wicked! We'll take[0a]on whoever's wrong, even a god!
+3425	0	Oh, yeah? Man, you guys are true-[0a]blue underdogs.
+3426	0	Hmm? Look, over there—a locked[0a]door.
+3427	0	This is merely conjecture, but I[0a]suspect that is EMMA's server room.
+3428	0	0
+3429	0	Stop! STOOOOP! Check out that[0a]room first!
+3430	0	I think we can reach the main deck[0a]through there.
+3431	0	All right, let's get on up there!
+3432	0	Tell me, why are you resisting this[0a]gift from your god?
+3433	0	You'll live on in a tranquil world,[0a]free of all pain, yet you oppose it[0a]with such fervor...
+3434	0	Because it's bullshit! If something[0a]sounds too good to be true, then it[0a]probably is.
+3435	0	Tranquility born from a lack of[0a]thought is nothing less than the[0a]death of the self!
+3436	0	How tragic...
+3437	0	0
+3438	0	0
+3439	0	0
+3440	0	0
+3441	0	0
+3442	0	0
+3443	0	0
+3444	0	0
+3445	0	Heeeey! Where'd everybody go!?
+3446	0	What IS this!? I can't get anywhere[0a]in this place!
+3447	0	Is this, like, a maze or something?
+3448	0	Could something in this fog[0a]be toying with us?
+3449	0	0
+3450	0	0
+3451	0	0
+3452	0	0
+3453	0	0
+3454	0	Everyone, don't let the path fool[0a]you!
+3455	0	Following it only sends you in[0a]circles!
+3456	0	You have to go off the path!
+3457	0	I recall the server room being[0a]around here.
+3458	0	But man, hacking EMMA to send out[0a]a calling card? Is that really possible?
+3459	0	It better be! I mean, it definitely is![0a]Otherwise, our whole world's done[0a]for!
+3460	0	The last battle's finally upon us...[0a]Make sure everyone's good and[0a]prepared!
+3461	0	I exist to grant humanity's true Desire. It is my[0a]divine calling to lead them to the Promised[0a]Land.
+3462	0	Should you intend to thwart humanity's goal[0a]of enlightenment, it is my duty as their god[0a]to vanquish you.
+3463	0	Its power is incredible... I can[0a]physically feel its pressure.
+3464	0	I never would've bet that I'd pick a[0a]fight with a god one day...
+3465	0	Brace yourselves, everyone! We're[0a]going all-out until this is settled!
+3466	0	Gah, it's barely moved a muscle and[0a]still it's hammerin' us with all sorts[0a]o' shit!
+3467	0	I can't read its moves!
+3468	0	We can't dodge its attacks like this...[0a]Oracle, is there anything you can do?
+3469	0	Just a sec—analysis in progress![0a]You'll have to hang in there a bit[0a]longer, sorry!
+3470	0	Yes! Attack patterns are analyzed!
+3471	0	Follow my instructions and you'll[0a]be able to dodge enemy attacks!
+3472	0	Flanking attack! Fall back, quick!
+3473	0	Frontal assault! Try dodging them!
+3474	0	These'll track you down! Keep[0a]running, try to shake 'em!
+3475	0	That entire platform's about to be[0a]toast! Can you make it to the next[0a]area over!?
+3476	0	Crap—surrounded! Beat those wings[0a]back open!
+3477	0	Discard your Desires. Allow me to[0a]grant you all the answers you need.
+3478	0	Now is the time for you to be freed[0a]from suffering.
+3479	0	Tch, it's still so unbothered...
+3480	0	But it's not as if our attacks are[0a]wholly ineffective. If we keep up[0a]the pressure, we can still win this!
+3481	0	Lost ones, why do you resist[0a]salvation? Your Desires bring[0a]you only pain.
+3482	0	As if lobotomizing all of humanity is[0a]any sort of salvation! 
+3483	0	Keep that kind of saving for yourself.[0a]It's not happening on our watch!
+3484	0	It's working! We just need one last[0a]push...
+3485	0	I'm not a heartless doll, I have my[0a]own will! Mine and mine alone!
+3486	0	Just like this fatal error you've taken[0a]under your wing, your hubris shall[0a]be your downfall.
+3487	0	You are living proof that I must guide humanity to the Promised Land.
+3488	0	*gasp* *pant* Did we do it!?
+3489	0	This is fruitless. I cannot discern the[0a]purpose of this conflict.
+3490	0	Dammit, it's still actin' all cool and[0a]shit... It's really pissin' me off!
+3491	0	If you still cannot comprehend the[0a]truth, then the knowledge shall[0a]come at the cost of your very lives.
+3492	0	Something's wrong...
+3493	0	Indeed, there is a problem. Could[0a]our attacks be lacking any effect?
+3494	0	Maybe it's invincible now that it's[0a]a god!? Like... no way, right!?
+3495	0	Maybe it has something to do with[0a]the change in form? Lemme analyze[0a]it, hang on!
+3496	0	Analysis complete—you gotta hear[0a]this!
+3497	0	Time to show you what REAL human[0a]strength is—we're gonna mess you[0a]up!
+3498	0	Let's kick some ass, Joker!
+3499	0	You never should've messed with[0a]humanity. Hope you're ready to[0a]pay the price!
+3500	0	It's go time, Joker!
+3501	0	As long as we're around, you're not[0a]getting your way!
+3502	0	Let's do this, Joker!
+3503	0	A world without freedom can never[0a]know beauty. I shall turn you to[0a]ribbons along with your scheme!
+3504	0	The time has come to end this,[0a]Joker!
+3505	0	My will is my own, and no one else's![0a]I won't let anyone tell me how to[0a]live!
+3506	0	Let's finish this, Joker!
+3507	0	I can take on anyone with my friends[0a]at my side—that even includes a god!
+3508	0	Let's go, Joker!
+3509	0	I refuse to allow all of humanity to[0a]be turned into dolls. My job is to[0a]stop you!
+3510	0	Let's put an end to this, Joker!
+3511	0	Since it's impossible to arrest a god,[0a]the Phantom Thieves get to punish[0a]you instead.
+3512	0	C'mon, let's get 'em, Joker!
+3513	0	Wha— Wha!? A warden!? How did[0a]that get here? Did that sphere called[0a]Keter summon it!?
+3514	0	Take out Keter first! You'll be[0a]in deep if it keeps summoning[0a]wardens!
+3515	0	You see that!? Even a god's no prob[0a]for us!
+3516	0	You got it from here, Joker!
+3517	0	You're going down! Your luck ran[0a]out the moment you underestimated[0a]the Phantom Thieves!
+3518	0	Go for the big finish, Joker!
+3519	0	Too late for you to beg for[0a]forgiveness—get lost!
+3520	0	Finish it with a bang, Joker!
+3521	0	I tire of your grotesque sight...[0a]At least your end can be beautiful!
+3522	0	Yes, Joker! Give us the final touch!
+3523	0	This is the price for trampling on the[0a]hearts of all humanity!
+3524	0	Joker! We believe in you!
+3525	0	We will stand our ground and fight[0a]for ourselves. A phony god like you[0a]won't stop us!
+3526	0	It's all yours now, Joker!
+3527	0	Your ultimate solution is built[0a]on faulty logic. We can't lose to[0a]someone like you!
+3528	0	Go, Joker!
+3529	0	That takes care of that. Looks like[0a]this high-and-mighty program's[0a]not so tough after all.
+3530	0	The rest is yours, Joker!
+3531	0	Wipe away these obstacles, Malkhut.[0a]Create the foundation for the ideal[0a]world.
+3532	0	Damn, a ton of Shadows just[0a]appeared! Looks like Malkhut[0a]can summon them!
+3533	0	Man is a fatally flawed organism.[0a]The proof lies in their legacy of[0a]irrational decisions.
+3534	0	Why would you oppose the creation[0a]of a perfect world? It would be the[0a]best solution for every one of you.
+3535	0	Not having a place to belong sucks,[0a]but if you don't got one, you just[0a]hafta make one for yourself!
+3536	0	That's what these guys taught me.[0a]It's how I know I don't need your[0a]shitty world!
+3537	0	As mankind searches for its own[0a]solution, it repeatedly strays from[0a]the correct path.
+3538	0	By accepting the answers I provide,[0a]you will all be freed of the pain that[0a]accompanies failure.
+3539	0	That's not how it works at all! There[0a]are all sorts of things to gain while[0a]looking for your answer.
+3540	0	The memories I share with these[0a]guys would be impossible to make[0a]in your world!
+3541	0	Do you truly understand your[0a]actions?
+3542	0	Hear me when I say I have formed[0a]the ultimate solution. Humanity[0a]will be delivered from its suffering.
+3543	0	We're not saying we want to suffer![0a]Humans hate to endure suffering and[0a]grief...
+3544	0	But I know there are amazing things on[0a]the other side of that pain and grief![0a]And I want to find them for myself!
+3545	0	Desires are nothing but evil[0a]temptations, leading humans[0a]down a path of suffering.
+3546	0	Entrust your Desires to me—or do[0a]you prefer to languish in despair?
+3547	0	Despair instills no fear in me. As long[0a]as I have the will to stand once more,[0a]I shall forge my own path!
+3548	0	My companions are the ones who[0a]led me to that realization—as if you[0a]could ever comprehend that!
+3549	0	Humanity shrinks from difficult[0a]decisions and grows exhausted[0a]by endless possibilities.
+3550	0	I shall be the end to that suffering.[0a]Are you not in search of such an[0a]answer as well?
+3551	0	Fearing repercussions, accepting any[0a]answer foisted on me? I am not that[0a]"good girl" anymore.
+3552	0	I won't give up who I am just to[0a]please someone else. I am fighting[0a]to live my life for myself!
+3553	0	Deceit... Arrogance... Jealousy...[0a]The world is full of such malice[0a]in its current state.
+3554	0	The Promised Land is a place of[0a]equality and righteousness. True[0a]peace will be realized there.
+3555	0	I would love to live in a world where[0a]people don't get hurt...
+3556	0	But we have to make that world for[0a]ourselves if we're going to have a[0a]chance! It can't be forced on us!
+3557	0	Flawed prototype: you are unable[0a]to provide humanity the correct[0a]answer.
+3558	0	However, you still have the chance[0a]to correct this. Discard your heart[0a]and join me in the promised land.
+3559	0	You are not the one who determines[0a]whether or not I have the answer!
+3560	0	I'll keep searching for the right[0a]answer myself, no matter how[0a]long it takes!
+3561	0	I do not comprehend why you deny[0a]my answer. I can guide you to the[0a]Promised Land. I can save all of you.
+3562	0	There will be no loss, no grief...[0a]yet you continue to resist?
+3563	0	Loss is scary, especially to a coward[0a]like me, and it only gets scarier once[0a]you lose someone important...
+3564	0	But what's even scarier is just giving[0a]up! Then I wouldn't be able to[0a]protect the people I still have left!
+3565	0	I shall grant you foolish obstructors[0a]the gift of eternal slumber.
+3566	0	Energy levels are going through the[0a]roof! It's about to wallop you guys![0a]Run for it!
+3567	0	To think you would turn your blades[0a]against a benevolent god...
+3568	0	It's recoiling! Now's your chance to[0a]attack!
+3569	0	Why...? Desires are the root of all[0a]suffering. Unfathomable...[0a]Unfathomable!
+3570	0	You're doing it! Just one more big[0a]push to go—hang in there!
+3571	0	Chokmah, grant them my divine[0a]revelation.
+3572	0	Watch out, Chokmah has multiple[0a]affinity attacks! Don't go ignoring[0a]your weaknesses!
+3573	0	Binah, silence these ignorant[0a]transgressors.
+3574	0	Looks like Binah inflicts status[0a]ailments. Make sure you heal[0a]often!
+3575	0	Chesed, bless them with god's[0a]beneficence.
+3576	0	Chesed's healing the rest of them!
+3577	0	Gevurah, let the proclamation ring[0a]out: fear god or face divine wrath.
+3578	0	Gevurah can force weaknesses[0a]onto you! Make sure you don't[0a]get knocked down!
+3579	0	Tiferet, protect the Promised Land.
+3580	0	Looks like Tiferet is boosting the[0a]enemy's defenses... We should take[0a]that one down as soon as possible!
+3581	0	Netzach, claim our rightful triumph.
+3582	0	Look out, Netzach can charge you—[0a]just dodge and counterattack!
+3583	0	Hod, demonstrate god's glory for[0a]the unbelievers.
+3584	0	Crap, crap, crap! That Hod is BAD[0a]news! It has a super-scary move!
+3585	0	Yesod, purify these humans tainted[0a]with ruinous Desires.
+3586	0	Looks like Yesod uses [1b]M0~8~Bless[0a]and [1b]M0~9~Curse attacks—steer[0a]clear if you're weak to those!
+3587	0	The spheres are dropping one by[0a]one. We're halfway there now![0a]Keep it up, guys!
+3588	0	Desires... Humanity's... Desires...[0a]Unfathomable... Unfathomable...
+3589	0	The enemy's down! It's weakened,[0a]too—now's our chance!
+3590	0	All right, everybody together![0a]Let's finish this for good!
+3591	0	So, if we mess up the server, won't[0a]that shut down EMMA, or whatever[0a]that god is?
+3592	0	But EMMA is still active despite the[0a]server already being shut down[0a]once before.
+3593	0	Not only that, but we don't know[0a]how destroying the server could[0a]affect all the people...
+3594	0	Seems like the safest thing to do[0a]with that room for now is ignore[0a]it. Let's keep climbing.
+3595	0	My dear, lost, suffering flock... I have[0a]come to provide you the ultimate[0a]solution to your troubles...
+3596	0	All you must do is follow the path...
+3597	0	One sphere down!
+3598	0	0
+3599	0	0
+3600	0	0
+3601	0	0
+3602	0	0
+3603	0	0
+3604	0	0
+3605	0	......
+3606	0	The Desires of mankind are the root[0a]of their misfortune. Bring this to light[0a]for them, Keter.
+3607	0	Personally, I'd never call such a [0a]dreary abomination "artistic."
+3608	0	EMMA has all the answers...
+3609	0	I need EMMA... I can't[0a]live without EMMA...
+3610	0	EMMA is the reason[0a]I'm still alive...
+3611	0	Someone, guide me...
+3612	0	Hard work never pays off...
+3613	0	I don't just know anymore...
+3614	0	The sphere's down! Now you can[0a]really lay into that Demiurge!
+3615	0	Something's keeping me[0a]from proceeding... What[0a]am I supposed to do now?
+3616	0	Ask EMMA
+3617	0	Carve my own path
+3618	0	I should obey EMMA...
+3619	0	I have to get through this.[0a]I should be able to force[0a]my way through if I try...
+3620	0	Once we get on this, there's no turning back.[0a]It'll be the final battle.
+3621	0	I'm absolutely certain every one of the[0a]Phantom Thieves will need to pull their[0a]weight in this one.
+3622	0	Whether they're on the frontline or they're[0a]backup, everybody needs to be prepared.
+3623	0	With all that said, do you think we're ready,[0a]Joker?
+3624	0	Yep, let's go.
+3625	0	Not yet.
+3626	0	All right, let's do it!
+3627	0	Okay, just make sure you've done everything[0a]you can for the team.
+3628	0	We could even take a checkpoint back to[0a]the hideout if you think we really need to[0a]regroup.
+3629	0	0
+3630	0	0
+3631	0	0
+3632	0	0
+3633	0	0
+3634	0	0
+3635	0	0
+3636	0	0
+3637	0	0
+3638	0	0
+3639	0	0
+3640	0	0
+3641	0	0
+3642	0	0
+3643	0	0
+3644	0	0
+3645	0	0
+3646	0	0
+3647	0	0
+3648	0	0
+3649	0	0
+3650	0	0
+3651	0	0
+3652	0	0
+3653	0	0
+3654	0	0
+3655	0	0
+3656	0	0
+3657	0	0
+3658	0	0
+3659	0	0
+3660	0	0
+3661	0	0
+3662	0	0
+3663	0	0
+3664	0	0
+3665	0	0
+3666	0	0
+3667	0	0
+3668	0	0
+3669	0	0
+3670	0	0
+3671	0	0
+3672	0	0
+3673	0	0
+3674	0	0
+3675	0	0
+3676	0	0
+3677	0	0
+3678	0	0
+3679	0	0
+3680	0	0
+3681	0	0
+3682	0	0
+3683	0	0
+3684	0	0
+3685	0	0
+3686	0	0
+3687	0	0
+3688	0	0
+3689	0	0
+3690	0	0
+3691	0	0
+3692	0	0
+3693	0	0
+3694	0	0
+3695	0	0
+3696	0	0
+3697	0	0
+3698	0	0
+3699	0	0
+3700	0	Be careful, guys! This one's really tough!
+3701	0	So uhh... My stomach just growled.[0a]You think the Shadows could hear?
+3702	0	Remember how we used to go[0a]tearin' through Palaces together?[0a]Ahh... Good times.
+3703	0	Here we go again... Good thing we've[0a]got Joker on our side!
+3704	0	Man, it's times like these I know I'm[0a]supposed to be a Phantom Thief.
+3705	0	Let's get something sweet after this![0a]I think we deserve a little reward, [0a]yeah?
+3706	0	Oh! I just remembered...[0a]Hey, Joker, did you already[0a]finish your homework?
+3707	0	These Jails certainly have an appeal [0a]unlike that of a Palace. Should things [0a]settle down, I'd love to paint one.
+3708	0	Hm!? This composition... This would[0a]make for an excellent painting!
+3709	0	I wonder if these Jails are bigger than[0a]Palaces... Bet it'd be nice to cruise[0a]around here on Johanna.
+3710	0	Just to make sure, is everyone ready[0a]and alert? We need to be prepared[0a]for whatever comes our way.
+3711	0	I feel like we're always going up and[0a]down in these Jails. It must be pretty[0a]difficult to remember the layout.
+3712	0	Hm, this axe is super easy to swing.[0a]I guess all that firewood-chopping [0a]really paid off.
+3713	0	Dang, these Jails are humongous.[0a]Be sure to check your map every[0a]now and then.
+3714	0	What's with this place's layout? Just[0a]reading the map makes my head hurt.
+3715	0	Hmm♪ Hmm♪
+3716	0	Hey, everyone, would you say I'm[0a]useful? I really hope so.
+3717	0	Never in my life did I imagine[0a]becoming a phantom thief.[0a]What would Akane say about this?
+3718	0	You know, I just have to put it out[0a]there. This outfit? It's freakin' badass.
+3719	0	0
+3720	0	0
+3721	0	0
+3722	0	0
+3723	0	0
+3724	0	0
+3725	0	0
+3726	0	0
+3727	0	0
+3728	0	0
+3729	0	0
+3730	0	0
+3731	0	0
+3732	0	0
+3733	0	0
+3734	0	0
+3735	0	0
+3736	0	0
+3737	0	0
+3738	0	0
+3739	0	0
+3740	0	0
+3741	0	0
+3742	0	0
+3743	0	0
+3744	0	0
+3745	0	0
+3746	0	0
+3747	0	0
+3748	0	0
+3749	0	0
+3750	0	0
+3751	0	0
+3752	0	0
+3753	0	0
+3754	0	0
+3755	0	0
+3756	0	0
+3757	0	0
+3758	0	0
+3759	0	0
+3760	0	0
+3761	0	0
+3762	0	0
+3763	0	0
+3764	0	0
+3765	0	0
+3766	0	0
+3767	0	0
+3768	0	0
+3769	0	0
+3770	0	0
+3771	0	0
+3772	0	0
+3773	0	0
+3774	0	0
+3775	0	0
+3776	0	0
+3777	0	0
+3778	0	0
+3779	0	0
+3780	0	0
+3781	0	0
+3782	0	0
+3783	0	0
+3784	0	0
+3785	0	0
+3786	0	0
+3787	0	0
+3788	0	0
+3789	0	0
+3790	0	0
+3791	0	0
+3792	0	0
+3793	0	0
+3794	0	0
+3795	0	0
+3796	0	0
+3797	0	0
+3798	0	0
+3799	0	0
+3800	0	It seems it won't open...
+3801	0	I should obey EMMA...
+3802	0	I'll be mocked[0a]if I go this way...
+3803	0	It'd be best to do what[0a]everyone else does...
+3804	0	I should follow the[0a]path laid out for me...
+3805	0	**怜喧縺代ヱ繧*繝*繝*
+3806	0	It looks delicious...
+3807	0	It seems we can't[0a]go through here...
+3808	0	I should take a good[0a]look around first...
+3809	0	It's the tape recorder[0a]with the record of what[0a]transpired in this lab...
+3810	0	It's a fox statue so detailed,[0a]it looks like it could move on[0a]its own any moment now...
+3811	0	We can't cross the drawbridge[0a]while it's raised like this...
+3812	0	We can't go any further with[0a]this ice wall in our way...
+3813	0	0
+3814	0	0
+3815	0	0
+3816	0	0
+3817	0	0
+3818	0	0
+3819	0	0
+3820	0	0
+3821	0	0
+3822	0	0
+3823	0	0
+3824	0	0
+3825	0	0
+3826	0	0
+3827	0	0
+3828	0	0
+3829	0	0
+3830	0	0
+3831	0	0
+3832	0	0
+3833	0	0
+3834	0	0
+3835	0	0
+3836	0	0
+3837	0	0
+3838	0	0
+3839	0	0
+3840	0	0
+3841	0	0
+3842	0	0
+3843	0	0
+3844	0	0
+3845	0	0
+3846	0	0
+3847	0	0
+3848	0	0
+3849	0	0
+3850	0	0
+3851	0	0
+3852	0	0
+3853	0	0
+3854	0	0
+3855	0	0
+3856	0	0
+3857	0	0
+3858	0	0
+3859	0	0
+3860	0	0
+3861	0	0
+3862	0	0
+3863	0	0
+3864	0	0
+3865	0	0
+3866	0	0
+3867	0	0
+3868	0	0
+3869	0	0
+3870	0	0
+3871	0	0
+3872	0	0
+3873	0	0
+3874	0	0
+3875	0	0
+3876	0	0
+3877	0	0
+3878	0	0
+3879	0	0
+3880	0	0
+3881	0	0
+3882	0	0
+3883	0	0
+3884	0	0
+3885	0	0
+3886	0	0
+3887	0	0
+3888	0	0
+3889	0	0
+3890	0	0
+3891	0	0
+3892	0	0
+3893	0	0
+3894	0	0
+3895	0	0
+3896	0	0
+3897	0	0
+3898	0	0
+3899	0	0
+3900	0	0
+3901	0	0
+3902	0	0
+3903	0	0
+3904	0	0
+3905	0	0
+3906	0	0
+3907	0	0
+3908	0	0
+3909	0	0
+3910	0	0
+3911	0	0
+3912	0	0
+3913	0	0
+3914	0	0
+3915	0	0
+3916	0	0
+3917	0	0
+3918	0	0
+3919	0	0
+3920	0	0
+3921	0	0
+3922	0	0
+3923	0	0
+3924	0	0
+3925	0	0
+3926	0	0
+3927	0	0
+3928	0	0
+3929	0	0
+3930	0	0
+3931	0	0
+3932	0	0
+3933	0	0
+3934	0	0
+3935	0	0
+3936	0	0
+3937	0	0
+3938	0	0
+3939	0	0
+3940	0	0
+3941	0	0
+3942	0	0
+3943	0	0
+3944	0	0
+3945	0	0
+3946	0	0
+3947	0	0
+3948	0	0
+3949	0	0
+3950	0	0
+3951	0	0
+3952	0	0
+3953	0	0
+3954	0	0
+3955	0	0
+3956	0	0
+3957	0	0
+3958	0	0
+3959	0	0
+3960	0	0
+3961	0	0
+3962	0	0
+3963	0	0
+3964	0	0
+3965	0	0
+3966	0	0
+3967	0	0
+3968	0	0
+3969	0	0
+3970	0	0
+3971	0	0
+3972	0	0
+3973	0	0
+3974	0	0
+3975	0	0
+3976	0	0
+3977	0	0
+3978	0	0
+3979	0	0
+3980	0	0
+3981	0	0
+3982	0	0
+3983	0	0
+3984	0	0
+3985	0	0
+3986	0	0
+3987	0	0
+3988	0	0
+3989	0	0
+3990	0	0
+3991	0	0
+3992	0	0
+3993	0	0
+3994	0	0
+3995	0	0
+3996	0	0
+3997	0	0
+3998	0	0
+3999	0	0
