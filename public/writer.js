@@ -23,24 +23,38 @@ async function writeFile(filePath, jsonData) {
         }
         ptrfmt = `<${Math.floor(jsonData.bSize/4)}I`;
     } else {
-        if (jsonData.data[0].bustupMajor !== undefined) {
-            for (let i = 0; i<jsonData.bCount; i++) {
-                const currentData = jsonData.data[i];
-                const ptr = [];
-                const strBuffer = Buffer.from(currentData.text.replace("[0a]", "\x0a").replace("[1b]", "\x1b") + "\0", "utf-8")
-                ptr.push(stringOffset);
-                stringOffset += strBuffer.length;
-                strs[i] = strBuffer;
-                ptr.push(currentData.msgIndex);
+        for (let i = 0; i<jsonData.bCount; i++) {
+            const currentData = jsonData.data[i];
+            const ptr = [];
+            const strBuffer = Buffer.from(currentData.text.replace("[0a]", "\x0a").replace("[1b]", "\x1b") + "\0", "utf-8");
+            ptr.push(stringOffset);
+            stringOffset += strBuffer.length;
+            strs[i] = strBuffer;
+            ptr.push(currentData.msgIndex);
+            if (currentData.bustupMajor !== undefined) {
                 ptr.push(currentData.bustupMajor === -1 ? 65535 : currentData.bustupMajor);
                 ptr.push(currentData.bustupMinor === -1 ? 65535 : currentData.bustupMinor);
                 ptr.push(currentData.unknown === -1 ? 65535 : currentData.unknown);
                 ptr.push(currentData.voiceIndex === -1 ? 65535 : currentData.voiceIndex)
                 ptr.push(currentData.isNextChoice ? 1 : 0);
-                ptrs.push(ptr);
+                
+            } else if (currentData.videoId !== undefined) {
+                ptr.push(currentData.videoId);
+                ptr.push(currentData.startFrame)
+                ptr.push(currentData.endFrame)
+            } else if (currentData.location !== undefined) {
+                ptr.push(currentData.location);
+                ptr.push(currentData.voiceIndex);
+                ptr.push(currentData.unknown2)
+                ptr.push(currentData.unknown3)
+                ptr.push(currentData.unknown4)
+                ptr.push(currentData.unknown5)
+                ptr.push(currentData.unknown6)
+                
             }
+            ptrs.push(ptr);
         }
-        ptrfmt = `<I${Math.floor((jsonData.bSize - 4) / 2)}H`
+        ptrfmt = `<I${Math.floor((jsonData.bSize - 4) / 2)}h`
     }
     
     const outputFile = await fsPromises.open(filePath, "w");

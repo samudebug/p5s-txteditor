@@ -104,7 +104,7 @@ async function exportFile(event, data) {
 }
 
 async function openFile(event, data) {
-    const [filePath] = dialog.showOpenDialogSync(win, {
+    const filePaths = dialog.showOpenDialogSync(win, {
         title: "Open P5S text file",
         filters: [
             {   
@@ -114,9 +114,9 @@ async function openFile(event, data) {
         ],
         properties: ["openFile"]
     });
-    if (filePath !== undefined) {
+    if (filePaths !== undefined) {
         try {
-            const fileData = await readFile(filePath);
+            const fileData = await readFile(filePaths[0]);
             event.reply("opened-file-data", fileData);
         }catch(error) {
             console.error(error);
@@ -135,6 +135,7 @@ function createWindow() {
     const menu = Menu.buildFromTemplate(menuTemplate);
     win = new BrowserWindow({width: 800, height: 600, icon: './favicon.ico', webPreferences: {nodeIntegration: true}});
     win.loadURL("http://localhost:3000/")
+    win.webContents.openDevTools({mode: 'detach'})
     // win.loadURL(url.format({
     //     pathname: path.join(__dirname, '/../build/index.html'),
     //     protocol: 'file:',

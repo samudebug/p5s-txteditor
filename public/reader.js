@@ -21,25 +21,26 @@ async function readFile(filePath) {
     // });
     const [fileMagic, bCount, bSize] = jsPack.jspack.Unpack("<3I", isMsgBuff, 0);
     const MAGIC = 0x16121900;
-    if (fileMagic != MAGIC) {
+    if (fileMagic !== MAGIC) {
         throw {message: "Not msg file"};
     }
-    const isGroupedBuff = Buffer.alloc(4);
-    const readPosition = 0x40 + (bSize - 4);
-    await file.read(isGroupedBuff, 0, 4, readPosition)
+    // const isGroupedBuff = Buffer.alloc(4);
+    // const readPosition = 0x40 + (bSize - 4);
+    // await file.read(isGroupedBuff, 0, 4, readPosition)
     // await file.read({
     //     buffer: isGroupedBuff,
     //     length: 4,
     //     position: readPosition
     // });
-    const [isGroupedNum] = jsPack.jspack.Unpack("<I", isGroupedBuff, 0);
-    const isGrouped = isGroupedNum == 0;
+    // const [isGroupedNum] = jsPack.jspack.Unpack("<I", isGroupedBuff, 0);
+    // const isGrouped = isGroupedNum == 0;
+    const isGrouped = Math.floor(bSize / 4) === 2;
     resultJson.isGrouped = isGrouped;
     resultJson.bCount = bCount;
     resultJson.bSize = bSize;
     const stringStartOffset = 0x40 + bCount * bSize;
     const ptrs = [];
-    const ptrfmt = isGrouped ? `<${Math.floor(bSize/4)}I` : `<I${Math.floor((bSize - 4) / 2)}H`;
+    const ptrfmt = isGrouped ? `<${Math.floor(bSize/4)}I` : `<I${Math.floor((bSize - 4) / 2)}h`;
 
     for (let i = 0; i < bCount; i++) {
         const ptrBuff = Buffer.alloc(bSize);
@@ -58,20 +59,32 @@ async function readFile(filePath) {
         let stringLenght = 0;
         const data = {
             
-            msgIndex: 0,
+            msgIndex: ptr[1] === 65535 ? -1: ptr[1],
             text: ""
         }
         if (!isGrouped) {
-            if (ptr.length == 7) {
-                data.msgIndex = ptr[1] == 65535 ? -1: ptr[1];
-                data.bustupMajor = ptr[2] == 65535 ? -1: ptr[2];
-                data.bustupMinor = ptr[3] == 65535 ? -1: ptr[3];
-                data.unknown = ptr[4] == 65535 ? -1: ptr[4];
-                data.voiceIndex = ptr[5] == 65535 ? -1: ptr[5];
-                data.isNextChoice = ptr[6] == 1;
+            if (ptr.length === 7) {
+                data.bustupMajor = ptr[2] === 65535 ? -1: ptr[2];
+                data.bustupMinor = ptr[3] === 65535 ? -1: ptr[3];
+                data.unknown = ptr[4] === 65535 ? -1: ptr[4];
+                data.voiceIndex = ptr[5] === 65535 ? -1: ptr[5];
+                data.isNextChoice = ptr[6] === 1;
+            }
+            if (ptr.length === 9) {
+                data.location = ptr[2];
+                data.voiceIndex = ptr[3]; 
+                data.unknown2 = ptr[4]; 
+                data.unknown3 = ptr[5];
+                data.unknown4 = ptr[6]; 
+                data.unknown5 = ptr[7]; 
+                data.unknown6 = ptr[8];
+            }
+            if (ptr.length === 5) {
+                data.videoId = ptr[2];
+                data.startFrame = ptr[3];
+                data.endFrame = ptr[4];
             }
         } else  {
-            data.msgIndex =  ptr[1] == 65535 ? -1: ptr[1];
             data.group = ptr.length - 2;
         }
         if (i+1 !== ptrs.length) {
@@ -107,6 +120,4 @@ async function readFile(filePath) {
     file.close();
     return resultJson
 }
-
-
 module.exports = readFile;
