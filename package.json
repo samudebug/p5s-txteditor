@@ -2,7 +2,8 @@
   "name": "p5s-msgeditor",
   "version": "0.1.0",
   "private": true,
-  "main": "public/main.js",
+  "main": "public/electron.js",
+  "homepage": "./",
   "dependencies": {
     "@ant-design/icons": "^4.5.0",
     "@testing-library/jest-dom": "^5.11.9",
@@ -24,7 +25,8 @@
     "electron-start": "electron .",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "publish": "npm run build && electron-builder"
   },
   "eslintConfig": {
     "extends": [
@@ -45,6 +47,15 @@
     ]
   },
   "devDependencies": {
-    "electron": "^11.3.0"
+    "concurrently": "^6.0.0",
+    "electron": "^11.3.0",
+    "electron-builder": "^22.10.5",
+    "wait-on": "^5.2.1"
+  },
+  "build": {
+    "appId": "com.crisbug.p5seditor",
+    "win": {
+      "icon": "build/favicon.ico"
+    }
   }
 }

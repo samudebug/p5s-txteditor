@@ -37,7 +37,7 @@ function ItemsList(props) {
     }
     return <List
         key="list"
-            height={500}
+            height={440}
             itemCount={props.itemCount}
             itemSize={300}
             width={780}

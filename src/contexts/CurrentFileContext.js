@@ -5,6 +5,7 @@ const currentFileContext = createContext();
 
 function ProvideFile({children}) {
     const file = useProvideFile();
+    
     return (
         <currentFileContext.Provider value={file}>
             {children}
@@ -17,15 +18,17 @@ function useFile() {
 }
 
 function useProvideFile() {
-    const [file, setFile] = useState({});
+    const getFile = () => {
+        return JSON.parse(localStorage.getItem("file"));
+    }
     
     const addFile = (file, cb) => {
-        setFile(file);
+        localStorage.setItem("file", JSON.stringify(file));
         cb();
     }
 
     return {
-        file,
+        file: getFile,
         addFile
     }
 }

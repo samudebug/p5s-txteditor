@@ -8,6 +8,7 @@ import Banner from './banner/Banner';
 const {Header, Footer} = Layout;
 
 function App() {
+
   return (
     <div className="app">
       <Layout className="wrapper">
