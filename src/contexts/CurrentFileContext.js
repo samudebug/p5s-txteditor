@@ -1,4 +1,4 @@
-import {createContext, useContext, useState} from 'react';
+import {createContext, useContext} from 'react';
 
 
 const currentFileContext = createContext();
@@ -19,7 +19,9 @@ function useFile() {
 
 function useProvideFile() {
     const getFile = () => {
-        return JSON.parse(localStorage.getItem("file"));
+        const fileData = JSON.parse(localStorage.getItem("file"));
+        
+        return fileData
     }
     
     const addFile = (file, cb) => {
