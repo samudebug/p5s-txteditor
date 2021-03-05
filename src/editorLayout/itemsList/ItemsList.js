@@ -18,7 +18,7 @@ function ItemsList(props) {
         );
     }
     const ListItem = (itemProps) => {
-        const [text, setText] = useState(strs[itemProps.index])
+        const [text, setText] = useState(file.file().data[itemProps.index].text)
         return <Col span={24} className="editor-col">
                     <div className="box-wrapper" >
                         <img src={box} alt="box" className="box" />

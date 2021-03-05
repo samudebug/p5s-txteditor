@@ -1,6 +1,6 @@
 {
   "name": "p5s-msgeditor",
-  "version": "0.1.0",
+  "version": "1.0.1",
   "private": true,
   "main": "public/electron.js",
   "homepage": "./",
@@ -56,7 +56,8 @@
   "build": {
     "appId": "com.crisbug.p5seditor",
     "win": {
-      "icon": "build/favicon.ico"
+      "icon": "build/favicon.ico",
+      "target": "portable"
     }
   }
 }

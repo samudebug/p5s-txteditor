@@ -24,6 +24,8 @@ function EditorLayout() {
         // electron.ipcRenderer.on("invoke-open", (event, data) => {
         //     electron.ipcRenderer.send("open-file", {});
         // })
+
+        electron.ipcRenderer.send("has-rendered", {});
         
         electron.ipcRenderer.on("invoke-export", (event, data) => {
             electron.ipcRenderer.send("export-file", fileContext.file());
@@ -37,6 +39,10 @@ function EditorLayout() {
                 history.go(0)
             })
         })
+        electron.ipcRenderer.on("invoke-open-project", (event, data) => {
+            electron.ipcRenderer.send("open-project", {});
+        })
+
         electron.ipcRenderer.on("invoke-open", (event, data) => {
             electron.ipcRenderer.send("open-file", {});
         })

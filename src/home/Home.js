@@ -14,6 +14,9 @@ function Home() {
     useEffect(() => {
         electron.ipcRenderer.on("invoke-open", (event, data) => {
             electron.ipcRenderer.send("open-file", {});
+            electron.ipcRenderer.on("file-is-opening", (event, data) => {
+                history.replace({pathname: '/loading'});
+            })
         })
         
         electron.ipcRenderer.on("invoke-open-project", (event, data) => {
@@ -40,8 +43,8 @@ function Home() {
     const click = () => {
         // inpRef.current.click();
         electron.ipcRenderer.send("open-file", {});
-        electron.ipcRenderer.on("opened-file-data", (event, data) => {
-            openFile(data);
+        electron.ipcRenderer.on("file-is-opening", (event, data) => {
+            // history.replace({pathname: '/loading'});
         })
     }
     return (

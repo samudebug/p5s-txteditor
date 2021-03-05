@@ -116,8 +116,9 @@ async function openFile(event, data) {
     });
     if (filePaths !== undefined) {
         try {
+            event.reply("file-is-opening", {});
             const fileData = await readFile(filePaths[0]);
-            event.reply("opened-file-data", fileData);
+            win.webContents.send("opened-file-data", fileData)
         }catch(error) {
             console.error(error);
             dialog.showErrorBox("Error", "An error ocurred while opening the file");
@@ -134,14 +135,21 @@ function saveProject(filePath, jsonData) {
 function createWindow() {
     const menu = Menu.buildFromTemplate(menuTemplate);
     win = new BrowserWindow({width: 800, height: 600, icon: './favicon.ico', webPreferences: {nodeIntegration: true}});
-    win.loadURL("http://localhost:3000/")
-    win.webContents.openDevTools({mode: 'detach'})
-    // win.loadURL(url.format({
-    //     pathname: path.join(__dirname, '/../build/index.html'),
-    //     protocol: 'file:',
-    //     slashes: true
-    // }))
+    // win.loadURL("http://localhost:3000/")
+    win.setMenuBarVisibility(false);
+    // win.webContents.openDevTools({mode: "detach"});
+    win.loadURL(url.format({
+        pathname: path.join(__dirname, '/../build/index.html'),
+        protocol: 'file:',
+        slashes: true
+    }))
     Menu.setApplicationMenu(menu)
+    ipcMain.on("hide-menu", (event, data) => {
+        win.setMenuBarVisibility(false);
+    })
+    ipcMain.on("has-rendered", (event, data) => {
+        win.setMenuBarVisibility(true);
+    })
     ipcMain.on("save-data", saveDataCallback);
     ipcMain.on("open-file", openFile);
     ipcMain.on("open-project", openProject)

@@ -10,7 +10,7 @@
             "request": "launch",
             "program": "${file}",
             "console": "integratedTerminal",
-            "args": ["pack", ".\\Alice_007_Velvet.evd.txt", ".\\Alice_007_Velvet.evd"]
+            "args": ["unpack", "C:\\Users\\samue\\Downloads\\Cethleann (1)\\out\\LINKDATA\\text\\CAllTextGoalFixData[0].tfd"]
         }
     ]
 }
