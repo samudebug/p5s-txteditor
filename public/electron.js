@@ -135,14 +135,14 @@ function saveProject(filePath, jsonData) {
 function createWindow() {
     const menu = Menu.buildFromTemplate(menuTemplate);
     win = new BrowserWindow({width: 800, height: 600, icon: './favicon.ico', webPreferences: {nodeIntegration: true}});
-    // win.loadURL("http://localhost:3000/")
+    win.loadURL("http://localhost:3000/")
     win.setMenuBarVisibility(false);
-    // win.webContents.openDevTools({mode: "detach"});
-    win.loadURL(url.format({
-        pathname: path.join(__dirname, '/../build/index.html'),
-        protocol: 'file:',
-        slashes: true
-    }))
+    win.webContents.openDevTools({mode: "detach"});
+    // win.loadURL(url.format({
+    //     pathname: path.join(__dirname, '/../build/index.html'),
+    //     protocol: 'file:',
+    //     slashes: true
+    // }))
     Menu.setApplicationMenu(menu)
     ipcMain.on("hide-menu", (event, data) => {
         win.setMenuBarVisibility(false);

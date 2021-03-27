@@ -1,9 +1,9 @@
-import { Layout, Spin } from 'antd';
+import { Layout, Spin, Row, Col } from 'antd';
 import { useEffect } from 'react';
 import { useHistory } from 'react-router-dom';
 import { useFile } from '../contexts/CurrentFileContext'
 import { LoadingOutlined } from '@ant-design/icons'
-const { Content, Row, Col } = Layout;
+const { Content} = Layout;
 const electron = window.require("electron");
 
 const antIcon = <LoadingOutlined style={{fontSize: 24}} spin />;
@@ -15,7 +15,7 @@ function Loading(props) {
         electron.ipcRenderer.send("hide-menu", {});
         electron.ipcRenderer.on("opened-file-data", (event, data) => {
             fileContext.addFile(data, () => {
-                // history.replace({pathname: "/edit"})
+                history.replace({pathname: "/edit"})
             });
             
         })

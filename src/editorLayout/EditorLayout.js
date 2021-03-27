@@ -45,6 +45,9 @@ function EditorLayout() {
 
         electron.ipcRenderer.on("invoke-open", (event, data) => {
             electron.ipcRenderer.send("open-file", {});
+            electron.ipcRenderer.on("file-is-opening", (event, data) => {
+                history.replace({pathname: '/loading'});
+            })
         })
         return () => {
             electron.ipcRenderer.removeAllListeners();

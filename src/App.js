@@ -27,7 +27,9 @@ function App() {
                 <Route exact path="/edit" component={EditorLayout}>
                   
                 </Route>
-                {/* <Route exact path="/loading" component={Loading}></Route> */}
+                <Route exact path="/loading">
+                  <Loading></Loading>
+                </Route>
                 <Route path="/" component={Home}>
 
                 </Route>

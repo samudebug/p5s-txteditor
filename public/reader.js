@@ -73,7 +73,7 @@ async function readFile(filePath) {
     }
 
     file.close();
-    fs.writeFileSync("C:\\Users\\samue\\Documents\\msgjson\\CAllTextGoalFixData[0].json", JSON.stringify(resultJson, null, 4));
+    // fs.writeFileSync("C:\\Users\\samue\\Documents\\msgjson\\CAllTextGoalFixData[0].json", JSON.stringify(resultJson, null, 4));
     return resultJson;
 }
 
